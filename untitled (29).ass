@@ -1,0 +1,1301 @@
+﻿[Script Info]
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: no
+ScriptType: v4.00+
+Synch Point: 1
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0.00,1,2,1,2,5,5,15,1
+Style: 译文字幕,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0.00,1,2,1,2,5,5,15,1
+Style: 原文字幕,微软雅黑,14,&H00FFFFFF,&HF0000000,&H00H202020,&H32000000,0,0,0,0,100,100,0,0.00,1,2,1,2,5,5,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:38.56,0:00:41.58,译文字幕,,0,0,0,,【非 常 嫌 疑 犯】
+Dialogue: 0,0:02:18.38,0:02:22.32,译文字幕,,0,0,0,,圣佩德罗  加利福尼亚  昨晚
+Dialogue: 0,0:03:34.10,0:03:36.00,译文字幕,,0,0,0,,情况怎么样，基顿？\N{\r原文字幕}How you doing, Keaton?
+Dialogue: 0,0:03:39.40,0:03:41.30,译文字幕,,0,0,0,,我的双腿失去了知觉…\N{\r原文字幕}I can't feel my legs...
+Dialogue: 0,0:03:43.90,0:03:45.30,译文字幕,,0,0,0,,凯撒\N{\r原文字幕}Keyser
+Dialogue: 0,0:03:49.40,0:03:50.70,译文字幕,,0,0,0,,准备好了吗？\N{\r原文字幕}Ready?
+Dialogue: 0,0:04:02.40,0:04:03.70,译文字幕,,0,0,0,,现在是什么时候了？\N{\r原文字幕}What time is it?
+Dialogue: 0,0:04:05.10,0:04:06.30,译文字幕,,0,0,0,,十二点半\N{\r原文字幕}12:30
+Dialogue: 0,0:05:11.90,0:05:14.80,译文字幕,,0,0,0,,一切得从六星期前的纽约说起\N{\r原文字幕}It all started back in New York six weeks ago.
+Dialogue: 0,0:05:14.90,0:05:18.50,译文字幕,,0,0,0,,一辆满载枪械部件的卡车，在皇后区外被劫持了\N{\r原文字幕}A truck loaded with stripped gun parts got jacked outside of Queens.
+Dialogue: 0,0:05:18.60,0:05:21.00,译文字幕,,0,0,0,,那司机没有看到劫持者的相貌\N{\r原文字幕}The driver didn't see anyone, but someone fucked up.
+Dialogue: 0,0:05:21.10,0:05:23.70,译文字幕,,0,0,0,,只听到对方说的一句话，有时候这些线索就够了\N{\r原文字幕}He heard a voice. Sometimes that's all you need.
+Dialogue: 0,0:05:24.10,0:05:27.36,译文字幕,,0,0,0,,纽约市   六星期前
+Dialogue: 0,0:05:27.40,0:05:31.80,译文字幕,,0,0,0,,- 麦克麦纳斯先生？ - 天！就他妈不能让我睡个安稳觉？\N{\r原文字幕}- Mr.McManus? - Christ! Don't you fucking guys ever sleep?
+Dialogue: 0,0:05:32.30,0:05:35.10,译文字幕,,0,0,0,,- 我们被授权将你拘留 - 去死吧，猪\N{\r原文字幕}- We have a warrant for your arrest. - Fuck you, pig.
+Dialogue: 0,0:05:42.90,0:05:44.40,译文字幕,,0,0,0,,托德·霍克尼\N{\r原文字幕}Todd Hockney?
+Dialogue: 0,0:05:44.70,0:05:48.00,译文字幕,,0,0,0,,- 是谁找我？ - 我们是纽约市警局的\N{\r原文字幕}- Who wants to know? - New York Police Department.
+Dialogue: 0,0:05:52.50,0:05:54.40,译文字幕,,0,0,0,,- 该死的 - 不许动！\N{\r原文字幕}- Shit. - Freeze!
+Dialogue: 0,0:05:54.40,0:05:55.80,译文字幕,,0,0,0,,别动！\N{\r原文字幕}Hold it!
+Dialogue: 0,0:06:00.80,0:06:02.60,译文字幕,,0,0,0,,你们还真是如临大敌\N{\r原文字幕}Sure you brought enough guys?
+Dialogue: 0,0:06:38.30,0:06:39.50,译文字幕,,0,0,0,,这很简单:\N{\r原文字幕}It's quite simple:
+Dialogue: 0,0:06:39.60,0:06:44.40,译文字幕,,0,0,0,,餐厅的食物更换口味， 而毫不丧失其整体的艺术感\N{\r原文字幕}A restaurant that changes with the taste without losing the overall aesthetic.
+Dialogue: 0,0:06:44.50,0:06:45.70,译文字幕,,0,0,0,,换而言之…\N{\r原文字幕}In other words...
+Dialogue: 0,0:06:45.80,0:06:48.90,译文字幕,,0,0,0,,…气氛并不是由装饰来营造的\N{\r原文字幕}...the atmosphere will not be painted on the walls.
+Dialogue: 0,0:06:50.90,0:06:54.10,译文字幕,,0,0,0,,- 让我举例来说-- - 这得我自己来判断\N{\r原文字幕}- Let me give you an example-- - This I had to see for myself.
+Dialogue: 0,0:06:56.70,0:06:57.70,译文字幕,,0,0,0,,大卫\N{\r原文字幕}David
+Dialogue: 0,0:06:59.10,0:07:02.00,译文字幕,,0,0,0,,- 我在谈公事 - 还有别的公事等你去谈\N{\r原文字幕}- I'm in a meeting. - Time for another one.
+Dialogue: 0,0:07:02.20,0:07:04.60,译文字幕,,0,0,0,,我来介绍一下，这位是大卫·奎恩\N{\r原文字幕}Everyone, this is David Kujan.
+Dialogue: 0,0:07:04.90,0:07:07.70,译文字幕,,0,0,0,,美国海关特别探员奎恩\N{\r原文字幕}Special Agent Kujan. US Customs.
+Dialogue: 0,0:07:08.00,0:07:11.60,译文字幕,,0,0,0,,这几位是纽约市警局的\N{\r原文字幕}These gentlemen are from the New York Police Department.
+Dialogue: 0,0:07:11.70,0:07:14.60,译文字幕,,0,0,0,,你气色不错，比我想象的还要好\N{\r原文字幕}You look good. Better than I would have thought.
+Dialogue: 0,0:07:16.50,0:07:19.60,译文字幕,,0,0,0,,不过是关于运枪车被劫的小麻烦\N{\r原文字幕}A small matter of a stolen truck loaded with guns.
+Dialogue: 0,0:07:22.20,0:07:23.60,译文字幕,,0,0,0,,基顿先生？\N{\r原文字幕}Mr.Keaton?
+Dialogue: 0,0:07:24.40,0:07:26.20,译文字幕,,0,0,0,,请原谅，我要失陪一下\N{\r原文字幕}Will you excuse us for a moment?
+Dialogue: 0,0:07:28.50,0:07:32.20,译文字幕,,0,0,0,,我们得带你回局里去问话，事情不是三两句就说的清的\N{\r原文字幕}We have some questions to ask you downtown. You'll be a while.
+Dialogue: 0,0:07:32.80,0:07:35.30,译文字幕,,0,0,0,,不，不，请坐下\N{\r原文字幕}No. Please, sit down.
+Dialogue: 0,0:07:35.80,0:07:38.80,译文字幕,,0,0,0,,不过是些小事\N{\r原文字幕}This is a small problem.
+Dialogue: 0,0:07:39.80,0:07:43.00,译文字幕,,0,0,0,,请慢用，我们迟些再谈\N{\r原文字幕}Enjoy the meal. I'll talk to you later.
+Dialogue: 0,0:08:05.10,0:08:07.40,译文字幕,,0,0,0,,我根本没理由会出现在那里\N{\r原文字幕}It didn't make sense that I'd be there.
+Dialogue: 0,0:08:07.40,0:08:10.20,译文字幕,,0,0,0,,这些家伙本是恶贯满盈的江洋大盗\N{\r原文字幕}These guys were hard-core hijackers...
+Dialogue: 0,0:08:10.40,0:08:12.20,译文字幕,,0,0,0,,…而我却也被列在其中\N{\r原文字幕}...but there I was.
+Dialogue: 0,0:08:14.80,0:08:16.80,译文字幕,,0,0,0,,不过我当时并不害怕\N{\r原文字幕}At that point, I wasn't scared.
+Dialogue: 0,0:08:16.90,0:08:19.80,译文字幕,,0,0,0,,我清楚自己是清白的，他们也不能拿我怎么样\N{\r原文字幕}I knew I hadn't done anything they could do me for.
+Dialogue: 0,0:08:20.70,0:08:22.50,译文字幕,,0,0,0,,此外，这过程很有趣\N{\r原文字幕}Besides, it was fun.
+Dialogue: 0,0:08:23.00,0:08:25.40,译文字幕,,0,0,0,,我得把自己也当成是声名狼藉的罪犯\N{\r原文字幕}I got to make like I was notorious.
+Dialogue: 0,0:08:26.30,0:08:27.90,译文字幕,,0,0,0,,你们都知道程序\N{\r原文字幕}You all know the drill.
+Dialogue: 0,0:08:28.00,0:08:32.70,译文字幕,,0,0,0,,被叫到号的人就上前一步，念出纸上的话\N{\r原文字幕}When your number is called, step forward and repeat the phrase you've been given.
+Dialogue: 0,0:08:33.10,0:08:35.10,译文字幕,,0,0,0,,一号，上前\N{\r原文字幕}Number 1, step forward.
+Dialogue: 0,0:08:39.60,0:08:42.70,译文字幕,,0,0,0,,“把钥匙给我，混蛋”\N{\r原文字幕}"Hand me the keys you fucking cocksucker."
+Dialogue: 0,0:08:44.50,0:08:46.50,译文字幕,,0,0,0,,二号，上前\N{\r原文字幕}Number 2, step forward.
+Dialogue: 0,0:08:49.30,0:08:53.00,译文字幕,,0,0,0,,“把他妈钥匙给我，你这该死的混蛋！”\N{\r原文字幕}Gimme the fuckin' keys, you fuckin' cocksucker motherfucker!
+Dialogue: 0,0:08:53.00,0:08:56.70,译文字幕,,0,0,0,,停，退后，三号上前\N{\r原文字幕}Knock it off. Get back. Number 3, step forward.
+Dialogue: 0,0:09:05.70,0:09:09.20,译文字幕,,0,0,0,,- “把钥匙给我，混蛋” - 请讲英语\N{\r原文字幕}- "Hand me the keys, you cocksucker." - In English, please.
+Dialogue: 0,0:09:09.50,0:09:12.30,译文字幕,,0,0,0,,- 你说什么？ - 请讲英语\N{\r原文字幕}- Excuse me? - In English.
+Dialogue: 0,0:09:13.10,0:09:16.10,译文字幕,,0,0,0,,“把钥匙给我，混蛋” ，这哪儿不对了？\N{\r原文字幕}Hand me the fuckin' keys, you cocksucker. What the fuck?
+Dialogue: 0,0:09:16.20,0:09:18.10,译文字幕,,0,0,0,,四号上前\N{\r原文字幕}Number 4, step forward.
+Dialogue: 0,0:09:18.30,0:09:21.10,译文字幕,,0,0,0,,这根本是胡来，全都是栽赃嫁祸\N{\r原文字幕}It was bullshit. The whole rap was a setup.
+Dialogue: 0,0:09:21.30,0:09:24.40,译文字幕,,0,0,0,,“把钥匙给我，混蛋”\N{\r原文字幕}"Hand me the keys you fucking cocksucker."
+Dialogue: 0,0:09:24.70,0:09:26.20,译文字幕,,0,0,0,,全是警察的错\N{\r原文字幕}It was the cops' fault.
+Dialogue: 0,0:09:26.30,0:09:29.40,译文字幕,,0,0,0,,像这样的人根本不该关在一起\N{\r原文字幕}You don't put guys like that into a room together.
+Dialogue: 0,0:09:29.50,0:09:31.60,译文字幕,,0,0,0,,谁知道会发生些什么？\N{\r原文字幕}Who knows what can happen?
+Dialogue: 0,0:09:31.80,0:09:35.10,译文字幕,,0,0,0,,“把钥匙给我，混蛋”\N{\r原文字幕}"Hand me the keys you fucking cocksucker."
+Dialogue: 0,0:09:35.90,0:09:39.30,译文字幕,,0,0,0,,这事情一定让你们很头痛\N{\r原文字幕}This has really got to be embarrassing for you guys.
+Dialogue: 0,0:09:39.40,0:09:40.60,译文字幕,,0,0,0,,他们审了我们整晚上\N{\r原文字幕}They drilled us all night.
+Dialogue: 0,0:09:40.70,0:09:44.00,译文字幕,,0,0,0,,运枪车被劫，有人暴跳如雷，而警察们却束手无策\N{\r原文字幕}Someone was mad about that truck hijacking and the cops had nothing.
+Dialogue: 0,0:09:44.00,0:09:47.30,译文字幕,,0,0,0,,所以希望有人会撞到他们枪口上来\N{\r原文字幕}They were hoping somebody would slip up and give them something.
+Dialogue: 0,0:09:47.40,0:09:50.30,译文字幕,,0,0,0,,他们清楚我们不能反抗，他们知道该怎么向我们施加压力\N{\r原文字幕}They knew we wouldn't fight, they knew how to lean on us.
+Dialogue: 0,0:09:50.40,0:09:53.50,译文字幕,,0,0,0,,他们一直就是如此，我们的权利早被践踏的没影了\N{\r原文字幕}They've been doing it forever. Our rights went out the window.
+Dialogue: 0,0:09:53.60,0:09:55.50,译文字幕,,0,0,0,,那简直就是可耻的亵渎人权\N{\r原文字幕}It was a violation. Disgraceful.
+Dialogue: 0,0:09:55.60,0:09:58.40,译文字幕,,0,0,0,,他们最先审问的是麦克麦纳斯，他是个打家劫舍的老手\N{\r原文字幕}They went after McManus first. Topnotch entry man.
+Dialogue: 0,0:09:58.50,0:09:59.90,译文字幕,,0,0,0,,什么卡车？\N{\r原文字幕}What truck?
+Dialogue: 0,0:10:00.30,0:10:03.40,译文字幕,,0,0,0,,- 运枪的卡车，杂种  - “杂种”？\N{\r原文字幕}- The truck with the guns, fucko. - "Fucko"?
+Dialogue: 0,0:10:06.50,0:10:08.90,译文字幕,,0,0,0,,他是个好人，只是有时会有点疯狂\N{\r原文字幕}He was a good guy. Crazy, though.
+Dialogue: 0,0:10:08.90,0:10:11.00,译文字幕,,0,0,0,,想知道你的好兄弟范斯特是怎么说的？\N{\r原文字幕}Wanna know what your pal Fenster told us?
+Dialogue: 0,0:10:11.10,0:10:12.80,译文字幕,,0,0,0,,- 说谁？ - 麦克麦纳斯\N{\r原文字幕}- Say who? - McManus.
+Dialogue: 0,0:10:12.90,0:10:14.60,译文字幕,,0,0,0,,他说的完全是另外一个情况\N{\r原文字幕}He told us another story.
+Dialogue: 0,0:10:14.90,0:10:18.40,译文字幕,,0,0,0,,是说那个得了痢疾的妓女吗？\N{\r原文字幕}Is that the one about the hooker with the dysentery?
+Dialogue: 0,0:10:18.60,0:10:21.70,译文字幕,,0,0,0,,范斯特总是和麦克麦纳斯一起干，是个油腔滑调的家伙\N{\r原文字幕}Fenster always worked with McManus. He was a real tight-ass.
+Dialogue: 0,0:10:21.80,0:10:25.00,译文字幕,,0,0,0,,但是说到正事上来，他确实算是个聪明人\N{\r原文字幕}But when it came to the job, he was right on. A smart man.
+Dialogue: 0,0:10:25.10,0:10:27.80,译文字幕,,0,0,0,,- 你说什么？ - 我说他会教训你的\N{\r原文字幕}- What are you saying? - I said he'll flip you.
+Dialogue: 0,0:10:27.90,0:10:30.90,译文字幕,,0,0,0,,- 他会什么？ - 教训你，狠狠的教训你\N{\r原文字幕}- He'll what? - Flip you. Flip you for real.
+Dialogue: 0,0:10:30.90,0:10:33.30,译文字幕,,0,0,0,,- 我怕极了，继续 - 好吧\N{\r原文字幕}- I'm shaking. Come on. - Okay.
+Dialogue: 0,0:10:33.40,0:10:36.40,译文字幕,,0,0,0,,- 回答我的问题 - 后面那位也听的清吗？\N{\r原文字幕}- Answer my questions. - Can you hear me in the back?
+Dialogue: 0,0:10:37.50,0:10:38.50,译文字幕,,0,0,0,,喂？\N{\r原文字幕}Hello?
+Dialogue: 0,0:10:39.10,0:10:40.70,译文字幕,,0,0,0,,我要见律师\N{\r原文字幕}I want my lawyer.
+Dialogue: 0,0:10:41.00,0:10:43.60,译文字幕,,0,0,0,,我要让你们这些该死的警察丢掉饭碗\N{\r原文字幕}I'm gonna have your fuckin' badge, cocksucker.
+Dialogue: 0,0:10:44.00,0:10:46.50,译文字幕,,0,0,0,,托德·霍克尼:爆破专家\N{\r原文字幕}Todd Hockney: good with explosives.
+Dialogue: 0,0:10:47.00,0:10:50.60,译文字幕,,0,0,0,,毫无疑问，这家伙不会出卖任何人\N{\r原文字幕}Without a doubt, the one guy who didn't give a fuck about anybody.
+Dialogue: 0,0:10:50.70,0:10:53.20,译文字幕,,0,0,0,,你们根本没有他妈的证据\N{\r原文字幕}You guys don't have a fuckin' leg to stand on.
+Dialogue: 0,0:10:53.30,0:10:54.50,译文字幕,,0,0,0,,你以为是吗？\N{\r原文字幕}You think so, tough guy?
+Dialogue: 0,0:10:54.60,0:10:57.10,译文字幕,,0,0,0,,我能以在皇后区抢劫货车的罪名起诉你\N{\r原文字幕}I can put you in Queens during the hijacking.
+Dialogue: 0,0:10:57.20,0:10:58.40,译文字幕,,0,0,0,,是吗？\N{\r原文字幕}Really?
+Dialogue: 0,0:10:58.70,0:11:00.20,译文字幕,,0,0,0,,我就住在皇后区\N{\r原文字幕}I live in Queens.
+Dialogue: 0,0:11:00.20,0:11:02.60,译文字幕,,0,0,0,,所以你就这么把事情凑在一起告我，爱因思坦？\N{\r原文字幕}Did you put that together yourself, Einstein?
+Dialogue: 0,0:11:02.70,0:11:05.30,译文字幕,,0,0,0,,你的那群猴子手下就是这么办事的？\N{\r原文字幕}You got a team of monkeys working full time on this?
+Dialogue: 0,0:11:05.40,0:11:08.70,译文字幕,,0,0,0,,知道你若是再投胎，会怎样？\N{\r原文字幕}You know what happens if you do another turn in the joint?
+Dialogue: 0,0:11:10.20,0:11:12.80,译文字幕,,0,0,0,,我会狂干你老爸\N{\r原文字幕}I fuck your father in the shower, and have a snack.
+Dialogue: 0,0:11:12.80,0:11:16.20,译文字幕,,0,0,0,,- 你想告我吗？白痴 - 我会随时控告你\N{\r原文字幕}- Are you gonna charge me, dickhead? - I'll charge you when I'm ready.
+Dialogue: 0,0:11:16.20,0:11:19.00,译文字幕,,0,0,0,,- 凭什么来告我？ - 你自己心里很清楚\N{\r原文字幕}- With what? - You know damn well, dead man.
+Dialogue: 0,0:11:19.10,0:11:20.10,译文字幕,,0,0,0,,基顿？\N{\r原文字幕}But Keaton?
+Dialogue: 0,0:11:20.20,0:11:22.90,译文字幕,,0,0,0,,基顿是他们重点审问的目标\N{\r原文字幕}Keaton was the real prize for them for obvious reasons.
+Dialogue: 0,0:11:23.00,0:11:25.70,译文字幕,,0,0,0,,犯错的是你们，而不是我\N{\r原文字幕}It was your mistake, not mine.
+Dialogue: 0,0:11:28.30,0:11:30.40,译文字幕,,0,0,0,,你们到底问完了没有？\N{\r原文字幕}Did you ever stop to ask me?
+Dialogue: 0,0:11:32.00,0:11:36.00,译文字幕,,0,0,0,,我坐不改名，行不改姓\N{\r原文字幕}I've been walking around with the same face, the same name.
+Dialogue: 0,0:11:37.50,0:11:38.90,译文字幕,,0,0,0,,是个正经商人\N{\r原文字幕}I'm a businessman.
+Dialogue: 0,0:11:39.00,0:11:41.10,译文字幕,,0,0,0,,做什么生意？餐厅生意？\N{\r原文字幕}What's that? The restaurant business?
+Dialogue: 0,0:11:41.20,0:11:45.10,译文字幕,,0,0,0,,现在你要做的就是给我老实招供\N{\r原文字幕}No. From now on you're in the "getting fucked by us" business.
+Dialogue: 0,0:11:45.20,0:11:47.60,译文字幕,,0,0,0,,我会把你绳之以法的，混蛋\N{\r原文字幕}I'm gonna make you famous, cocksucker.
+Dialogue: 0,0:11:47.70,0:11:49.30,译文字幕,,0,0,0,,我已经说了…\N{\r原文字幕}Like I said...
+Dialogue: 0,0:11:49.60,0:11:51.70,译文字幕,,0,0,0,,…犯错的是你们\N{\r原文字幕}...it was your mistake
+Dialogue: 0,0:11:51.80,0:11:53.30,译文字幕,,0,0,0,,…而不是我\N{\r原文字幕}...not mine.
+Dialogue: 0,0:11:53.70,0:11:56.10,译文字幕,,0,0,0,,你们要是胡乱控诉我\N{\r原文字幕}You charge me with this shit...
+Dialogue: 0,0:11:57.20,0:11:59.00,译文字幕,,0,0,0,,…我一定会反诉你们\N{\r原文字幕}...and I'll beat it.
+Dialogue: 0,0:11:59.90,0:12:01.00,译文字幕,,0,0,0,,明白吗？\N{\r原文字幕}Okay?
+Dialogue: 0,0:12:02.00,0:12:04.80,译文字幕,,0,0,0,,继续说卡车的事吧，混蛋\N{\r原文字幕}Let's get back to the truck, asshole.
+Dialogue: 0,0:12:06.30,0:12:09.30,译文字幕,,0,0,0,,真该有人管管这破事\N{\r原文字幕}Really, somebody's got to do something about this shit.
+Dialogue: 0,0:12:09.40,0:12:12.80,译文字幕,,0,0,0,,他们动不动就找我麻烦，我真是受够了\N{\r原文字幕}They put me in holding every five minutes. So I did a little time.
+Dialogue: 0,0:12:12.90,0:12:17.30,译文字幕,,0,0,0,,难道说每丢辆卡车，就都得把我关进来？\N{\r原文字幕}Does that mean I get railed every time a truck finds it's way gone?
+Dialogue: 0,0:12:17.40,0:12:18.70,译文字幕,,0,0,0,,让他们去死吧\N{\r原文字幕}Fuck 'em.
+Dialogue: 0,0:12:19.10,0:12:21.00,译文字幕,,0,0,0,,范斯特，放松点好吗？\N{\r原文字幕}Fenster, will you relax?
+Dialogue: 0,0:12:21.30,0:12:25.50,译文字幕,,0,0,0,,- 他们根本没有任何证据 - 你说的对，无凭无据\N{\r原文字幕}- These guys don't have any probable cause. - You fuckin' right. No PC.
+Dialogue: 0,0:12:25.60,0:12:29.10,译文字幕,,0,0,0,,真他妈说的太对了，只要曾犯过小错，他们就会揪住你不放\N{\r原文字幕}You're goddamn right. You do some time, never let you go.
+Dialogue: 0,0:12:29.10,0:12:31.60,译文字幕,,0,0,0,,他们当我是罪犯般看待\N{\r原文字幕}They treat me like a criminal.
+Dialogue: 0,0:12:32.00,0:12:34.70,译文字幕,,0,0,0,,- 那么我迟早也会变成个罪犯 - 你本来就是罪犯\N{\r原文字幕}- I'll end up a criminal. - You are a criminal.
+Dialogue: 0,0:12:36.30,0:12:38.70,译文字幕,,0,0,0,,干嘛说的那么直接？\N{\r原文字幕}Why'd you got to go and do that?
+Dialogue: 0,0:12:39.00,0:12:42.50,译文字幕,,0,0,0,,- 我只是在做假设 - 做你的假设去吧\N{\r原文字幕}- I'm trying to make a point. - Why don't you make your point?
+Dialogue: 0,0:12:42.60,0:12:44.80,译文字幕,,0,0,0,,你让我烦透了\N{\r原文字幕}You're making me tired all over.
+Dialogue: 0,0:12:45.00,0:12:46.00,译文字幕,,0,0,0,,去死吧\N{\r原文字幕}Fuck it then.
+Dialogue: 0,0:12:46.70,0:12:48.90,译文字幕,,0,0,0,,- 我听说你已经死了 - 是吗？\N{\r原文字幕}- I heard you were dead. - Yeah?
+Dialogue: 0,0:12:49.20,0:12:52.20,译文字幕,,0,0,0,,- 你没有听错 - 我听说的是你已经收手不干了\N{\r原文字幕}- You heard right. - Word I got is you hung up your spurs.
+Dialogue: 0,0:12:52.90,0:12:55.70,译文字幕,,0,0,0,,- 这是怎么回事？ - 究竟怎么说的？\N{\r原文字幕}- What's that all about? - What's this?
+Dialogue: 0,0:12:56.00,0:13:00.60,译文字幕,,0,0,0,,谣言说基顿已经改过自新，还和伊迪·菲娜琳打的火热\N{\r原文字幕}Rumor has it Keaton's gone straight. I hear he's tapping Edie Finneran.
+Dialogue: 0,0:13:00.70,0:13:01.70,译文字幕,,0,0,0,,那是谁？\N{\r原文字幕}Who's that?
+Dialogue: 0,0:13:01.90,0:13:04.40,译文字幕,,0,0,0,,她是重量级的刑事辩护律师\N{\r原文字幕}She's a heavyweight criminal lawyer from uptown.
+Dialogue: 0,0:13:04.50,0:13:06.40,译文字幕,,0,0,0,,听说她成了基顿的饭票\N{\r原文字幕}I hear she's Keaton's meal ticket.
+Dialogue: 0,0:13:06.60,0:13:08.40,译文字幕,,0,0,0,,是吗，基顿？\N{\r原文字幕}How 'bout it, Keaton?
+Dialogue: 0,0:13:08.60,0:13:10.30,译文字幕,,0,0,0,,你有个当律师的妻子？\N{\r原文字幕}You a lawyer's wife?
+Dialogue: 0,0:13:11.10,0:13:13.00,译文字幕,,0,0,0,,你是怎么勾上她的？\N{\r原文字幕}What kind of retainer you giving her?
+Dialogue: 0,0:13:16.70,0:13:21.00,译文字幕,,0,0,0,,帮帮忙，让他保持安静\N{\r原文字幕}Do your friend a favor...tell him to keep quiet.
+Dialogue: 0,0:13:22.00,0:13:23.50,译文字幕,,0,0,0,,迪恩·基顿…\N{\r原文字幕}Dean Keaton...
+Dialogue: 0,0:13:25.00,0:13:26.60,译文字幕,,0,0,0,,改过自新？\N{\r原文字幕}Gone clean?
+Dialogue: 0,0:13:27.10,0:13:28.70,译文字幕,,0,0,0,,我觉得不可能\N{\r原文字幕}Say it ain't so.
+Dialogue: 0,0:13:29.00,0:13:32.30,译文字幕,,0,0,0,,- 还是说卡车就是你抢的？ - 麦克，算了吧\N{\r原文字幕}- Or was it you that hit that truck? - Mac, forget him.
+Dialogue: 0,0:13:32.60,0:13:34.90,译文字幕,,0,0,0,,你和律师谈过没有？\N{\r原文字幕}Did you get to talk to your lawyer?
+Dialogue: 0,0:13:35.60,0:13:37.40,译文字幕,,0,0,0,,整件事情不过是借口\N{\r原文字幕}This whole thing was a shakedown.
+Dialogue: 0,0:13:37.70,0:13:41.20,译文字幕,,0,0,0,,- 为什么这么说？ - 你被指认过几次？\N{\r原文字幕}- What makes you say that? - How many times you been in a lineup?
+Dialogue: 0,0:13:42.40,0:13:44.60,译文字幕,,0,0,0,,通常总是你和四个不相干的人\N{\r原文字幕}It's always you and four dummies.
+Dialogue: 0,0:13:44.70,0:13:47.90,译文字幕,,0,0,0,,警方总找些流浪汉来，每次给他们十块\N{\r原文字幕}The PD are paying homeless guys $10 a head half the time.
+Dialogue: 0,0:13:48.20,0:13:51.40,译文字幕,,0,0,0,,他们不会同时把五个罪犯放在一起\N{\r原文字幕}There's no way they'd line five felons in the same row.
+Dialogue: 0,0:13:51.70,0:13:55.30,译文字幕,,0,0,0,,- 那声音指认呢？ - 那无非是形式\N{\r原文字幕}- What's a voice lineup?  - Public defender could get you out of that.
+Dialogue: 0,0:13:55.40,0:13:58.90,译文字幕,,0,0,0,,- 为什么要找上我？ - 是联邦调查局的家伙\N{\r原文字幕}- Why the hell was I strip searched? - It was the feds.
+Dialogue: 0,0:13:59.10,0:14:01.50,译文字幕,,0,0,0,,有辆运枪车被截下了\N{\r原文字幕}A truckload of guns gets snagged.
+Dialogue: 0,0:14:01.50,0:14:05.30,译文字幕,,0,0,0,,海关的人到纽约警局要答案，于是他们来找我们的麻烦\N{\r原文字幕}Customs comes down on NYPD for answers. They come up with us.
+Dialogue: 0,0:14:05.50,0:14:08.70,译文字幕,,0,0,0,,- 他们把我们当成救命稻草 - 我们就这么被他们玩\N{\r原文字幕}- They're clutching at straws. - I had a guy's finger up my ass.
+Dialogue: 0,0:14:08.80,0:14:10.10,译文字幕,,0,0,0,,现在是星期五了吗？\N{\r原文字幕}Is it Friday already?
+Dialogue: 0,0:14:12.20,0:14:13.40,译文字幕,,0,0,0,,是的，花花公子\N{\r原文字幕}Yeah, lover boy.
+Dialogue: 0,0:14:13.60,0:14:16.70,译文字幕,,0,0,0,,想被人修理吗？来吧，我会好好疼你的\N{\r原文字幕}You want a piece? Jump in. I'll love you.
+Dialogue: 0,0:14:16.90,0:14:20.50,译文字幕,,0,0,0,,那么到底是他妈的哪个人渣抢的货车？\N{\r原文字幕}So who in the goddamn piss hell stole our fucking truck?
+Dialogue: 0,0:14:21.50,0:14:24.50,译文字幕,,0,0,0,,- 你说什么？ - 是谁偷了那货车？\N{\r原文字幕}- What did you say? - Who stole the fucking truck?
+Dialogue: 0,0:14:24.60,0:14:27.70,译文字幕,,0,0,0,,- 我不想知道 - 没人问你，正经人\N{\r原文字幕}- I don't want to know. - Who asked you, workingman?
+Dialogue: 0,0:14:27.80,0:14:30.50,译文字幕,,0,0,0,,做这事的人去死吧，我现在想知道那跛子是什么人？\N{\r原文字幕}Fuck who did it. What I want to know is, who's the gimp?
+Dialogue: 0,0:14:30.60,0:14:32.90,译文字幕,,0,0,0,,- 没他的事  - 全是你在说，我怎么知道？\N{\r原文字幕}- He's okay. - Says you. How do I know that?
+Dialogue: 0,0:14:32.90,0:14:35.00,译文字幕,,0,0,0,,怎么样，拐脚佬？说说你的故事吧\N{\r原文字幕}What about it, pretzel man? What's your story?
+Dialogue: 0,0:14:35.10,0:14:36.40,译文字幕,,0,0,0,,他叫“口水先生”\N{\r原文字幕}His name is Verbal.
+Dialogue: 0,0:14:37.10,0:14:38.50,译文字幕,,0,0,0,,维伯·肯特\N{\r原文字幕}Verbal Kint.
+Dialogue: 0,0:14:38.50,0:14:40.00,译文字幕,,0,0,0,,- “口水先生”？ - 对\N{\r原文字幕}- Verbal? - Yeah.
+Dialogue: 0,0:14:40.10,0:14:43.20,译文字幕,,0,0,0,,真名是罗杰，人人说我话太多\N{\r原文字幕}Roger, really. People say I talk too much.
+Dialogue: 0,0:14:43.50,0:14:45.40,译文字幕,,0,0,0,,我正想叫你闭嘴\N{\r原文字幕}I was going to tell you to shut up.
+Dialogue: 0,0:14:45.50,0:14:49.20,译文字幕,,0,0,0,,- 我们以前见过一二次 - 是在州局，我因为诈骗罪被逮进了局子\N{\r原文字幕}- We met before, once or twice. - In County. I was in for fraud.
+Dialogue: 0,0:14:49.30,0:14:51.50,译文字幕,,0,0,0,,我们曾一同被指认，后来如何了？\N{\r原文字幕}You were in a lineup then, too. What happened?
+Dialogue: 0,0:14:51.70,0:14:54.50,译文字幕,,0,0,0,,被判了90天，缓刑释放\N{\r原文字幕}I walked. 90 days, suspended.
+Dialogue: 0,0:14:54.80,0:14:57.60,译文字幕,,0,0,0,,- 你也不是个好人 - 好了，大家听我说…\N{\r原文字幕}- So you did it. - All right, now look...
+Dialogue: 0,0:14:59.00,0:15:01.70,译文字幕,,0,0,0,,…我们都因这事被搅进来\N{\r原文字幕}...we've all been put out by this whole thing, right?
+Dialogue: 0,0:15:01.90,0:15:05.60,译文字幕,,0,0,0,,我想我们该设法挽回点面子\N{\r原文字幕}I figure we owe it to ourselves to salvage a little dignity.
+Dialogue: 0,0:15:06.10,0:15:09.40,译文字幕,,0,0,0,,我和范斯特听说有桩生意\N{\r原文字幕}Now, me and Fenster heard about a little job.
+Dialogue: 0,0:15:09.50,0:15:11.30,译文字幕,,0,0,0,,安静会儿好吗？\N{\r原文字幕}Why don't you just calm down?
+Dialogue: 0,0:15:11.80,0:15:13.70,译文字幕,,0,0,0,,听他说说又怎么了？\N{\r原文字幕}What do you care what he has to say?
+Dialogue: 0,0:15:14.80,0:15:16.70,译文字幕,,0,0,0,,我不过随便说说\N{\r原文字幕}I'm just talking here.
+Dialogue: 0,0:15:17.10,0:15:20.20,译文字幕,,0,0,0,,看来哈肯尼先生，似乎想听我要说什么…\N{\r原文字幕}It seems to me like Mr.Hockney wants to hear it...
+Dialogue: 0,0:15:20.20,0:15:22.20,译文字幕,,0,0,0,,…而我知道范斯特亦有兴趣\N{\r原文字幕}...and I know Fenster's down.
+Dialogue: 0,0:15:23.10,0:15:24.80,译文字幕,,0,0,0,,你呢？伙计\N{\r原文字幕}What about you, guy?
+Dialogue: 0,0:15:26.20,0:15:27.60,译文字幕,,0,0,0,,当然有兴趣\N{\r原文字幕}I'm interested.
+Dialogue: 0,0:15:28.90,0:15:30.10,译文字幕,,0,0,0,,看到没？\N{\r原文字幕}There. See?
+Dialogue: 0,0:15:30.40,0:15:33.50,译文字幕,,0,0,0,,我只想行使我的自由集会权\N{\r原文字幕}I'd like to exercise my right to free assembly.
+Dialogue: 0,0:15:33.70,0:15:35.50,译文字幕,,0,0,0,,闭会儿嘴不行吗？\N{\r原文字幕}Why don't you just shut up?
+Dialogue: 0,0:15:41.60,0:15:43.10,译文字幕,,0,0,0,,你是不明白\N{\r原文字幕}You're missing the point.
+Dialogue: 0,0:15:43.80,0:15:44.90,译文字幕,,0,0,0,,不\N{\r原文字幕}No.
+Dialogue: 0,0:15:46.00,0:15:47.90,译文字幕,,0,0,0,,不明白的人是你\N{\r原文字幕}You're missing the point.
+Dialogue: 0,0:15:48.10,0:15:50.60,译文字幕,,0,0,0,,我不想听你说任何事\N{\r原文字幕}I don't want to hear anything from you.
+Dialogue: 0,0:15:51.10,0:15:53.10,译文字幕,,0,0,0,,我对你的生意没兴趣\N{\r原文字幕}I don't care about your job.
+Dialogue: 0,0:15:55.00,0:15:56.10,译文字幕,,0,0,0,,此外…\N{\r原文字幕}And...
+Dialogue: 0,0:15:58.30,0:16:00.80,译文字幕,,0,0,0,,…我不想和你们有任何关联\N{\r原文字幕}...I want nothing to do with any of you.
+Dialogue: 0,0:16:01.30,0:16:04.50,译文字幕,,0,0,0,,我很抱歉这么说，但你们全都见鬼去吧\N{\r原文字幕}I beg your pardon, but you can all go to hell.
+Dialogue: 0,0:16:07.20,0:16:08.50,译文字幕,,0,0,0,,迪恩·基顿…\N{\r原文字幕}Dean Keaton...
+Dialogue: 0,0:16:09.20,0:16:10.70,译文字幕,,0,0,0,,…想正经做人\N{\r原文字幕}...gone the high road.
+Dialogue: 0,0:16:12.30,0:16:14.40,译文字幕,,0,0,0,,这世界是怎么了？\N{\r原文字幕}What is the world coming to?
+Dialogue: 0,0:16:19.40,0:16:20.60,译文字幕,,0,0,0,,去他的\N{\r原文字幕}Fuck him.
+Dialogue: 0,0:16:25.30,0:16:27.00,译文字幕,,0,0,0,,事情就是这么开始的:\N{\r原文字幕}And that was how it started:
+Dialogue: 0,0:16:27.10,0:16:29.50,译文字幕,,0,0,0,,我们五个因为莫须有的罪名\N{\r原文字幕}Five of us brought in on a trumped-up charge...
+Dialogue: 0,0:16:29.60,0:16:31.50,译文字幕,,0,0,0,,…被这些低能儿关了进来\N{\r原文字幕}...to be leaned on by half-wits.
+Dialogue: 0,0:16:34.80,0:16:37.30,译文字幕,,0,0,0,,在这儿我真不能多说\N{\r原文字幕}I really can't talk about it much here.
+Dialogue: 0,0:16:37.40,0:16:41.00,译文字幕,,0,0,0,,警察们永远也想不到的是…\N{\r原文字幕}What the cops never figured out, and what I know now...
+Dialogue: 0,0:16:41.00,0:16:44.30,译文字幕,,0,0,0,,…这些人永远不会屈服\N{\r原文字幕}...was that these men would never break, never lie down.
+Dialogue: 0,0:16:45.20,0:16:47.30,译文字幕,,0,0,0,,永远不会屈服于任何人\N{\r原文字幕}Never bend over for anybody.
+Dialogue: 0,0:16:48.30,0:16:49.50,译文字幕,,0,0,0,,任何人都不行\N{\r原文字幕}Anybody.
+Dialogue: 0,0:16:58.66,0:17:03.10,译文字幕,,0,0,0,,圣佩德罗  加利福尼亚  当日
+Dialogue: 0,0:17:05.50,0:17:08.70,译文字幕,,0,0,0,,- 你是谁？ - FBI探员 杰克·拜尔\N{\r原文字幕}- Who are you? - Agent Jack Baer, FBI.
+Dialogue: 0,0:17:09.00,0:17:11.00,译文字幕,,0,0,0,,- 死了多少人？ - 迄今为止发现15具尸体\N{\r原文字幕}- How many dead? - 15 so far.
+Dialogue: 0,0:17:11.10,0:17:13.90,译文字幕,,0,0,0,,还在继续打捞水下的尸体\N{\r原文字幕}They're still pulling bodies out of the water.
+Dialogue: 0,0:17:14.00,0:17:16.00,译文字幕,,0,0,0,,- 有生还者吗？ - 有两个\N{\r原文字幕}- Any survivors? - Two.
+Dialogue: 0,0:17:16.10,0:17:18.90,译文字幕,,0,0,0,,一个被送进了州立医院，但他正在昏迷中\N{\r原文字幕}One guy's in County hospital, but he's in a coma.
+Dialogue: 0,0:17:18.90,0:17:22.00,译文字幕,,0,0,0,,地方检察官带走了另一个家伙，一个跛脚的纽约人\N{\r原文字幕}The DA has a second guy, a cripple from New York.
+Dialogue: 0,0:17:22.10,0:17:24.50,译文字幕,,0,0,0,,上头下令封锁现场\N{\r原文字幕}The chief wants this place sealed off.
+Dialogue: 0,0:17:24.60,0:17:27.40,译文字幕,,0,0,0,,要是有别的问题， 就给他们电话吧\N{\r原文字幕}If you have any questions, give him a call.
+Dialogue: 0,0:18:01.50,0:18:04.80,译文字幕,,0,0,0,,我是奎恩，我去了洛杉矶，星期二才回来\N{\r原文字幕}This is Dave Kujan. I'll be in Los Angeles until Tuesday.
+Dialogue: 0,0:18:04.90,0:18:09.10,译文字幕,,0,0,0,,若有急事，可联系圣佩德罗警署的杰夫·拉宾…\N{\r原文字幕}If you need to reach me, contact Jeff Rabin of the San Pedro Police Department...
+Dialogue: 0,0:18:09.20,0:18:12.00,译文字幕,,0,0,0,,…找内线112即可，祝你顺利\N{\r原文字幕}...at extension 112. Have a nice day.
+Dialogue: 0,0:18:15.10,0:18:16.19,译文字幕,,0,0,0,,圣佩德罗警署  洛杉矶市
+Dialogue: 0,0:18:16.20,0:18:18.40,译文字幕,,0,0,0,,- 我为什么不能见他？ - 我已经说了…\N{\r原文字幕}- Why can't I see him? - I told you...
+Dialogue: 0,0:18:18.40,0:18:21.40,译文字幕,,0,0,0,,…地方检察官昨晚来这里\N{\r原文字幕}...the DA came down here last night ready to arraign...
+Dialogue: 0,0:18:21.50,0:18:23.60,译文字幕,,0,0,0,,…准备等他到了，就开始提审\N{\r原文字幕}...even before they moved him to County.
+Dialogue: 0,0:18:23.60,0:18:26.00,译文字幕,,0,0,0,,然后过了五分钟，肯特的律师露面了…\N{\r原文字幕}Kint's lawyer shows up five minutes later...
+Dialogue: 0,0:18:26.10,0:18:29.60,译文字幕,,0,0,0,,…地方检察官出来的时候，像是蔫了的茄子\N{\r原文字幕}...the DA comes out looking like the bogeyman smacked him around.
+Dialogue: 0,0:18:29.70,0:18:32.80,译文字幕,,0,0,0,,他们给他录了口供，并与他达成协议\N{\r原文字幕}They take his statement, and they cut him a deal.
+Dialogue: 0,0:18:32.90,0:18:36.90,译文字幕,,0,0,0,,- 他们以什么来起诉他？ - 非法持械，是轻罪\N{\r原文字幕}- Did they charge him with anything? - Weapons, misdemeanor 2.
+Dialogue: 0,0:18:37.30,0:18:38.70,译文字幕,,0,0,0,,究竟是怎么回事？\N{\r原文字幕}What is that?
+Dialogue: 0,0:18:39.30,0:18:42.90,译文字幕,,0,0,0,,这里的事情已经全部移交给地方检察官，明白吗？\N{\r原文字幕}I give the DA credit for getting that much, you understand?
+Dialogue: 0,0:18:43.00,0:18:44.50,译文字幕,,0,0,0,,请让一下\N{\r原文字幕}Excuse me, sir.
+Dialogue: 0,0:18:45.70,0:18:49.70,译文字幕,,0,0,0,,整件事情开始有政治色彩，市长昨晚来过了\N{\r原文字幕}This whole thing has turned political. The mayor was here last night.
+Dialogue: 0,0:18:49.80,0:18:53.10,译文字幕,,0,0,0,,今天早上州长也曾打电话给头儿\N{\r原文字幕}The chief. This morning, the governor called, okay?
+Dialogue: 0,0:18:53.20,0:18:57.40,译文字幕,,0,0,0,,我告诉你，这家伙的后台很硬\N{\r原文字幕}I'm telling you, this guy is protected from up on high by the Prince of Darkness.
+Dialogue: 0,0:18:57.40,0:18:59.90,译文字幕,,0,0,0,,- 记得我说的话吧 - 他什么时候可保释外出？\N{\r原文字幕}- Take my word for it. - When does he post bail?
+Dialogue: 0,0:18:59.90,0:19:02.20,译文字幕,,0,0,0,,- 可能最多再过两小时 - 我想要见见他\N{\r原文字幕}- Maybe two hours, tops. - I want to see him.
+Dialogue: 0,0:19:02.20,0:19:04.10,译文字幕,,0,0,0,,- 不行 - 我一定得见他\N{\r原文字幕}- No. - I gotta see him.
+Dialogue: 0,0:19:04.20,0:19:06.80,译文字幕,,0,0,0,,- 不，不行-- - 你得帮我\N{\r原文字幕}- No. I can't-- - You gotta do this for me.
+Dialogue: 0,0:19:06.90,0:19:09.10,译文字幕,,0,0,0,,我大老远来就是为了这事\N{\r原文字幕}I came a long way for this.
+Dialogue: 0,0:19:09.80,0:19:11.30,译文字幕,,0,0,0,,请进\N{\r原文字幕}Dave, please.
+Dialogue: 0,0:19:14.80,0:19:17.60,译文字幕,,0,0,0,,就算我让你见他，他也什么都不会说的\N{\r原文字幕}Even if I let you talk to him, he won't talk to you.
+Dialogue: 0,0:19:19.10,0:19:21.00,译文字幕,,0,0,0,,他会觉得是在被审问\N{\r原文字幕}He's paranoid about being recorded.
+Dialogue: 0,0:19:21.00,0:19:23.60,译文字幕,,0,0,0,,- 他知道审讯室里满布机关 - 我戒烟了\N{\r原文字幕}- He knows the rooms are wired. - I quit.
+Dialogue: 0,0:19:23.70,0:19:26.70,译文字幕,,0,0,0,,我不是审讯他，只不过随便谈谈罢了\N{\r原文字幕}This won't be an interrogation, just a friendly chat.
+Dialogue: 0,0:19:26.90,0:19:30.00,译文字幕,,0,0,0,,- 他不会进审讯室的 - 那就去别的地方\N{\r原文字幕}- He won't go into the interrogation room. - Then someplace else.
+Dialogue: 0,0:19:30.00,0:19:31.20,译文字幕,,0,0,0,,哪里呢？\N{\r原文字幕}Where?
+Dialogue: 0,0:19:33.20,0:19:34.50,译文字幕,,0,0,0,,不行，不行\N{\r原文字幕}No, no.
+Dialogue: 0,0:19:34.80,0:19:38.40,译文字幕,,0,0,0,,若这是毒品交易，那毒品呢？ 如果是谋杀，那又是谁指使的？\N{\r原文字幕}If this was a dope deal, where's the dope? If it was a hit, who called it?
+Dialogue: 0,0:19:38.50,0:19:42.00,译文字幕,,0,0,0,,我相信这些问题，在你心里已经有了答案\N{\r原文字幕}I'm sure you have a host of wild theories to answer all these questions.
+Dialogue: 0,0:19:42.00,0:19:45.40,译文字幕,,0,0,0,,- 你很清楚我的想法 - 这简直太疯狂了，而且也没什么意义\N{\r原文字幕}- You know what I think. - That's crazy, and it doesn't even matter.
+Dialogue: 0,0:19:45.50,0:19:48.30,译文字幕,,0,0,0,,这家伙根本不知情，他的背景也已经查出来了\N{\r原文字幕}The guy's got total immunity. His story checks out.
+Dialogue: 0,0:19:48.60,0:19:52.90,译文字幕,,0,0,0,,- 他没有你想知道的答案 - 我知道他没有答案\N{\r原文字幕}- He doesn't know what you want to know. - I don't think he does, not exactly.
+Dialogue: 0,0:19:53.20,0:19:55.90,译文字幕,,0,0,0,,但事情没有那么简单，相信我\N{\r原文字幕}But there's a lot more to his story, believe me.
+Dialogue: 0,0:19:56.30,0:19:59.90,译文字幕,,0,0,0,,我想知道码头上那二十七人的死因\N{\r原文字幕}I wanna know why 27 men died on that pier...
+Dialogue: 0,0:20:00.00,0:20:04.30,译文字幕,,0,0,0,,这事与九千一百万毒品有关，但现场竟找不到毒品\N{\r原文字幕}...for what looks to be $91 million worth of dope that wasn't there.
+Dialogue: 0,0:20:04.50,0:20:07.90,译文字幕,,0,0,0,,此外，我想确认迪恩·基顿的死讯\N{\r原文字幕}And above all, I want to be sure Dean Keaton's dead.
+Dialogue: 0,0:20:08.40,0:20:09.70,译文字幕,,0,0,0,,他确实死了\N{\r原文字幕}He's dead.
+Dialogue: 0,0:20:10.10,0:20:13.10,译文字幕,,0,0,0,,就给我两小时吧，到他被保释就结束\N{\r原文字幕}Come on. Two hours. Just till he makes bail.
+Dialogue: 0,0:20:13.50,0:20:14.90,译文字幕,,0,0,0,,他们都死了\N{\r原文字幕}They're all dead.
+Dialogue: 0,0:20:15.00,0:20:17.30,译文字幕,,0,0,0,,我才不在乎你说的，这个基顿有多厉害…\N{\r原文字幕}I don't care how tough you say Keaton was...
+Dialogue: 0,0:20:17.40,0:20:20.30,译文字幕,,0,0,0,,…船上没有生还的人\N{\r原文字幕}...nobody on that boat could've come out alive.
+Dialogue: 0,0:20:23.50,0:20:26.50,译文字幕,,0,0,0,,- 他能说话吗？ - 他醒来还不到一小时\N{\r原文字幕}- Is he talking? - He regained consciousness an hour ago.
+Dialogue: 0,0:20:26.60,0:20:29.00,译文字幕,,0,0,0,,说了些话，但不是英语，然后就停下了\N{\r原文字幕}He spoke, not English, then he lapsed.
+Dialogue: 0,0:20:29.20,0:20:31.60,译文字幕,,0,0,0,,- 是匈牙利语吗？ - 我不知道，也许是吧\N{\r原文字幕}- Hungarian? - That might have been it.
+Dialogue: 0,0:20:31.70,0:20:34.60,译文字幕,,0,0,0,,- 他们大部分是匈牙利人 - 你得把这穿上\N{\r原文字幕}- Most of them were Hungarians. - You gotta put this on.
+Dialogue: 0,0:20:34.60,0:20:37.30,译文字幕,,0,0,0,,烧伤病人很容易感染病菌\N{\r原文字幕}Burn victims are very susceptible to infection.
+Dialogue: 0,0:20:37.80,0:20:40.30,译文字幕,,0,0,0,,还有，那儿是禁烟的\N{\r原文字幕}And, of course, there's no smoking.
+Dialogue: 0,0:20:50.00,0:20:52.60,译文字幕,,0,0,0,,请戴上口罩，还有别去碰他\N{\r原文字幕}Keep your mask up. Please don't touch him.
+Dialogue: 0,0:20:52.70,0:20:53.80,译文字幕,,0,0,0,,他会死吗？\N{\r原文字幕}Is he gonna die?
+Dialogue: 0,0:20:53.90,0:20:56.60,译文字幕,,0,0,0,,他全身有六成被烧伤，肋骨断裂--\N{\r原文字幕}He's burned 60 percent of his body, broken ribs--
+Dialogue: 0,0:20:56.70,0:20:59.30,译文字幕,,0,0,0,,叫医院保安来，让人守在门口\N{\r原文字幕}Call security. Put a man on the door.
+Dialogue: 0,0:20:59.40,0:21:01.50,译文字幕,,0,0,0,,- 他会有危险？ - 对\N{\r原文字幕}- Is he dangerous? - Yes.
+Dialogue: 0,0:21:01.90,0:21:02.90,译文字幕,,0,0,0,,去吧\N{\r原文字幕}Do it.
+Dialogue: 0,0:21:03.50,0:21:04.90,译文字幕,,0,0,0,,快去\N{\r原文字幕}Do it now.
+Dialogue: 0,0:21:08.00,0:21:10.40,译文字幕,,0,0,0,,乔尔吗？我是拜尔，从洛杉矶给你打来的\N{\r原文字幕}Joel? Baer. Down at LA County.
+Dialogue: 0,0:21:10.60,0:21:14.50,译文字幕,,0,0,0,,他们在码头找到的那人，叫阿科西·卡瓦什\N{\r原文字幕}Look, the guy they pulled out of the harbor is Arkosh Kovash.
+Dialogue: 0,0:21:14.70,0:21:16.40,译文字幕,,0,0,0,,是的，我明白\N{\r原文字幕}Yes, I'm sure.
+Dialogue: 0,0:21:16.90,0:21:18.60,译文字幕,,0,0,0,,不，他受了重伤\N{\r原文字幕}No, he's all fucked up.
+Dialogue: 0,0:21:20.50,0:21:22.10,译文字幕,,0,0,0,,我听不清\N{\r原文字幕}I can't hear you.
+Dialogue: 0,0:21:22.70,0:21:24.80,译文字幕,,0,0,0,,闭会儿嘴好吗？我在打电话\N{\r原文字幕}Will you shut up? I'm on the phone.
+Dialogue: 0,0:21:25.40,0:21:26.40,译文字幕,,0,0,0,,对\N{\r原文字幕}Yes.
+Dialogue: 0,0:21:27.40,0:21:29.30,译文字幕,,0,0,0,,不，直到我派人来看着他\N{\r原文字幕}No, not till I put a man on him.
+Dialogue: 0,0:21:29.50,0:21:31.80,译文字幕,,0,0,0,,派个会说匈牙利语的人来\N{\r原文字幕}Send me someone who can speak Hungarian.
+Dialogue: 0,0:21:32.00,0:21:34.70,译文字幕,,0,0,0,,他已经醒了，这家伙说话就像个泰国妓女\N{\r原文字幕}He's awake. He's talking like a Thai hooker.
+Dialogue: 0,0:21:34.80,0:21:36.10,译文字幕,,0,0,0,,凯撒·苏斯\N{\r原文字幕}Keyser Soze.
+Dialogue: 0,0:21:37.40,0:21:39.70,译文字幕,,0,0,0,,- 什么？ - 凯撒·苏斯！\N{\r原文字幕}- What? - Keyser Soze!
+Dialogue: 0,0:21:44.60,0:21:45.80,译文字幕,,0,0,0,,这是怎么了？\N{\r原文字幕}No shit?
+Dialogue: 0,0:21:47.30,0:21:50.10,译文字幕,,0,0,0,,到法院去找丹·曼徹斯特\N{\r原文字幕}Call Dan Metzheiser over at Justice...
+Dialogue: 0,0:21:50.40,0:21:52.70,译文字幕,,0,0,0,,…还有海关的大卫·奎恩\N{\r原文字幕}...and find Dave Kujan from Customs.
+Dialogue: 0,0:22:26.70,0:22:30.00,译文字幕,,0,0,0,,维伯，这是海关的奎恩探员\N{\r原文字幕}Verbal, this is Agent Kujan from Customs.
+Dialogue: 0,0:22:30.80,0:22:32.30,译文字幕,,0,0,0,,幸会\N{\r原文字幕}Nice to meet you.
+Dialogue: 0,0:22:32.40,0:22:34.90,译文字幕,,0,0,0,,他想在你离开前问几个问题\N{\r原文字幕}He wants to ask you a few questions before you go.
+Dialogue: 0,0:22:35.00,0:22:38.50,译文字幕,,0,0,0,,- 什么问题？ - 大部分是关于迪恩·基顿的\N{\r原文字幕}- What about? - About a Dean Keaton, mostly.
+Dialogue: 0,0:22:39.70,0:22:42.20,译文字幕,,0,0,0,,但我想先从在纽约的指认谈起\N{\r原文字幕}I'd like to start at the lineup back in New York.
+Dialogue: 0,0:22:42.30,0:22:45.60,译文字幕,,0,0,0,,- 我能喝杯咖啡吗？ - 稍后再说吧，先说说指认时的事\N{\r原文字幕}- Can I get some coffee? - In a while. Let's talk about the lineup.
+Dialogue: 0,0:22:45.80,0:22:49.10,译文字幕,,0,0,0,,我真的很口渴，我就像小孩子那样容易脱水\N{\r原文字幕}I'm really thirsty. I used to dehydrate as a kid.
+Dialogue: 0,0:22:49.10,0:22:51.50,译文字幕,,0,0,0,,有次我尿出的小便就象鼻涕一样\N{\r原文字幕}Once I got so bad my piss come out like snot.
+Dialogue: 0,0:22:51.60,0:22:54.60,译文字幕,,0,0,0,,- 就是那种又浓又粘的-- - 我去给你弄咖啡\N{\r原文字幕}- It was all thick and gooey-- - I'll get your fucking coffee.
+Dialogue: 0,0:22:54.70,0:22:57.20,译文字幕,,0,0,0,,顺便帮我也冲一杯\N{\r原文字幕}Get me one, too, while you're at it.
+Dialogue: 0,0:23:01.60,0:23:03.30,译文字幕,,0,0,0,,那家伙太紧张了\N{\r原文字幕}That guy is tense.
+Dialogue: 0,0:23:03.60,0:23:05.20,译文字幕,,0,0,0,,紧张足以使人致命\N{\r原文字幕}Tension is a killer.
+Dialogue: 0,0:23:05.30,0:23:08.30,译文字幕,,0,0,0,,我曾经加入过在伊利诺州斯科基的一个男声四重唱组合\N{\r原文字幕}I used to be in a barbershop quartet in Skokie, Illinois.
+Dialogue: 0,0:23:08.40,0:23:11.30,译文字幕,,0,0,0,,男中音就叫基普·迪斯金， 是个超级大胖子\N{\r原文字幕}The baritone was this guy named Kip Diskin, big fat guy.
+Dialogue: 0,0:23:11.40,0:23:14.00,译文字幕,,0,0,0,,他每天早上都紧张的要命--\N{\r原文字幕}Like, orca fat. He was so stressed in the morning--
+Dialogue: 0,0:23:14.10,0:23:18.10,译文字幕,,0,0,0,,- 我们现在是想帮你 - 谢谢，我很感激\N{\r原文字幕}- You know we're trying to help you. - Sure, and I appreciate that.
+Dialogue: 0,0:23:18.20,0:23:21.30,译文字幕,,0,0,0,,我也想帮你，奎恩探员，我喜欢警察\N{\r原文字幕}And I wanna help you, Agent Kujan. I like cops.
+Dialogue: 0,0:23:21.40,0:23:24.00,译文字幕,,0,0,0,,我曾梦想成为联邦探员，可是我的--\N{\r原文字幕}I would've liked to have been a fed, but my CP--
+Dialogue: 0,0:23:24.00,0:23:28.00,译文字幕,,0,0,0,,你没对我们说实话，我知道你清楚一切\N{\r原文字幕}You're not tellin' us everything. I know you know something.
+Dialogue: 0,0:23:28.20,0:23:30.20,译文字幕,,0,0,0,,我已经对地方检察官全交待了\N{\r原文字幕}I told the DA everything I know.
+Dialogue: 0,0:23:32.10,0:23:34.50,译文字幕,,0,0,0,,我知道你喜欢基顿\N{\r原文字幕}I know you like Keaton.
+Dialogue: 0,0:23:35.20,0:23:38.70,译文字幕,,0,0,0,,- 我明白你认为他是好人 - 我知道他很好\N{\r原文字幕}- I know you think he's a good man. - I know he was good.
+Dialogue: 0,0:23:38.80,0:23:40.20,译文字幕,,0,0,0,,他曾是个贪污的警察\N{\r原文字幕}He was a corrupt cop.
+Dialogue: 0,0:23:40.30,0:23:43.00,译文字幕,,0,0,0,,对，15年前的事了，他还是个好贼\N{\r原文字幕}Sure. 15 years ago, but he was a good thief.
+Dialogue: 0,0:23:43.90,0:23:45.70,译文字幕,,0,0,0,,警察不会让他的行为合法化\N{\r原文字幕}The cops wouldn't let him go legit.
+Dialogue: 0,0:23:45.80,0:23:47.90,译文字幕,,0,0,0,,迪恩·基顿是垃圾\N{\r原文字幕}Dean Keaton was a piece of shit.
+Dialogue: 0,0:23:51.00,0:23:53.80,译文字幕,,0,0,0,,你想从我身上得到点什么？\N{\r原文字幕}Are you trying to get a rise out of me?
+Dialogue: 0,0:23:54.60,0:23:57.70,译文字幕,,0,0,0,,- 我只想听听你的故事 - 已经全说了\N{\r原文字幕}- I just wanna hear your story. - It's all there.
+Dialogue: 0,0:23:58.60,0:24:00.30,译文字幕,,0,0,0,,能抽支烟吗？\N{\r原文字幕}May I have a cigarette?
+Dialogue: 0,0:24:03.50,0:24:06.40,译文字幕,,0,0,0,,- 根据你的口供-- - 给个火\N{\r原文字幕}- According to your statement-- - I need a light.
+Dialogue: 0,0:24:09.50,0:24:12.80,译文字幕,,0,0,0,,根据你的口供，你只是个小毛贼…\N{\r原文字幕}According to your statement, you're a short-con operator...
+Dialogue: 0,0:24:12.80,0:24:14.50,译文字幕,,0,0,0,,…不入流的--\N{\r原文字幕}...run-of-the-mill--
+Dialogue: 0,0:24:18.80,0:24:22.30,译文字幕,,0,0,0,,根据你的口供，你只是个小毛贼…\N{\r原文字幕}According to your statement, you're a short-con operator...
+Dialogue: 0,0:24:23.10,0:24:24.60,译文字幕,,0,0,0,,…不入流的骗子\N{\r原文字幕}...run-of-the-mill scams.
+Dialogue: 0,0:24:24.70,0:24:27.50,译文字幕,,0,0,0,,这些口供应该已经被封存了\N{\r原文字幕}It's been suppressed. Anything in there is inadmissible.
+Dialogue: 0,0:24:27.60,0:24:30.90,译文字幕,,0,0,0,,我知道，你做了桩好交易，你已经被完全豁免\N{\r原文字幕}I know. Sweet deal you have here. Total immunity.
+Dialogue: 0,0:24:33.10,0:24:37.50,译文字幕,,0,0,0,,我因非法持枪罪被起诉，还有六个月的日子得熬\N{\r原文字幕}I do have the weapons charge. I'm lookin' at six whole months hard time.
+Dialogue: 0,0:24:37.60,0:24:39.70,译文字幕,,0,0,0,,认识一个叫鲁比·迪莫的商人吗？\N{\r原文字幕}You know a dealer named Ruby Deemer?
+Dialogue: 0,0:24:41.10,0:24:43.20,译文字幕,,0,0,0,,认识一个叫约翰·保罗的教徒吗？\N{\r原文字幕}You know a religious guy named John Paul?
+Dialogue: 0,0:24:43.40,0:24:46.40,译文字幕,,0,0,0,,- 知道阿提卡的鲁比吗？ - 我和他没什么瓜葛\N{\r原文字幕}- You know Ruby's in Attica? - He didn't have my lawyer.
+Dialogue: 0,0:24:46.50,0:24:48.40,译文字幕,,0,0,0,,我认识鲁比，他很受人尊敬\N{\r原文字幕}I know Ruby. He's big on respect.
+Dialogue: 0,0:24:48.40,0:24:50.90,译文字幕,,0,0,0,,他是我的好朋友，也很喜欢我\N{\r原文字幕}He's a good friend of mine, likes me very much.
+Dialogue: 0,0:24:51.00,0:24:54.00,译文字幕,,0,0,0,,我知你的证供已被封存，可鲁比交游广阔\N{\r原文字幕}I know your testimony is sealed. Ruby's well connected.
+Dialogue: 0,0:24:54.10,0:24:56.80,译文字幕,,0,0,0,,有许多朋友愿为他效力\N{\r原文字幕}He's got lots of friends inside who do favors for him.
+Dialogue: 0,0:24:56.80,0:25:00.70,译文字幕,,0,0,0,,如果他知道你把他的名字供给了地方检察官，知道他会怎么做吗？\N{\r原文字幕}What would he say if he found out you dropped his name to the DA?
+Dialogue: 0,0:25:01.00,0:25:04.50,译文字幕,,0,0,0,,- 上面根本没提鲁比的事 - 可我会这么对他说\N{\r原文字幕}- There's nothing there on Ruby. - I'll be sure to mention that to him.
+Dialogue: 0,0:25:04.50,0:25:07.60,译文字幕,,0,0,0,,知道我从这行学了什么？ 就是如何认出凶手\N{\r原文字幕}Know what I've learned on the job? How to spot a murderer.
+Dialogue: 0,0:25:07.70,0:25:10.00,译文字幕,,0,0,0,,假设捉了宗谋杀案的三个疑犯\N{\r原文字幕}Say you arrest three guys for the same killing.
+Dialogue: 0,0:25:10.10,0:25:11.60,译文字幕,,0,0,0,,你把他们关通宵\N{\r原文字幕}Put them in jail overnight.
+Dialogue: 0,0:25:11.60,0:25:14.00,译文字幕,,0,0,0,,到了第二天早上，谁要是睡着了，谁就是凶手\N{\r原文字幕}Next morning, whoever's sleeping is your man.
+Dialogue: 0,0:25:14.00,0:25:17.70,译文字幕,,0,0,0,,如果你犯了罪，等到被捕，你的戒心就松懈了\N{\r原文字幕}If you're guilty, you know you're caught. You let your guard down.
+Dialogue: 0,0:25:17.80,0:25:20.00,译文字幕,,0,0,0,,- 明白吗？ - 不\N{\r原文字幕}- You follow me? - No.
+Dialogue: 0,0:25:20.30,0:25:21.70,译文字幕,,0,0,0,,让我开门见山的直说\N{\r原文字幕}Let me get to the point.
+Dialogue: 0,0:25:23.70,0:25:27.70,译文字幕,,0,0,0,,我比你聪明， 我会查出我要知的事\N{\r原文字幕}I'm smarter than you, and I'm gonna find out what I wanna know.
+Dialogue: 0,0:25:27.80,0:25:30.10,译文字幕,,0,0,0,,无论你是否喜欢，我都会查出真相\N{\r原文字幕}I'll get it, whether you like it or not.
+Dialogue: 0,0:25:31.30,0:25:32.80,译文字幕,,0,0,0,,我也不是鼠辈\N{\r原文字幕}I'm not a rat.
+Dialogue: 0,0:25:39.20,0:25:40.40,译文字幕,,0,0,0,,谢谢\N{\r原文字幕}Thanks.
+Dialogue: 0,0:25:44.70,0:25:48.50,译文字幕,,0,0,0,,我曾在危地马拉尝过咖啡豆磨的新鲜咖啡\N{\r原文字幕}When I was pickin' beans in Guatemala we used to make fresh coffee.
+Dialogue: 0,0:25:48.50,0:25:51.60,译文字幕,,0,0,0,,直接从树上摘下的那种，好喝极了\N{\r原文字幕}Right off the trees, I mean. That was good.
+Dialogue: 0,0:25:51.70,0:25:55.50,译文字幕,,0,0,0,,- 这味道糟透了，谁让我是在警察局里呢  - 能继续吗？\N{\r原文字幕}- This is shit, but I'm in a police station. - Can we get started again?
+Dialogue: 0,0:25:55.60,0:25:57.80,译文字幕,,0,0,0,,指认结束后怎样了？\N{\r原文字幕}What happened after the lineup?
+Dialogue: 0,0:26:03.80,0:26:06.70,译文字幕,,0,0,0,,那值班的对我说不能保释你\N{\r原文字幕}The desk sergeant was telling me he couldn't release you.
+Dialogue: 0,0:26:06.80,0:26:10.00,译文字幕,,0,0,0,,你能相信吗？你甚至未被起诉\N{\r原文字幕}Can you believe that? You weren't even charged.
+Dialogue: 0,0:26:10.00,0:26:11.40,译文字幕,,0,0,0,,该死的警察\N{\r原文字幕}Damn police.
+Dialogue: 0,0:26:14.10,0:26:16.60,译文字幕,,0,0,0,,我要给你的脸拍照\N{\r原文字幕}I wanna have pictures taken of your face.
+Dialogue: 0,0:26:16.70,0:26:19.80,译文字幕,,0,0,0,,-明天就送到地方检察官那儿 - 算了吧\N{\r原文字幕}- I'll take them to the DA tomorrow. - Forget about it.
+Dialogue: 0,0:26:19.80,0:26:22.60,译文字幕,,0,0,0,,星期一我就会把这事报到大陪审团去\N{\r原文字幕}I'll have this thing in front of a grand jury by Monday.
+Dialogue: 0,0:26:22.70,0:26:24.60,译文字幕,,0,0,0,,我不想再谈这事了\N{\r原文字幕}I don't want to talk about it, okay?
+Dialogue: 0,0:26:27.60,0:26:29.40,译文字幕,,0,0,0,,弗提和雷诺那边怎么说？\N{\r原文字幕}What did Fortier and Renault say?
+Dialogue: 0,0:26:30.00,0:26:32.60,译文字幕,,0,0,0,,他们需要多些时间考虑投资\N{\r原文字幕}They asked for more time to think about investing.
+Dialogue: 0,0:26:32.70,0:26:33.70,译文字幕,,0,0,0,,该死的\N{\r原文字幕}Damn it.
+Dialogue: 0,0:26:34.30,0:26:35.40,译文字幕,,0,0,0,,需要多些时间干什么？\N{\r原文字幕}More time for what?
+Dialogue: 0,0:26:35.90,0:26:39.40,译文字幕,,0,0,0,,无论你怎么掩饰我的过去，他们还是会查到我的底细\N{\r原文字幕}No matter how you cover my tracks they're still gonna find out about me.
+Dialogue: 0,0:26:39.90,0:26:41.60,译文字幕,,0,0,0,,相信我\N{\r原文字幕}Give me some credit.
+Dialogue: 0,0:26:41.90,0:26:44.20,译文字幕,,0,0,0,,我会帮你澄清的，我们一起去庭内合议\N{\r原文字幕}I got you this far. Let's go to the grand jury.
+Dialogue: 0,0:26:44.30,0:26:48.40,译文字幕,,0,0,0,,- 如果不这样，这事不会停-- - 这事永远不会停\N{\r原文字幕}- This isn't gonna stop if we don't-- - It's never going to stop, period.
+Dialogue: 0,0:26:49.00,0:26:53.20,译文字幕,,0,0,0,,下星期所有投资者都将抛弃我们\N{\r原文字幕}By next week, every investor in the city is gonna be walking away from us.
+Dialogue: 0,0:26:54.80,0:26:56.10,译文字幕,,0,0,0,,完了\N{\r原文字幕}It's finished.
+Dialogue: 0,0:26:56.30,0:26:57.80,译文字幕,,0,0,0,,我徹底完了\N{\r原文字幕}I'm finished.
+Dialogue: 0,0:27:03.50,0:27:05.60,译文字幕,,0,0,0,,别轻言放弃，基顿\N{\r原文字幕}Don't give up on me now.
+Dialogue: 0,0:27:07.70,0:27:09.70,译文字幕,,0,0,0,,这事永远也不会停\N{\r原文字幕}It's never gonna stop.
+Dialogue: 0,0:27:16.90,0:27:18.30,译文字幕,,0,0,0,,我爱你\N{\r原文字幕}I love you.
+Dialogue: 0,0:27:19.40,0:27:21.70,译文字幕,,0,0,0,,他们今晚毁了我\N{\r原文字幕}They ruined me in there tonight.
+Dialogue: 0,0:27:23.70,0:27:25.00,译文字幕,,0,0,0,,我爱你\N{\r原文字幕}I love you.
+Dialogue: 0,0:27:26.60,0:27:27.80,译文字幕,,0,0,0,,你听到了吗？\N{\r原文字幕}Do you hear me?
+Dialogue: 0,0:27:35.00,0:27:36.10,译文字幕,,0,0,0,,什么？\N{\r原文字幕}What?
+Dialogue: 0,0:27:38.70,0:27:40.00,译文字幕,,0,0,0,,好了\N{\r原文字幕}All right.
+Dialogue: 0,0:27:41.10,0:27:43.10,译文字幕,,0,0,0,,去我家吧\N{\r原文字幕}Let's just go to my place.
+Dialogue: 0,0:27:58.40,0:28:00.40,译文字幕,,0,0,0,,明天再想这些烦事\N{\r原文字幕}We'll worry about this tomorrow.
+Dialogue: 0,0:28:04.50,0:28:06.10,译文字幕,,0,0,0,,走吧\N{\r原文字幕}Let's go.
+Dialogue: 0,0:28:08.60,0:28:11.30,译文字幕,,0,0,0,,范斯特和麦克麦纳斯有个很好的计划:\N{\r原文字幕}Fenster and McManus had a cagey proposition:
+Dialogue: 0,0:28:11.40,0:28:13.90,译文字幕,,0,0,0,,钱来的快，风险高，利润也大\N{\r原文字幕}A fast-jump, high-risk, long money.
+Dialogue: 0,0:28:14.40,0:28:16.10,译文字幕,,0,0,0,,我们都知道那行得通\N{\r原文字幕}We all knew it could be done.
+Dialogue: 0,0:28:16.20,0:28:19.00,译文字幕,,0,0,0,,我想那事若是办坏了就得杀人\N{\r原文字幕}The way I figured, to do it wrong meant killing.
+Dialogue: 0,0:28:19.20,0:28:21.40,译文字幕,,0,0,0,,可要办好就要集齐五个人\N{\r原文字幕}To do it right took five men.
+Dialogue: 0,0:28:21.90,0:28:23.70,译文字幕,,0,0,0,,五个人的关键就是基顿\N{\r原文字幕}Five men meant Keaton.
+Dialogue: 0,0:28:25.00,0:28:26.90,译文字幕,,0,0,0,,基顿总是令人信服的\N{\r原文字幕}Keaton took convincing.
+Dialogue: 0,0:28:29.40,0:28:31.60,译文字幕,,0,0,0,,纽约警察出租公司\N{\r原文字幕}New York's finest taxi service.
+Dialogue: 0,0:28:32.40,0:28:33.70,译文字幕,,0,0,0,,胡说\N{\r原文字幕}Bullshit.
+Dialogue: 0,0:28:34.50,0:28:35.80,译文字幕,,0,0,0,,胡说\N{\r原文字幕}Bullshit.
+Dialogue: 0,0:28:37.00,0:28:39.00,译文字幕,,0,0,0,,他们早就已经不干了\N{\r原文字幕}They don't operate anymore.
+Dialogue: 0,0:28:39.30,0:28:43.40,译文字幕,,0,0,0,,麦克麦纳斯有个朋友在十四区，他们星期四收到了风声\N{\r原文字幕}McManus has a friend in the 14th precinct. They're coming out for one job, Thursday.
+Dialogue: 0,0:28:43.50,0:28:46.40,译文字幕,,0,0,0,,他们准备收拾一个从南非走私宝石的家伙\N{\r原文字幕}They're pickin' up a guy smuggling emeralds from South America.
+Dialogue: 0,0:28:46.50,0:28:48.30,译文字幕,,0,0,0,,麦克麦纳斯已经找到了销赃人\N{\r原文字幕}McManus already has a fence set up.
+Dialogue: 0,0:28:48.30,0:28:51.30,译文字幕,,0,0,0,,- 销赃人？是谁？ - 是个加州人，叫雷德福特\N{\r原文字幕}- A fence? Who? - Some guy in California called Redfoot.
+Dialogue: 0,0:28:51.30,0:28:54.30,译文字幕,,0,0,0,,- 我从未听说过这家伙 - 你一定要来\N{\r原文字幕}- I never heard of him. - You have to come.
+Dialogue: 0,0:28:54.40,0:28:58.90,译文字幕,,0,0,0,,- 我来与不来，与你何干？ - 他们不认识我，只认识你\N{\r原文字幕}- What's it to you whether I do it or not? - They don't know me. You do.
+Dialogue: 0,0:28:59.10,0:29:01.50,译文字幕,,0,0,0,,除非你一起干，否则他们不信我\N{\r原文字幕}They won't take me unless you go.
+Dialogue: 0,0:29:01.90,0:29:03.60,译文字幕,,0,0,0,,替我想想，我需要这笔钱\N{\r原文字幕}Look at me. I need this.
+Dialogue: 0,0:29:04.60,0:29:07.90,译文字幕,,0,0,0,,难道你就不需要？这是你家吗？\N{\r原文字幕}You're telling me you don't need this? Is this your place?
+Dialogue: 0,0:29:08.30,0:29:11.80,译文字幕,,0,0,0,,我不是在打击你，难道你就打算跟着这律师吃软饭？\N{\r原文字幕}I'm not knocking you. You got a good scam going with this lawyer.
+Dialogue: 0,0:29:16.60,0:29:17.70,译文字幕,,0,0,0,,对不起\N{\r原文字幕}Sorry.
+Dialogue: 0,0:29:18.70,0:29:20.60,译文字幕,,0,0,0,,算了\N{\r原文字幕}It's okay.
+Dialogue: 0,0:29:21.80,0:29:24.50,译文字幕,,0,0,0,,你说得不错\N{\r原文字幕}You say it's the real thing? That's cool.
+Dialogue: 0,0:29:27.10,0:29:28.30,译文字幕,,0,0,0,,你没事吧？\N{\r原文字幕}You okay?
+Dialogue: 0,0:29:28.70,0:29:30.40,译文字幕,,0,0,0,,我已经洗手不干\N{\r原文字幕}I was out of line.
+Dialogue: 0,0:29:31.20,0:29:34.10,译文字幕,,0,0,0,,可他们仍不放过我们，你很明白这点\N{\r原文字幕}But they're never gonna stop with us. You know that.
+Dialogue: 0,0:29:34.10,0:29:36.90,译文字幕,,0,0,0,,即使像你般清白，他们仍缠着你\N{\r原文字幕}As clean as you get, they'll never let you go now.
+Dialogue: 0,0:29:36.90,0:29:41.00,译文字幕,,0,0,0,,这么干，既能给警察们颜色看， 同时我们也得了好处\N{\r原文字幕}This way, we hit the cops where it hurts, and we get well in the meantime.
+Dialogue: 0,0:29:44.90,0:29:46.50,译文字幕,,0,0,0,,你真的没事吗？\N{\r原文字幕}You sure you're okay?
+Dialogue: 0,0:29:47.10,0:29:48.50,译文字幕,,0,0,0,,会没事的\N{\r原文字幕}I'll be all right.
+Dialogue: 0,0:30:03.10,0:30:04.40,译文字幕,,0,0,0,,你看…\N{\r原文字幕}Look, I...
+Dialogue: 0,0:30:05.20,0:30:07.60,译文字幕,,0,0,0,,- …我有时候-- - 别说了\N{\r原文字幕}- ...sometimes get-- - Forget it.
+Dialogue: 0,0:30:11.00,0:30:13.40,译文字幕,,0,0,0,,我今晚可能会泻血\N{\r原文字幕}I'll probably shit blood tonight.
+Dialogue: 0,0:30:24.40,0:30:25.60,译文字幕,,0,0,0,,那么…\N{\r原文字幕}So...
+Dialogue: 0,0:30:28.30,0:30:30.20,译文字幕,,0,0,0,,…他们想怎么下手？\N{\r原文字幕}...how do they wanna do it?
+Dialogue: 0,0:30:31.70,0:30:34.40,译文字幕,,0,0,0,,麦克麦纳斯想开杀戒，可我反对\N{\r原文字幕}McManus wants to go in shooting. I say no.
+Dialogue: 0,0:30:36.00,0:30:38.20,译文字幕,,0,0,0,,范斯特呢？哈肯尼呢？\N{\r原文字幕}Fenster? Hockney?
+Dialogue: 0,0:30:38.40,0:30:41.10,译文字幕,,0,0,0,,他们都豁出去了，什么都干的出来\N{\r原文字幕}They're pretty pissed off. They'll do anything.
+Dialogue: 0,0:30:41.20,0:30:43.60,译文字幕,,0,0,0,,我有条不用杀任何人的路\N{\r原文字幕}I got a way to do it without killing anyone.
+Dialogue: 0,0:30:43.60,0:30:46.90,译文字幕,,0,0,0,,可就像我说的，没有你，他们不会让我加入\N{\r原文字幕}But like I say, they won't let me in without you.
+Dialogue: 0,0:31:05.10,0:31:06.40,译文字幕,,0,0,0,,三百万？\N{\r原文字幕}$3 million?
+Dialogue: 0,0:31:08.40,0:31:09.80,译文字幕,,0,0,0,,也许更多\N{\r原文字幕}Maybe more.
+Dialogue: 0,0:31:14.40,0:31:15.80,译文字幕,,0,0,0,,不杀人\N{\r原文字幕}No killing.
+Dialogue: 0,0:31:17.50,0:31:19.30,译文字幕,,0,0,0,,只要依我的方法行事便成\N{\r原文字幕}Not if we do it my way.
+Dialogue: 0,0:31:53.30,0:31:56.50,译文字幕,,0,0,0,,纽约警察出租车公司是个地下称呼\N{\r原文字幕}New York's finest taxi service was not your normal taxi service.
+Dialogue: 0,0:31:56.60,0:32:00.50,译文字幕,,0,0,0,,那是纽约贪污警察的生财工具…\N{\r原文字幕}It was a ring of corrupt cops in the NYPD that ran a high-profit racket...
+Dialogue: 0,0:32:00.60,0:32:03.10,译文字幕,,0,0,0,,…他们接载走私客和毒贩\N{\r原文字幕}...driving smugglers and drug dealers all over the city.
+Dialogue: 0,0:32:03.20,0:32:05.80,译文字幕,,0,0,0,,付上每公里三百元的价钱，你就有了私人的蓝白警察卫队\N{\r原文字幕}For $300 a mile, you got your own blue and white...
+Dialogue: 0,0:32:05.90,0:32:08.90,译文字幕,,0,0,0,,他们甚至还备有名片\N{\r原文字幕}...and a police escort. They even had their own business cards.
+Dialogue: 0,0:32:09.00,0:32:13.20,译文字幕,,0,0,0,,没过多久，有人提出了质询，而这计程车服务亦告终结\N{\r原文字幕}After a while, somebody started asking questions, and the taxi service shut down.
+Dialogue: 0,0:32:13.30,0:32:16.90,译文字幕,,0,0,0,,随后内政部的人将涉案的人都拘捕了\N{\r原文字幕}Ever since then, Internal Affairs has been waiting to catch them in the act.
+Dialogue: 0,0:32:17.00,0:32:18.60,译文字幕,,0,0,0,,我们就对那伙人下手\N{\r原文字幕}That's where we came in.
+Dialogue: 0,0:32:18.90,0:32:22.10,译文字幕,,0,0,0,,- 旅程愉快吗？ - 好的很\N{\r原文字幕}- So, how was the flight? - Fuckin' great.
+Dialogue: 0,0:32:24.00,0:32:26.40,译文字幕,,0,0,0,,用这车能送我去斯坦顿岛吗？\N{\r原文字幕}Will this get me to Staten Island?
+Dialogue: 0,0:32:27.10,0:32:29.90,译文字幕,,0,0,0,,开什么玩笑？ 就是把你送到科德角去也行\N{\r原文字幕}Are you kiddin' me? This will get you to Cape Cod.
+Dialogue: 0,0:32:30.00,0:32:32.90,译文字幕,,0,0,0,,麦克麦纳斯去接生意，范斯特安排车辆\N{\r原文字幕}McManus came to us with the job. Fenster got the vans.
+Dialogue: 0,0:32:32.90,0:32:34.60,译文字幕,,0,0,0,,哈肯尼提供枪械\N{\r原文字幕}Hockney supplied the hardware.
+Dialogue: 0,0:32:34.60,0:32:37.30,译文字幕,,0,0,0,,我则想办法不让人被杀\N{\r原文字幕}I came through with how to do it so no one got killed.
+Dialogue: 0,0:32:37.40,0:32:41.00,译文字幕,,0,0,0,,基顿？基顿把整件事添上最后一笔\N{\r原文字幕}But Keaton? Keaton put on the finishing touch.
+Dialogue: 0,0:32:41.10,0:32:44.70,译文字幕,,0,0,0,,稍有差错，我们五人将落到警方手上\N{\r原文字幕}A little "fuck you" from the five of us to the NYPD.
+Dialogue: 0,0:32:48.00,0:32:49.20,译文字幕,,0,0,0,,看着点\N{\r原文字幕}Watch this.
+Dialogue: 0,0:32:50.40,0:32:51.40,译文字幕,,0,0,0,,小心\N{\r原文字幕}Careful.
+Dialogue: 0,0:32:51.70,0:32:53.40,译文字幕,,0,0,0,,真该死\N{\r原文字幕}Come on, asshole!
+Dialogue: 0,0:32:54.80,0:32:56.10,译文字幕,,0,0,0,,天啊！\N{\r原文字幕}Holy shit!
+Dialogue: 0,0:32:57.10,0:33:00.20,译文字幕,,0,0,0,,- 别动，混蛋！ - 把枪放下，杂种！\N{\r原文字幕}- Don't move, you fucker! - Drop it now, motherfucker!
+Dialogue: 0,0:33:00.30,0:33:02.40,译文字幕,,0,0,0,,把他妈的枪丢掉！快丢掉！\N{\r原文字幕}Drop the fuckin' gun! Drop it!
+Dialogue: 0,0:33:02.40,0:33:04.50,译文字幕,,0,0,0,,别他妈的碰任何东西\N{\r原文字幕}Don't fuckin' touch a fuckin' thing.
+Dialogue: 0,0:33:04.50,0:33:07.20,译文字幕,,0,0,0,,- 你们想要干什么？ - 把那该死的东西拿开\N{\r原文字幕}- What do you guys want? - Put your fuckin' thing away.
+Dialogue: 0,0:33:07.30,0:33:09.30,译文字幕,,0,0,0,,我们是警察，蠢货！\N{\r原文字幕}We're cops! Stupid assholes!
+Dialogue: 0,0:33:09.50,0:33:12.00,译文字幕,,0,0,0,,- 小心玻璃！ - 别动，杂种！\N{\r原文字幕}- Watch the glass! - Don't fuckin' move, motherfucker!
+Dialogue: 0,0:33:12.60,0:33:15.40,译文字幕,,0,0,0,,- 想尝颗子弹吗？胖子 - 闭嘴！\N{\r原文字幕}- You want a buckshot shampoo, chubby? - Shut up!
+Dialogue: 0,0:33:17.90,0:33:19.40,译文字幕,,0,0,0,,他妈的\N{\r原文字幕}Fuck.
+Dialogue: 0,0:33:21.70,0:33:24.40,译文字幕,,0,0,0,,下午好，兄弟，把东西给我\N{\r原文字幕}'Afternoon, my little pork chops. Give me the shit.
+Dialogue: 0,0:33:24.50,0:33:26.10,译文字幕,,0,0,0,,- 别动！ - 把那东西给他！\N{\r原文字幕}- Don't move! - Give him the shit!
+Dialogue: 0,0:33:26.20,0:33:28.20,译文字幕,,0,0,0,,快把那该死的东西给他！\N{\r原文字幕}Give him the fuckin' thing!
+Dialogue: 0,0:33:28.30,0:33:30.10,译文字幕,,0,0,0,,快把那该死的东西给他！\N{\r原文字幕}Give him the fuckin' shit, man!
+Dialogue: 0,0:33:30.40,0:33:32.50,译文字幕,,0,0,0,,快点！拿来！\N{\r原文字幕}Hurry up! Come on!
+Dialogue: 0,0:33:32.90,0:33:34.80,译文字幕,,0,0,0,,- 还有钱 - 没有钱了\N{\r原文字幕}- Now the money! - There's no money.
+Dialogue: 0,0:33:34.90,0:33:37.90,译文字幕,,0,0,0,,- 把钱交出来！ - 根本没有钱\N{\r原文字幕}- Give me the money now! - There's no fuckin' money.
+Dialogue: 0,0:33:38.00,0:33:39.60,译文字幕,,0,0,0,,把钱给他！\N{\r原文字幕}Give him the fuckin' money!
+Dialogue: 0,0:33:39.90,0:33:42.30,译文字幕,,0,0,0,,- 快！把钱给他！ - 把钱给我！\N{\r原文字幕}- Do it! Give him the money! - Give me the money!
+Dialogue: 0,0:33:42.50,0:33:44.80,译文字幕,,0,0,0,,- 把钱给他！ - 快点！\N{\r原文字幕}- Give him the money! - Hurry up!
+Dialogue: 0,0:33:45.70,0:33:47.80,译文字幕,,0,0,0,,你们知道我是谁吗？\N{\r原文字幕}You know who the fuck I am?
+Dialogue: 0,0:33:48.00,0:33:50.70,译文字幕,,0,0,0,,你们这些家伙知道我是谁吗？ 他妈的！\N{\r原文字幕}You people know who the fuck I am? Fuck!
+Dialogue: 0,0:33:51.30,0:33:53.10,译文字幕,,0,0,0,,现在知道了\N{\r原文字幕}We do now, jerk-off.
+Dialogue: 0,0:33:53.90,0:33:55.20,译文字幕,,0,0,0,,混蛋\N{\r原文字幕}Cocksucker.
+Dialogue: 0,0:34:00.00,0:34:02.00,译文字幕,,0,0,0,,等等，那算什么？\N{\r原文字幕}Wait a minute. What's that?
+Dialogue: 0,0:34:04.40,0:34:05.50,译文字幕,,0,0,0,,这到底算什么？\N{\r原文字幕}What the fuck?
+Dialogue: 0,0:34:06.10,0:34:07.40,译文字幕,,0,0,0,,天啊！\N{\r原文字幕}Holy shit!
+Dialogue: 0,0:34:10.00,0:34:11.10,译文字幕,,0,0,0,,走！\N{\r原文字幕}Go!
+Dialogue: 0,0:34:24.10,0:34:26.00,译文字幕,,0,0,0,,基顿打了个匿名电话\N{\r原文字幕}Keaton made an anonymous phone call.
+Dialogue: 0,0:34:26.10,0:34:28.70,译文字幕,,0,0,0,,新闻界与警察一起抵达现场\N{\r原文字幕}The press was on the scene before the police were.
+Dialogue: 0,0:34:28.80,0:34:31.20,译文字幕,,0,0,0,,三日后，施特劳斯和瑞兹被起诉\N{\r原文字幕}Strausz and Rizzi were indicted three days later.
+Dialogue: 0,0:34:31.30,0:34:34.10,译文字幕,,0,0,0,,不到几个星期，又有50多个警察也被起诉\N{\r原文字幕}Within a few weeks, 50 more cops went down with them.
+Dialogue: 0,0:34:34.50,0:34:38.10,译文字幕,,0,0,0,,这案子牵连很广，直到挖出了他们的头脑\N{\r原文字幕}Everybody got it right in the ass, from the chief on down.
+Dialogue: 0,0:34:38.20,0:34:39.80,译文字幕,,0,0,0,,干的漂亮极了\N{\r原文字幕}It was beautiful.
+Dialogue: 0,0:34:48.00,0:34:49.50,译文字幕,,0,0,0,,我欠你两块半\N{\r原文字幕}I owe you $2.50.
+Dialogue: 0,0:34:51.10,0:34:52.50,译文字幕,,0,0,0,,基顿博士\N{\r原文字幕}Dr.Keaton.
+Dialogue: 0,0:34:55.30,0:34:58.80,译文字幕,,0,0,0,,- 比我想的要多 - 销赃的家伙什么时候到？\N{\r原文字幕}- There's more here than I thought. - When's the fence coming?
+Dialogue: 0,0:34:59.20,0:35:01.80,译文字幕,,0,0,0,,雷德福特不会主动来见我，一般都是我去找他\N{\r原文字幕}Redfoot never comes to see me. I always go to see him.
+Dialogue: 0,0:35:03.20,0:35:04.70,译文字幕,,0,0,0,,在加州？\N{\r原文字幕}In California?
+Dialogue: 0,0:35:05.80,0:35:08.60,译文字幕,,0,0,0,,是的，维伯，在加州           范斯特和我--\N{\r原文字幕}Yes, Verbal, in California. Fenster and I--
+Dialogue: 0,0:35:08.70,0:35:12.70,译文字幕,,0,0,0,,等等，先收声，你和范斯特？不行\N{\r原文字幕}Wait, hold the fuckin' phone. You and Fenster? No.
+Dialogue: 0,0:35:13.10,0:35:17.00,译文字幕,,0,0,0,,- 你们想耍我？ - 那么派谁去？\N{\r原文字幕}- You fuckin' kiddin' me? - So then, who's gonna go?
+Dialogue: 0,0:35:17.80,0:35:19.10,译文字幕,,0,0,0,,我们一起去\N{\r原文字幕}We all go.
+Dialogue: 0,0:35:20.90,0:35:23.20,译文字幕,,0,0,0,,你有什么问题吗？伙计\N{\r原文字幕}What's your fuckin' problem, man?
+Dialogue: 0,0:35:23.40,0:35:26.90,译文字幕,,0,0,0,,我的问题就是，你和范斯特会在加州逍遥快活\N{\r原文字幕}My problem, is you and Fenster honeymooning in California...
+Dialogue: 0,0:35:26.90,0:35:30.00,译文字幕,,0,0,0,,…而把我们甩在这里提心吊胆\N{\r原文字幕}...while the rest of us are sittin' here holding our dicks.
+Dialogue: 0,0:35:30.20,0:35:31.70,译文字幕,,0,0,0,,已经完事了\N{\r原文字幕}The job's over.
+Dialogue: 0,0:35:32.30,0:35:33.50,译文字幕,,0,0,0,,冷静点\N{\r原文字幕}Cool it.
+Dialogue: 0,0:35:34.20,0:35:36.80,译文字幕,,0,0,0,,洛杉矶是个轻松的好地方\N{\r原文字幕}LA's a good place to lay low for a while.
+Dialogue: 0,0:35:39.50,0:35:40.90,译文字幕,,0,0,0,,想要跳舞吗？\N{\r原文字幕}You wanna dance?
+Dialogue: 0,0:35:48.50,0:35:49.70,译文字幕,,0,0,0,,变态\N{\r原文字幕}Ladies.
+Dialogue: 0,0:35:57.60,0:35:59.50,译文字幕,,0,0,0,,我提议大家干一杯\N{\r原文字幕}I would like to propose a toast.
+Dialogue: 0,0:36:01.00,0:36:02.40,译文字幕,,0,0,0,,敬你的\N{\r原文字幕}There you go.
+Dialogue: 0,0:36:05.00,0:36:06.50,译文字幕,,0,0,0,,为足智多谋的…\N{\r原文字幕}To Mr.Verbal...
+Dialogue: 0,0:36:08.20,0:36:10.20,译文字幕,,0,0,0,,…“口水先生”而干\N{\r原文字幕}...the man with the plan.
+Dialogue: 0,0:36:23.20,0:36:24.90,译文字幕,,0,0,0,,我们会错过班机的\N{\r原文字幕}We're gonna miss the flight.
+Dialogue: 0,0:36:26.00,0:36:29.10,译文字幕,,0,0,0,,别傻等了，给她留张便条就行了\N{\r原文字幕}Don't do this. Send her a note. Something.
+Dialogue: 0,0:36:29.90,0:36:31.70,译文字幕,,0,0,0,,我说了来得及的\N{\r原文字幕}I said we'll make it.
+Dialogue: 0,0:37:05.60,0:37:07.70,译文字幕,,0,0,0,,我们快要误机了\N{\r原文字幕}We're gonna miss the plane.
+Dialogue: 0,0:37:09.00,0:37:10.60,译文字幕,,0,0,0,,她会理解的\N{\r原文字幕}She'll understand.
+Dialogue: 0,0:37:30.20,0:37:33.20,译文字幕,,0,0,0,,那真的很感人\N{\r原文字幕}That's heartwarming. Really.
+Dialogue: 0,0:37:34.80,0:37:36.10,译文字幕,,0,0,0,,我有点想哭了\N{\r原文字幕}I'm weepy.
+Dialogue: 0,0:37:37.30,0:37:39.30,译文字幕,,0,0,0,,到外面去等好吗？\N{\r原文字幕}You wanna wait outside?
+Dialogue: 0,0:37:42.40,0:37:45.70,译文字幕,,0,0,0,,是你们想知道发生的事，我正和你们说实话\N{\r原文字幕}You guys wanted to know what happened. I'm telling you.
+Dialogue: 0,0:37:45.80,0:37:47.20,译文字幕,,0,0,0,,继续吧，维伯\N{\r原文字幕}Come on, Verbal.
+Dialogue: 0,0:37:47.50,0:37:52.30,译文字幕,,0,0,0,,你以为我是谁？你要我相信他真会洗手不干？\N{\r原文字幕}Who do you think you're talkin' to? You expect me to believe that he retired?
+Dialogue: 0,0:37:53.30,0:37:54.70,译文字幕,,0,0,0,,就为了个女人？\N{\r原文字幕}For a woman?
+Dialogue: 0,0:37:56.60,0:37:59.20,译文字幕,,0,0,0,,胡扯，基顿是在利用她\N{\r原文字幕}Bullshit. Keaton was using her.
+Dialogue: 0,0:37:59.80,0:38:01.90,译文字幕,,0,0,0,,- 他爱他 - 没错\N{\r原文字幕}- He loved her. - Sure.
+Dialogue: 0,0:38:02.00,0:38:05.40,译文字幕,,0,0,0,,我很难相信袭击出租车，不是他的主意\N{\r原文字幕}I'm supposed to believe that hitting the taxi service wasn't his idea.
+Dialogue: 0,0:38:05.50,0:38:09.30,译文字幕,,0,0,0,,- 是范斯特和麦克麦纳斯提出的 - 基顿做了四年的警察\N{\r原文字幕}- It was all Fenster and McManus. - Keaton was a cop for four years.
+Dialogue: 0,0:38:09.30,0:38:11.20,译文字幕,,0,0,0,,谁会比他知道的更清楚？\N{\r原文字幕}Who else would know better?
+Dialogue: 0,0:38:11.30,0:38:14.10,译文字幕,,0,0,0,,- 他已经是臭名远扬 - 但伊迪使他全改变了\N{\r原文字幕}- That job had his name on it. - Edie had him turned around.
+Dialogue: 0,0:38:14.60,0:38:16.40,译文字幕,,0,0,0,,让我这么告诉你吧\N{\r原文字幕}Let me tell you something.
+Dialogue: 0,0:38:16.40,0:38:18.10,译文字幕,,0,0,0,,我了解迪恩·基顿\N{\r原文字幕}I know Dean Keaton.
+Dialogue: 0,0:38:18.20,0:38:21.00,译文字幕,,0,0,0,,过去四年我一直在调查他\N{\r原文字幕}I've been investigating him for the past three years.
+Dialogue: 0,0:38:21.00,0:38:23.60,译文字幕,,0,0,0,,我知道这家伙是个冷血的杂种\N{\r原文字幕}The guy I know was a cold-blooded bastard.
+Dialogue: 0,0:38:24.00,0:38:28.20,译文字幕,,0,0,0,,警队开除他前，已有三次被控谋杀\N{\r原文字幕}IAD indicted him on three counts of murder before he was kicked off the force.
+Dialogue: 0,0:38:28.30,0:38:30.60,译文字幕,,0,0,0,,别告诉我妓女也有颗金子般的心\N{\r原文字幕}Don't sell me the hooker with a heart of gold.
+Dialogue: 0,0:38:30.70,0:38:32.20,译文字幕,,0,0,0,,你完全误会了他\N{\r原文字幕}You got him all wrong.
+Dialogue: 0,0:38:33.40,0:38:34.50,译文字幕,,0,0,0,,是吗？\N{\r原文字幕}Do I?
+Dialogue: 0,0:38:35.10,0:38:39.40,译文字幕,,0,0,0,,迪恩·基顿在警队时，已有七次被控罪的记录\N{\r原文字幕}Dean Keaton was under indictment seven times while he was on the force.
+Dialogue: 0,0:38:39.50,0:38:43.00,译文字幕,,0,0,0,,每次不是证人翻供\N{\r原文字幕}In every case, witnesses either reversed their testimony...
+Dialogue: 0,0:38:43.60,0:38:46.00,译文字幕,,0,0,0,,…就是在出庭前就被干掉\N{\r原文字幕}...or died before they could testify.
+Dialogue: 0,0:38:46.70,0:38:51.10,译文字幕,,0,0,0,,等到终于能把他入罪，并送进州立新新监狱关上五年\N{\r原文字幕}When they finally did nail him for fraud, he spent five years in Sing Sing.
+Dialogue: 0,0:38:51.30,0:38:53.20,译文字幕,,0,0,0,,他却在里面杀了三个囚犯\N{\r原文字幕}He killed three prisoners inside.
+Dialogue: 0,0:38:53.80,0:38:56.00,译文字幕,,0,0,0,,当然，我不能证明此事\N{\r原文字幕}Of course, I can't prove this...
+Dialogue: 0,0:38:57.20,0:38:59.90,译文字幕,,0,0,0,,…但我亦不能证明他没有做\N{\r原文字幕}...but I can't prove the best part either.
+Dialogue: 0,0:39:01.20,0:39:02.90,译文字幕,,0,0,0,,迪恩·基顿死过一次\N{\r原文字幕}Dean Keaton was dead.
+Dialogue: 0,0:39:04.10,0:39:05.20,译文字幕,,0,0,0,,你知道那故事吗？\N{\r原文字幕}Did you know that?
+Dialogue: 0,0:39:05.50,0:39:09.20,译文字幕,,0,0,0,,两年前他在调查一宗…\N{\r原文字幕}He died in a fire two years ago, during an investigation into the murder...
+Dialogue: 0,0:39:09.30,0:39:12.40,译文字幕,,0,0,0,,…证人被杀案时葬身火海\N{\r原文字幕}...of a witness who was going to testify against him.
+Dialogue: 0,0:39:12.50,0:39:17.40,译文字幕,,0,0,0,,有两人见到迪恩·基顿在爆炸前进了货仓\N{\r原文字幕}Two people saw Dean Keaton walk into a warehouse he owned...just before it blew up.
+Dialogue: 0,0:39:17.80,0:39:20.90,译文字幕,,0,0,0,,他们说他去检查煤气是否泄漏\N{\r原文字幕}They said he went in to check a leaking gas main.
+Dialogue: 0,0:39:21.60,0:39:24.70,译文字幕,,0,0,0,,结果迪恩·基顿就此葬身火海\N{\r原文字幕}It blew up and took all of Dean Keaton with it.
+Dialogue: 0,0:39:26.30,0:39:30.90,译文字幕,,0,0,0,,爆炸发生三个月后，那两个目击者也死了\N{\r原文字幕}Within three months of the explosion, the two witnesses, they were dead.
+Dialogue: 0,0:39:31.40,0:39:33.40,译文字幕,,0,0,0,,一个是在车内自杀\N{\r原文字幕}One killed himself in his car.
+Dialogue: 0,0:39:33.60,0:39:36.50,译文字幕,,0,0,0,,另一个从电梯跌下而死\N{\r原文字幕}The other fell down an open elevator shaft.
+Dialogue: 0,0:39:39.80,0:39:41.70,译文字幕,,0,0,0,,让我们快开始吧\N{\r原文字幕}Let's get this show on the road.
+Dialogue: 0,0:39:41.80,0:39:44.50,译文字幕,,0,0,0,,我们说好了不能这样，现在有太多--\N{\r原文字幕}This is not what we discussed. There are too many--
+Dialogue: 0,0:39:44.60,0:39:47.40,译文字幕,,0,0,0,,我答应他死之前我们会离开\N{\r原文字幕}I promise we'll be out before he blows his porch light.
+Dialogue: 0,0:39:47.40,0:39:49.90,译文字幕,,0,0,0,,- 我中午还有会要开 - 只能待五分钟\N{\r原文字幕}- I have a noon meeting. - Five minutes.
+Dialogue: 0,0:39:49.90,0:39:51.80,译文字幕,,0,0,0,,好，所有人要冷静点\N{\r原文字幕}Everyone calm down, all right?
+Dialogue: 0,0:39:51.90,0:39:55.30,译文字幕,,0,0,0,,我要你问他码头枪战的事\N{\r原文字幕}I want you to ask this man about the shootout in the harbor.
+Dialogue: 0,0:40:07.20,0:40:10.00,译文字幕,,0,0,0,,- 他说他们在买-- - 是毒品，我们知道\N{\r原文字幕}- He says they were buying-- - Dope. We know.
+Dialogue: 0,0:40:15.80,0:40:18.70,译文字幕,,0,0,0,,他不知道他们要买什么，但肯定不是毒品\N{\r原文字幕}He doesn't know what they were buying, but not dope.
+Dialogue: 0,0:40:19.40,0:40:21.10,译文字幕,,0,0,0,,- 是人 - 什么？\N{\r原文字幕}- People. - What?
+Dialogue: 0,0:40:29.00,0:40:30.80,译文字幕,,0,0,0,,他需要保证…\N{\r原文字幕}He needs guarantees...
+Dialogue: 0,0:40:31.10,0:40:35.10,译文字幕,,0,0,0,,- 他说什么？保证？ - 他说他有生命危险\N{\r原文字幕}- What is he talking about, guarantees? - He says his life is in danger.
+Dialogue: 0,0:40:35.40,0:40:39.20,译文字幕,,0,0,0,,他见到有只魔鬼在望着他\N{\r原文字幕}He saw the Devil. Looked him in the eye.
+Dialogue: 0,0:40:39.30,0:40:41.90,译文字幕,,0,0,0,,- 我得走了 - 不，再等等\N{\r原文字幕}- I'm on my way. - No, wait a minute.
+Dialogue: 0,0:40:42.00,0:40:44.50,译文字幕,,0,0,0,,问他那个他说过的…\N{\r原文字幕}Ask him to tell him what he told me...
+Dialogue: 0,0:40:45.30,0:40:47.00,译文字幕,,0,0,0,,…那个魔鬼的事\N{\r原文字幕}...about the Devil.
+Dialogue: 0,0:40:47.40,0:40:49.00,译文字幕,,0,0,0,,魔鬼是谁？\N{\r原文字幕}Who's the Devil?
+Dialogue: 0,0:40:54.20,0:40:55.60,译文字幕,,0,0,0,,凯撒·苏斯\N{\r原文字幕}Keyser Soze.
+Dialogue: 0,0:41:00.60,0:41:01.90,译文字幕,,0,0,0,,凯撒·苏斯？\N{\r原文字幕}Keyser Soze?
+Dialogue: 0,0:41:02.00,0:41:04.80,译文字幕,,0,0,0,,他在码头上杀了许多人\N{\r原文字幕}He was in the harbor, killing many men.
+Dialogue: 0,0:41:05.60,0:41:07.40,译文字幕,,0,0,0,,他看见了凯撒·苏斯？\N{\r原文字幕}He saw Keyser Soze?
+Dialogue: 0,0:41:13.70,0:41:16.20,译文字幕,,0,0,0,,- 他看到了他的脸 - 好，好\N{\r原文字幕}- He saw his face. - All right.
+Dialogue: 0,0:41:16.50,0:41:19.20,译文字幕,,0,0,0,,让他告诉她，那人的长相是怎样的\N{\r原文字幕}Tell him to tell her what he looks like.
+Dialogue: 0,0:41:19.60,0:41:21.10,译文字幕,,0,0,0,,形容出来\N{\r原文字幕}Describe him.
+Dialogue: 0,0:41:27.60,0:41:30.20,译文字幕,,0,0,0,,六星期前，我接到匿名电话…\N{\r原文字幕}Six weeks ago, I get an anonymous phone call...
+Dialogue: 0,0:41:30.20,0:41:34.30,译文字幕,,0,0,0,,…说能在蒙第诺餐厅找到基顿，事实上他确实在\N{\r原文字幕}...telling me I can find Keaton eating at Mondino's, and there he is.
+Dialogue: 0,0:41:35.10,0:41:38.10,译文字幕,,0,0,0,,由于他伪称已死并没什么利益\N{\r原文字幕}Because he never profited from his alleged death...
+Dialogue: 0,0:41:38.30,0:41:41.70,译文字幕,,0,0,0,,…也因为我们已找到真正的凶手\N{\r原文字幕}...and we convicted someone else of the murder we tried to pin on him...
+Dialogue: 0,0:41:42.00,0:41:43.80,译文字幕,,0,0,0,,…所以只得让他走\N{\r原文字幕}...we had to let him go.
+Dialogue: 0,0:41:44.40,0:41:47.60,译文字幕,,0,0,0,,他伪称死去的时间已经够长，足以平息那宗谋杀案的影响\N{\r原文字幕}He was dead just long enough for the murder rap to blow over.
+Dialogue: 0,0:41:47.80,0:41:49.40,译文字幕,,0,0,0,,于是他就开始露面吃午餐了\N{\r原文字幕}And then he had lunch.
+Dialogue: 0,0:41:49.90,0:41:51.80,译文字幕,,0,0,0,,我对那一无所知\N{\r原文字幕}I don't know about that.
+Dialogue: 0,0:41:52.00,0:41:55.60,译文字幕,,0,0,0,,我不认为你知道什么，可你说看见基顿死了\N{\r原文字幕}I don't think you do, but you say you saw Keaton die.
+Dialogue: 0,0:41:56.30,0:41:59.40,译文字幕,,0,0,0,,我在想你可能是为他掩饰，而他仍藏身在某处\N{\r原文字幕}I think you're covering his ass, and he's still out there.
+Dialogue: 0,0:41:59.40,0:42:01.80,译文字幕,,0,0,0,,我认为他就是码头枪战的幕后主使\N{\r原文字幕}I think he's behind that circus at the harbor.
+Dialogue: 0,0:42:01.80,0:42:05.40,译文字幕,,0,0,0,,他利用你是因为你笨，而且认为自己是他的朋友\N{\r原文字幕}My bet is he's using you because you're stupid and think he's your friend.
+Dialogue: 0,0:42:05.50,0:42:07.70,译文字幕,,0,0,0,,你对我说他已死，就当他死了\N{\r原文字幕}You tell me he's dead, so be it.
+Dialogue: 0,0:42:08.70,0:42:11.00,译文字幕,,0,0,0,,我只想在回纽约前确定他已死\N{\r原文字幕}I wanna be sure before I go back to New York.
+Dialogue: 0,0:42:11.00,0:42:14.00,译文字幕,,0,0,0,,他根本不是幕后主使，那是个律师\N{\r原文字幕}He wasn't behind anything. It was the lawyer.
+Dialogue: 0,0:42:14.50,0:42:15.90,译文字幕,,0,0,0,,什么律师？\N{\r原文字幕}What lawyer?
+Dialogue: 0,0:42:16.80,0:42:17.80,译文字幕,,0,0,0,,什么律师？\N{\r原文字幕}What lawyer?
+Dialogue: 0,0:42:17.90,0:42:20.60,译文字幕,,0,0,0,,在我还在男声四重唱组时--\N{\r原文字幕}Back when I was in that barbershop quartet--
+Dialogue: 0,0:42:20.70,0:42:23.10,译文字幕,,0,0,0,,你以为我不知道，你隐瞒了地方检察官？\N{\r原文字幕}You don't think I know you held out on the DA?
+Dialogue: 0,0:42:23.30,0:42:24.80,译文字幕,,0,0,0,,你到底隐瞒了什么？\N{\r原文字幕}What did you leave out?
+Dialogue: 0,0:42:24.90,0:42:27.20,译文字幕,,0,0,0,,我能在十分钟内就找到鲁比\N{\r原文字幕}I could be on the phone to Ruby in 10 minutes.
+Dialogue: 0,0:42:27.20,0:42:29.90,译文字幕,,0,0,0,,- 地方检察官已经将我豁免 - 我还没有\N{\r原文字幕}- The DA gave me immunity. - Not from me.
+Dialogue: 0,0:42:30.00,0:42:32.50,译文字幕,,0,0,0,,我并没有豁免你，混蛋\N{\r原文字幕}You get no immunity from me, you piece of shit.
+Dialogue: 0,0:42:32.60,0:42:36.10,译文字幕,,0,0,0,,我将所有罪犯关在狱中，每个警察都感激我…\N{\r原文字幕}Every criminal I have put in prison, every cop that owes me a favor...
+Dialogue: 0,0:42:36.20,0:42:38.80,译文字幕,,0,0,0,,…所有犯罪的大小角色…\N{\r原文字幕}...every creep and scumbag that walks the street...
+Dialogue: 0,0:42:38.90,0:42:41.50,译文字幕,,0,0,0,,…都会知道维伯·肯特的大名…\N{\r原文字幕}...will know the name of Verbal Kint. You talk to me...
+Dialogue: 0,0:42:41.60,0:42:44.10,译文字幕,,0,0,0,,…你给我老实交待，不然你获得的珍贵豁免权…\N{\r原文字幕}...or that precious immunity they grant you...
+Dialogue: 0,0:42:44.20,0:42:48.50,译文字幕,,0,0,0,,…绝不会交到你手上\N{\r原文字幕}...won't be worth the paper the contract put out on your life is printed on.
+Dialogue: 0,0:42:50.60,0:42:52.30,译文字幕,,0,0,0,,还有个律师\N{\r原文字幕}There was a lawyer.
+Dialogue: 0,0:42:53.60,0:42:55.00,译文字幕,,0,0,0,,叫小林\N{\r原文字幕}Kobayashi.
+Dialogue: 0,0:42:56.00,0:43:00.40,译文字幕,,0,0,0,,- 就是他杀了基顿？ - 不是，但我肯定基顿已经死了\N{\r原文字幕}- Is he the one that killed Keaton? - No, but I'm sure Keaton is dead.
+Dialogue: 0,0:43:01.50,0:43:02.80,译文字幕,,0,0,0,,说服我相信\N{\r原文字幕}Convince me.
+Dialogue: 0,0:43:03.50,0:43:05.70,译文字幕,,0,0,0,,把详情原原本本说出来\N{\r原文字幕}Tell me every last detail.
+Dialogue: 0,0:43:25.10,0:43:28.50,译文字幕,,0,0,0,,我们抵达洛杉矶去会麦克麦纳斯的销赃人，雷德福特\N{\r原文字幕}We arrived in Los Angeles and met McManus' fence, Redfoot.
+Dialogue: 0,0:43:29.50,0:43:33.10,译文字幕,,0,0,0,,他有着不错的名声，似乎是个好人\N{\r原文字幕}He had a good reputation. Seemed like a good guy.
+Dialogue: 0,0:43:33.40,0:43:36.40,译文字幕,,0,0,0,,- 可我们还得多了解 - 还好吗？\N{\r原文字幕}- Still, we should have known better. - How you doing?
+Dialogue: 0,0:43:36.40,0:43:39.50,译文字幕,,0,0,0,,- 还好，你呢？ - 也不坏，马马虎虎了\N{\r原文字幕}- Good. You? - Not bad. Can't complain.
+Dialogue: 0,0:43:40.40,0:43:42.30,译文字幕,,0,0,0,,你怎么样，范斯特？\N{\r原文字幕}How's it going, Fenster?
+Dialogue: 0,0:43:43.20,0:43:45.30,译文字幕,,0,0,0,,不需要打开吧？\N{\r原文字幕}Don't need to open it, right?
+Dialogue: 0,0:43:51.20,0:43:52.90,译文字幕,,0,0,0,,你一定是基顿\N{\r原文字幕}You must be Keaton.
+Dialogue: 0,0:43:54.00,0:43:55.80,译文字幕,,0,0,0,,这是雷德福特，这是迪恩·基顿\N{\r原文字幕}Redfoot, Dean Keaton.
+Dialogue: 0,0:43:56.00,0:44:00.00,译文字幕,,0,0,0,,- 托德·霍克尼，还有维伯·肯特.  - 计谋多多的维伯？\N{\r原文字幕}- Todd Hockney and Verbal Kint. - Verbal, the man with the plan.
+Dialogue: 0,0:44:00.90,0:44:02.40,译文字幕,,0,0,0,,有兴趣再干一把吗？\N{\r原文字幕}You interested in more work?
+Dialogue: 0,0:44:03.30,0:44:06.20,译文字幕,,0,0,0,,- 我们一直在找活干 - 我们在休假\N{\r原文字幕}- We're always looking for extra work. - We're on vacation.
+Dialogue: 0,0:44:07.80,0:44:09.20,译文字幕,,0,0,0,,那真可惜\N{\r原文字幕}That's too bad.
+Dialogue: 0,0:44:09.60,0:44:11.80,译文字幕,,0,0,0,,我有大堆的活，可惜就是找不到好手\N{\r原文字幕}I got a ton of work and no good people.
+Dialogue: 0,0:44:12.20,0:44:14.20,译文字幕,,0,0,0,,- 要像你们这般身手的 - 有什么活？\N{\r原文字幕}- Not like you guys. - What's the job?
+Dialogue: 0,0:44:14.60,0:44:17.30,译文字幕,,0,0,0,,有个从德克萨斯州来的珠宝商，叫索尔\N{\r原文字幕}There's this jeweler out of Texas named Saul.
+Dialogue: 0,0:44:17.40,0:44:19.50,译文字幕,,0,0,0,,他在市中心的酒店租了间套房\N{\r原文字幕}He rents a suite in some downtown hotel.
+Dialogue: 0,0:44:19.80,0:44:23.20,译文字幕,,0,0,0,,他免费为人鉴定价格，有时会买，有时却不买\N{\r原文字幕}He does free appraisals. Sometimes he buys, sometimes he doesn't.
+Dialogue: 0,0:44:23.50,0:44:26.00,译文字幕,,0,0,0,,简而言之，他手上有大笔现金\N{\r原文字幕}The word is, he carries around a lot of cash.
+Dialogue: 0,0:44:26.90,0:44:30.90,译文字幕,,0,0,0,,我想的就是，我可以收货，而你拿现钞\N{\r原文字幕}So I figure, I keep the merchandise, you keep the green.
+Dialogue: 0,0:44:31.30,0:44:33.70,译文字幕,,0,0,0,,- 简单的很 - 安全方面如何？\N{\r原文字幕}- Simple. - What about security?
+Dialogue: 0,0:44:33.70,0:44:37.10,译文字幕,,0,0,0,,有两个保镖，你们完全可以搞定\N{\r原文字幕}A couple of bodyguards. Nothing you couldn't handle.
+Dialogue: 0,0:44:37.30,0:44:39.10,译文字幕,,0,0,0,,可以给我时间考虑吗？\N{\r原文字幕}Give me time to check it out?
+Dialogue: 0,0:44:39.50,0:44:41.60,译文字幕,,0,0,0,,我从来不会对你失望，兄弟\N{\r原文字幕}I expect nothing less from you, man.
+Dialogue: 0,0:44:43.00,0:44:45.00,译文字幕,,0,0,0,,很高兴见到你，电话联系吧\N{\r原文字幕}Good to see you. We'll call you.
+Dialogue: 0,0:44:45.10,0:44:47.50,译文字幕,,0,0,0,,好好的在洛杉矶享受\N{\r原文字幕}Enjoy LA. Get yourself laid.
+Dialogue: 0,0:44:52.90,0:44:56.90,译文字幕,,0,0,0,,有个纽约朋友告诉我，你认识斯伯克·霍利斯\N{\r原文字幕}A friend in New York tells me that you knew Spook Hollis.
+Dialogue: 0,0:44:57.90,0:45:01.00,译文字幕,,0,0,0,,我听说你曾和他一同服过刑\N{\r原文字幕}The way I hear it, you did time with ol' Spook.
+Dialogue: 0,0:45:01.10,0:45:02.90,译文字幕,,0,0,0,,他是个好人\N{\r原文字幕}A good man, wasn't he?
+Dialogue: 0,0:45:03.30,0:45:05.30,译文字幕,,0,0,0,,我以前曾为他贩过毒\N{\r原文字幕}I used to run dope for him.
+Dialogue: 0,0:45:06.00,0:45:08.10,译文字幕,,0,0,0,,可惜挂了\N{\r原文字幕}Too bad he got shivved.
+Dialogue: 0,0:45:10.10,0:45:11.30,译文字幕,,0,0,0,,是我把他干掉的\N{\r原文字幕}I shivved him.
+Dialogue: 0,0:45:13.80,0:45:17.40,译文字幕,,0,0,0,,这事直接由我告诉你，总比以后别人传给你好\N{\r原文字幕}Better you hear it from me now than from somebody else later.
+Dialogue: 0,0:45:18.80,0:45:20.50,译文字幕,,0,0,0,,谢谢你告诉我\N{\r原文字幕}I appreciate that.
+Dialogue: 0,0:45:21.50,0:45:23.40,译文字幕,,0,0,0,,恕我好奇…\N{\r原文字幕}But just out of curiosity...
+Dialogue: 0,0:45:24.00,0:45:26.60,译文字幕,,0,0,0,,这纯粹是公事，抑或私人问题？\N{\r原文字幕}...was it business or personal?
+Dialogue: 0,0:45:29.10,0:45:30.50,译文字幕,,0,0,0,,两者都是\N{\r原文字幕}A bit of both.
+Dialogue: 0,0:45:32.10,0:45:33.80,译文字幕,,0,0,0,,就如我说的…\N{\r原文字幕}Like I said...
+Dialogue: 0,0:45:34.10,0:45:37.00,译文字幕,,0,0,0,,…若你有兴趣，可给我电话\N{\r原文字幕}...you give me a call if you're interested.
+Dialogue: 0,0:45:41.10,0:45:42.90,译文字幕,,0,0,0,,有问题吗？\N{\r原文字幕}Is there a problem?
+Dialogue: 0,0:45:44.60,0:45:45.80,译文字幕,,0,0,0,,只干一次\N{\r原文字幕}One job.
+Dialogue: 0,0:45:46.30,0:45:47.90,译文字幕,,0,0,0,,就是这样\N{\r原文字幕}That was the deal.
+Dialogue: 0,0:45:53.20,0:45:54.40,译文字幕,,0,0,0,,只干一次？\N{\r原文字幕}One job?
+Dialogue: 0,0:45:57.50,0:45:58.70,译文字幕,,0,0,0,,只干一次？\N{\r原文字幕}One job?
+Dialogue: 0,0:46:00.40,0:46:02.30,译文字幕,,0,0,0,,说的真好\N{\r原文字幕}That's a good one.
+Dialogue: 0,0:46:04.60,0:46:08.10,译文字幕,,0,0,0,,基顿已经竭尽所能，但人不能改变身份\N{\r原文字幕}Keaton fought it as best he could, but a man can't change what he is.
+Dialogue: 0,0:46:08.30,0:46:11.40,译文字幕,,0,0,0,,他可对人说他另一个身份，但始终不能摆脱自己\N{\r原文字幕}He can convince anyone he's someone else, but never himself.
+Dialogue: 0,0:46:11.40,0:46:15.10,译文字幕,,0,0,0,,麦克麦纳斯整天都在唠叨，于是我们又干回本行\N{\r原文字幕}It took one day with McManus nagging, and we went back to work.
+Dialogue: 0,0:46:29.80,0:46:32.30,译文字幕,,0,0,0,,于是我下了车，那事全被搅了\N{\r原文字幕}I get out of my car, and the thing is wrecked.
+Dialogue: 0,0:46:32.40,0:46:35.90,译文字幕,,0,0,0,,我向另外那辆车的后座看去，那女人几乎全脱光了\N{\r原文字幕}I look in the backseat of the other car, and this woman's totally naked.
+Dialogue: 0,0:46:36.00,0:46:39.10,译文字幕,,0,0,0,,- 我笑到快透不过气来   - 上车吧，索尔\N{\r原文字幕}- I'm laughin' so hard I can't breathe. - Get in the car, Saul.
+Dialogue: 0,0:46:39.30,0:46:42.00,译文字幕,,0,0,0,,- 别动，混蛋！ - 站着别动！\N{\r原文字幕}- Freeze, motherfucker! - Stay right there!
+Dialogue: 0,0:46:43.90,0:46:45.80,译文字幕,,0,0,0,,那边还有一个人\N{\r原文字幕}There's a second one here, somewhere.
+Dialogue: 0,0:46:49.60,0:46:52.80,译文字幕,,0,0,0,,把公文箱给我，快把公文箱给我！\N{\r原文字幕}Gimme the case. Give me the fuckin' case!
+Dialogue: 0,0:46:59.00,0:47:02.40,译文字幕,,0,0,0,,快把公文箱给我，我讲最后一次…\N{\r原文字幕}Give me the fuckin' case. I'm tellin' you for the last time.
+Dialogue: 0,0:47:02.60,0:47:04.40,译文字幕,,0,0,0,,快把公文箱给我！\N{\r原文字幕}Give me the fuckin' case!
+Dialogue: 0,0:47:08.90,0:47:11.40,译文字幕,,0,0,0,,- 过来！ - 别动！\N{\r原文字幕}- Come on! - Don't move!
+Dialogue: 0,0:47:46.90,0:47:48.50,译文字幕,,0,0,0,,把箱子递出来\N{\r原文字幕}Hand over the case.
+Dialogue: 0,0:47:49.60,0:47:51.70,译文字幕,,0,0,0,,给我把箱子递出来\N{\r原文字幕}Hand over the fuckin' case.
+Dialogue: 0,0:48:15.70,0:48:17.30,译文字幕,,0,0,0,,好了，走吧！\N{\r原文字幕}Come on, let's go!
+Dialogue: 0,0:48:18.00,0:48:20.50,译文字幕,,0,0,0,,- 快！ - 今天真倒霉\N{\r原文字幕}- Come on! - Bad day. Fuck it.
+Dialogue: 0,0:48:21.30,0:48:22.80,译文字幕,,0,0,0,,快走了！\N{\r原文字幕}Let's go!
+Dialogue: 0,0:48:47.00,0:48:48.10,译文字幕,,0,0,0,,混蛋\N{\r原文字幕}Fuck.
+Dialogue: 0,0:48:51.20,0:48:54.90,译文字幕,,0,0,0,,- 就像是堆泥巴般毫无价值 - 真该死\N{\r原文字幕}- Looks like a lot of china to me. - Shit.
+Dialogue: 0,0:49:00.20,0:49:01.70,译文字幕,,0,0,0,,伙计们，来了\N{\r原文字幕}Guys, come on.
+Dialogue: 0,0:49:03.00,0:49:05.50,译文字幕,,0,0,0,,- 你想干什么？ - 我要杀了那家伙\N{\r原文字幕}- What are you doin'? - I'm gonna kill him.
+Dialogue: 0,0:49:05.60,0:49:07.70,译文字幕,,0,0,0,,我们已经按你的方式错了回，现在听我的\N{\r原文字幕}We did it your way, now we'll do it mine.
+Dialogue: 0,0:49:07.80,0:49:10.00,译文字幕,,0,0,0,,- 你要杀他吗？ - 我去和他谈\N{\r原文字幕}- You gonna kill him? - I'll deal with him.
+Dialogue: 0,0:49:10.00,0:49:12.90,译文字幕,,0,0,0,,- 你最好和他好好谈谈 - 闭嘴\N{\r原文字幕}- You'd better, or I'm gonna. - Shut up.
+Dialogue: 0,0:49:20.30,0:49:22.70,译文字幕,,0,0,0,,你叫我拿这东西有什么用？\N{\r原文字幕}What am I supposed to do with that?
+Dialogue: 0,0:49:23.00,0:49:26.20,译文字幕,,0,0,0,,拿来喂那跛子吧，能帮他止痛，我也对此不知情\N{\r原文字幕}Feed it to the gimp. Ease his pain. I don't know what that is.
+Dialogue: 0,0:49:26.20,0:49:28.30,译文字幕,,0,0,0,,- 什么意思？ - 我并不知情\N{\r原文字幕}- What do you mean? - I don't know.
+Dialogue: 0,0:49:28.50,0:49:30.60,译文字幕,,0,0,0,,是个律师叫我这么做的\N{\r原文字幕}I got thrown this job by some lawyer.
+Dialogue: 0,0:49:30.70,0:49:31.70,译文字幕,,0,0,0,,是谁？\N{\r原文字幕}Who?
+Dialogue: 0,0:49:31.90,0:49:34.00,译文字幕,,0,0,0,,我不知道，是个英国佬\N{\r原文字幕}I don't know. Some limey.
+Dialogue: 0,0:49:34.10,0:49:37.80,译文字幕,,0,0,0,,他也只是个中间人，他没有说，我也没问\N{\r原文字幕}He's a middleman for somebody. He doesn't say, I don't ask.
+Dialogue: 0,0:49:37.80,0:49:40.10,译文字幕,,0,0,0,,- 你真是个混蛋！ - 去死吧！\N{\r原文字幕}- You're fuckin' full of shit! - Fuck you.
+Dialogue: 0,0:49:40.20,0:49:41.90,译文字幕,,0,0,0,,- 你才去死吧！ - 听我说\N{\r原文字幕}- Fuck you. - Listen to me.
+Dialogue: 0,0:49:42.30,0:49:44.30,译文字幕,,0,0,0,,我们想要见他\N{\r原文字幕}We wanna meet him, okay?
+Dialogue: 0,0:49:44.60,0:49:46.10,译文字幕,,0,0,0,,那真巧了\N{\r原文字幕}That's funny.
+Dialogue: 0,0:49:46.90,0:49:50.50,译文字幕,,0,0,0,,昨晚他给我电话，也说想要见你们\N{\r原文字幕}He called me last night. He says he wants to meet you guys.
+Dialogue: 0,0:49:51.20,0:49:53.10,译文字幕,,0,0,0,,那好，我们去见他\N{\r原文字幕}Okay, we'll meet him.
+Dialogue: 0,0:49:53.50,0:49:55.40,译文字幕,,0,0,0,,- 我会给你电话 - 好，我们走\N{\r原文字幕}- I'll call you. - Good. Let's go.
+Dialogue: 0,0:49:55.40,0:49:58.80,译文字幕,,0,0,0,,我不想这样，等等，还有件事，坏小子:\N{\r原文字幕}I don't like it. Wait a minute. One more thing, tough guy:
+Dialogue: 0,0:49:59.30,0:50:02.10,译文字幕,,0,0,0,,再玩什么花样，我会做了你\N{\r原文字幕}Any more surprises, and I'm gonna kill you.
+Dialogue: 0,0:50:03.50,0:50:06.50,译文字幕,,0,0,0,,就当帮我个忙好吗？\N{\r原文字幕}You're such a tough guy. But do me a favor, all right?
+Dialogue: 0,0:50:06.60,0:50:08.70,译文字幕,,0,0,0,,快在我面前消失\N{\r原文字幕}Get the fuck off my dick.
+Dialogue: 0,0:50:09.20,0:50:10.60,译文字幕,,0,0,0,,不要！\N{\r原文字幕}No!
+Dialogue: 0,0:50:11.70,0:50:13.50,译文字幕,,0,0,0,,好好管教管教那小子\N{\r原文字幕}Put a leash on that puppy.
+Dialogue: 0,0:50:15.60,0:50:18.90,译文字幕,,0,0,0,,索尔被杀真是糟糕透了\N{\r原文字幕}It's an awful shame about Saul gettin' whacked.
+Dialogue: 0,0:50:19.50,0:50:21.70,译文字幕,,0,0,0,,警察在追缉凶徒\N{\r原文字幕}Cops'll be lookin' for the guys who did it.
+Dialogue: 0,0:50:22.80,0:50:25.40,译文字幕,,0,0,0,,他们迟早会来问我\N{\r原文字幕}Sooner or later, they're gonna come around askin' me.
+Dialogue: 0,0:50:27.90,0:50:30.10,译文字幕,,0,0,0,,祝你们晚安，小姐们\N{\r原文字幕}You have a sweet night, ladies.
+Dialogue: 0,0:50:33.90,0:50:35.20,译文字幕,,0,0,0,,去死吧\N{\r原文字幕}Fuck you.
+Dialogue: 0,0:50:41.50,0:50:44.40,译文字幕,,0,0,0,,- 那么这个律师-- - 小林\N{\r原文字幕}- So this lawyer-- - Kobayashi.
+Dialogue: 0,0:50:45.20,0:50:47.50,译文字幕,,0,0,0,,- 是雷德福特引来的？ - 对\N{\r原文字幕}- Came from Redfoot. - Right.
+Dialogue: 0,0:50:47.90,0:50:50.70,译文字幕,,0,0,0,,和地方检察官说的时候为何漏了这段？\N{\r原文字幕}And why leave this out when you talked to the DA?
+Dialogue: 0,0:50:50.80,0:50:52.80,译文字幕,,0,0,0,,大卫，有人找你\N{\r原文字幕}Dave, someone to see you.
+Dialogue: 0,0:50:58.20,0:51:00.30,译文字幕,,0,0,0,,我满世界的在找你\N{\r原文字幕}I've been looking all over for you.
+Dialogue: 0,0:51:00.40,0:51:04.00,译文字幕,,0,0,0,,仍在追查昨晚码头大屠杀的毒品？\N{\r原文字幕}You still after that coke that took a walk out of that bloodbath yesterday?
+Dialogue: 0,0:51:04.10,0:51:06.90,译文字幕,,0,0,0,,不用查了，根本没有毒品\N{\r原文字幕}You can stop looking. There was no coke.
+Dialogue: 0,0:51:07.00,0:51:10.60,译文字幕,,0,0,0,,我去州立医院找了那个从下水道救上的…\N{\r原文字幕}I've been in LA County talking to a guy they pulled out of a drainpipe...
+Dialogue: 0,0:51:10.70,0:51:12.50,译文字幕,,0,0,0,,…昨晚枪战后的幸存者\N{\r原文字幕}...yesterday after the shootout.
+Dialogue: 0,0:51:12.50,0:51:14.70,译文字幕,,0,0,0,,今早他苏醒了，并说了些事情\N{\r原文字幕}He came to this morning, he started talking.
+Dialogue: 0,0:51:14.80,0:51:18.10,译文字幕,,0,0,0,,他是匈牙利匪帮的一员，他们预备和阿根廷党徒交易\N{\r原文字幕}He's part of a Hungarian mob. They dealt with gwats from Argentina.
+Dialogue: 0,0:51:18.10,0:51:20.70,译文字幕,,0,0,0,,他说这事与毒品交易无关\N{\r原文字幕}He says it was definitely not a dope deal.
+Dialogue: 0,0:51:20.80,0:51:24.10,译文字幕,,0,0,0,,- 但是-- - 我知道，可他说这事与毒品无关\N{\r原文字幕}- But there were-- - We know. But he says no on the dope.
+Dialogue: 0,0:51:24.10,0:51:27.70,译文字幕,,0,0,0,,这匈牙利人告诉我 这班人第二天便要去土耳其\N{\r原文字幕}This Hungarian tells me they were pulling stumps for Turkey the next day.
+Dialogue: 0,0:51:27.70,0:51:31.30,译文字幕,,0,0,0,,他们没时间去讨论那批货，也没考虑搬它\N{\r原文字幕}They had no time for that kind of product, and no means to move it.
+Dialogue: 0,0:51:31.40,0:51:33.40,译文字幕,,0,0,0,,- 那钱是做什么的？ - 他不知道\N{\r原文字幕}- What's the money for? - He didn't know.
+Dialogue: 0,0:51:33.80,0:51:36.70,译文字幕,,0,0,0,,除了几个关键人物外，无人知晓\N{\r原文字幕}No one doing the deal knew except for a few key people.
+Dialogue: 0,0:51:36.80,0:51:39.10,译文字幕,,0,0,0,,他说那些人都守口如瓶\N{\r原文字幕}They were all very hush about it, he says.
+Dialogue: 0,0:51:39.30,0:51:43.50,译文字幕,,0,0,0,,- 无论那是什么，都牵连重大 - 我不太明白\N{\r原文字幕}- Whatever it was, it was very sensitive. - I don't get it.
+Dialogue: 0,0:51:43.60,0:51:45.90,译文字幕,,0,0,0,,你见到了那个跛脚的纽约人吗？\N{\r原文字幕}You got the cripple in there from New York?
+Dialogue: 0,0:51:45.90,0:51:47.50,译文字幕,,0,0,0,,他有提到凯撒·苏斯没？\N{\r原文字幕}Did he mention Keyser Soze?
+Dialogue: 0,0:51:47.80,0:51:49.10,译文字幕,,0,0,0,,谁？\N{\r原文字幕}Who?
+Dialogue: 0,0:51:49.70,0:51:51.60,译文字幕,,0,0,0,,请原谅我的打扰\N{\r原文字幕}Just bear with me here.
+Dialogue: 0,0:51:53.00,0:51:55.80,译文字幕,,0,0,0,,- 谁是凯撒·苏斯？ - 去死吧！\N{\r原文字幕}- Who's Keyser Soze? - Fuck!
+Dialogue: 0,0:51:56.80,0:52:00.00,译文字幕,,0,0,0,,我们已经争论了一个半小时\N{\r原文字幕}We've been goin' over this for an hour and a half.
+Dialogue: 0,0:52:00.40,0:52:04.30,译文字幕,,0,0,0,,我们只需要做了雷德福特，然后离开这该死的地方就行\N{\r原文字幕}What we need to do is find Redfoot and get the hell out of here now.
+Dialogue: 0,0:52:04.40,0:52:06.40,译文字幕,,0,0,0,,我们需要先思考周全\N{\r原文字幕}What we need to do is think.
+Dialogue: 0,0:52:06.70,0:52:08.10,译文字幕,,0,0,0,,再想想\N{\r原文字幕}Think back.
+Dialogue: 0,0:52:09.20,0:52:12.00,译文字幕,,0,0,0,,有人有能力…\N{\r原文字幕}Somebody with power...
+Dialogue: 0,0:52:12.50,0:52:15.70,译文字幕,,0,0,0,,…有人能从纽约 一直追查我们到这里\N{\r原文字幕}...somebody capable of tracking us from New York to LA.
+Dialogue: 0,0:52:15.70,0:52:18.80,译文字幕,,0,0,0,,- 那我们在这儿做什么？ - 我们得等待\N{\r原文字幕}- What the hell are we doing here? - We're waiting.
+Dialogue: 0,0:52:19.40,0:52:23.30,译文字幕,,0,0,0,,- 坐下    - 不用了，我火气大着，他妈烦透了\N{\r原文字幕}- Sit down. - No. I'm hot, and I'm fuckin' bored.
+Dialogue: 0,0:52:23.30,0:52:25.10,译文字幕,,0,0,0,,哈肯尼先生，停下\N{\r原文字幕}Mr.Hockney, do stay.
+Dialogue: 0,0:52:25.90,0:52:27.20,译文字幕,,0,0,0,,基顿先生\N{\r原文字幕}Mr.Keaton.
+Dialogue: 0,0:52:27.60,0:52:29.90,译文字幕,,0,0,0,,范斯特先生，我赏识他的枪法…\N{\r原文字幕}Mr.Fenster I recognize from his mug shots...
+Dialogue: 0,0:52:30.00,0:52:31.80,译文字幕,,0,0,0,,…就和麦克麦纳斯的一样好\N{\r原文字幕}...as well as Mr.McManus.
+Dialogue: 0,0:52:31.90,0:52:36.90,译文字幕,,0,0,0,,你一定就是肯特先生，那位干掉索尔伯格的人\N{\r原文字幕}I can only assume that you are Mr.Kint, the gentleman who disposed of Saul Berg.
+Dialogue: 0,0:52:37.00,0:52:40.70,译文字幕,,0,0,0,,我的雇主致上他的感谢和一份意想不到的礼物\N{\r原文字幕}My employer sends his gratitude, a most unexpected benefit.
+Dialogue: 0,0:52:41.90,0:52:43.60,译文字幕,,0,0,0,,我就是小林先生\N{\r原文字幕}I am Mr.Kobayashi.
+Dialogue: 0,0:52:43.80,0:52:48.50,译文字幕,,0,0,0,,我的雇主要我带份建议书来\N{\r原文字幕}I have been asked by my employer to bring a proposal to you gentlemen.
+Dialogue: 0,0:52:48.60,0:52:51.70,译文字幕,,0,0,0,,-你想怎样？ -我雇主想你们为他效劳\N{\r原文字幕}- What do you want? - My employer requires your services.
+Dialogue: 0,0:52:53.80,0:52:57.40,译文字幕,,0,0,0,,任务只得一个，工作一天，但相当危险\N{\r原文字幕}One job, one day's work. Very dangerous.
+Dialogue: 0,0:52:57.60,0:53:01.00,译文字幕,,0,0,0,,他没预计你们全部能活命…\N{\r原文字幕}He does not expect all of you to live. But those of you who do...
+Dialogue: 0,0:53:01.20,0:53:05.20,译文字幕,,0,0,0,,…但能活命的可将那九千一百万分了\N{\r原文字幕}...will have $91 million to divide between you in any way you see fit.
+Dialogue: 0,0:53:05.40,0:53:07.00,译文字幕,,0,0,0,,谁是你的老板？\N{\r原文字幕}Who's your boss?
+Dialogue: 0,0:53:09.20,0:53:10.90,译文字幕,,0,0,0,,我为凯撒·苏斯做事\N{\r原文字幕}I work for Keyser Soze.
+Dialogue: 0,0:53:22.20,0:53:23.50,译文字幕,,0,0,0,,谁是凯撒·苏斯？\N{\r原文字幕}Who's Keyser Soze?
+Dialogue: 0,0:53:23.50,0:53:25.90,译文字幕,,0,0,0,,你太情绪化了，肯特先生\N{\r原文字幕}Judging by the sudden change in mood...
+Dialogue: 0,0:53:26.10,0:53:29.00,译文字幕,,0,0,0,,…我想你的合伙人也是这么认为的\N{\r原文字幕}...I feel sure the rest of your associates can tell you.
+Dialogue: 0,0:53:29.20,0:53:32.10,译文字幕,,0,0,0,,我代苏斯先生向你们提出建议\N{\r原文字幕}I come with an offer directly from Mr.Soze.
+Dialogue: 0,0:53:32.40,0:53:36.10,译文字幕,,0,0,0,,- 实际上是个命令 - 什么叫做“命令”？\N{\r原文字幕}- An order, actually. - What do you mean, "an order"?
+Dialogue: 0,0:53:36.30,0:53:41.30,译文字幕,,0,0,0,,1981年，你在纽约巴弗洛区抢劫货车\N{\r原文字幕}In 1981, you participated in the hijacking of a truck in Buffalo, New York.
+Dialogue: 0,0:53:41.90,0:53:45.50,译文字幕,,0,0,0,,车上是原钢材料，这批材料原属于苏斯先生…\N{\r原文字幕}The cargo was raw steel, steel which belonged to Mr.Soze...
+Dialogue: 0,0:53:45.60,0:53:49.70,译文字幕,,0,0,0,,…本应送到巴基斯坦作核反应堆\N{\r原文字幕}...and which was destined for Pakistan to be used in a nuclear reactor.
+Dialogue: 0,0:53:50.00,0:53:53.00,译文字幕,,0,0,0,,那是违反联合国条例的大生意\N{\r原文字幕}A most profitable violation of UN Regulations.
+Dialogue: 0,0:53:53.10,0:53:55.20,译文字幕,,0,0,0,,你根本不知此事，基顿先生\N{\r原文字幕}You had no way of knowing this...
+Dialogue: 0,0:53:55.30,0:53:58.40,译文字幕,,0,0,0,,因为帮苏斯先生承运的人\N{\r原文字幕}...because the fellow shipping the steel was working for Soze...
+Dialogue: 0,0:53:58.50,0:54:00.10,译文字幕,,0,0,0,,也根本毫不知情\N{\r原文字幕}...without his knowledge.
+Dialogue: 0,0:54:00.40,0:54:03.10,译文字幕,,0,0,0,,今年初，范斯特先生与麦克麦纳斯先生…\N{\r原文字幕}Earlier this year, Mr.Fenster and Mr.McManus...
+Dialogue: 0,0:54:03.20,0:54:06.90,译文字幕,,0,0,0,,在纽华克机场抢劫了架双座货机\N{\r原文字幕}...hijacked a two-prop cargo flight out of Newark airport.
+Dialogue: 0,0:54:07.00,0:54:11.30,译文字幕,,0,0,0,,机上载有黄金和白金\N{\r原文字幕}The plane was carrying gold and platinum wiring also set for Pakistan.
+Dialogue: 0,0:54:11.90,0:54:15.40,译文字幕,,0,0,0,,两个月前，哈肯尼先生偷了…\N{\r原文字幕}Two months ago, Mr.Hockney stole a truck...
+Dialogue: 0,0:54:15.40,0:54:18.00,译文字幕,,0,0,0,,…途经皇后区的装载枪械零件的货车\N{\r原文字幕}...carrying gun parts through Queens.
+Dialogue: 0,0:54:18.10,0:54:21.70,译文字幕,,0,0,0,,而这些枪支零件本要由纽约州政府监督销毁\N{\r原文字幕}Gun parts which were set to be destroyed by the state of New York.
+Dialogue: 0,0:54:21.90,0:54:25.70,译文字幕,,0,0,0,,但在贝尔法斯特转机时就失踪了\N{\r原文字幕}They were to be lost in a way station and rerouted to Belfast.
+Dialogue: 0,0:54:25.80,0:54:28.80,译文字幕,,0,0,0,,同样地，苏斯先生利用不知情的人\N{\r原文字幕}Again, Mr.Soze using pawns who had no knowledge.
+Dialogue: 0,0:54:29.10,0:54:31.30,译文字幕,,0,0,0,,这样我们就找到了肯特先生\N{\r原文字幕}Which brings us to Mr.Kint.
+Dialogue: 0,0:54:32.50,0:54:35.00,译文字幕,,0,0,0,,九个月前，苏斯先生的…\N{\r原文字幕}Nine months ago, one of Mr.Soze's...
+Dialogue: 0,0:54:35.10,0:54:39.70,译文字幕,,0,0,0,,…一个不算聪明的手下\N{\r原文字幕}...less than intelligent couriers was taken in a complicated confidence scam...
+Dialogue: 0,0:54:40.40,0:54:41.80,译文字幕,,0,0,0,,…被一个跛子所骗\N{\r原文字幕}...by a cripple.
+Dialogue: 0,0:54:42.20,0:54:44.50,译文字幕,,0,0,0,,他被骗去了六万二千元\N{\r原文字幕}He was relieved of $62,000.
+Dialogue: 0,0:54:45.30,0:54:48.20,译文字幕,,0,0,0,,花了很长时间，我们才找齐你们\N{\r原文字幕}Now, it has taken us some time to find you.
+Dialogue: 0,0:54:48.60,0:54:52.50,译文字幕,,0,0,0,,我们想你们在纽约落网后再找你们\N{\r原文字幕}Our intention was to approach you after your apprehension in New York.
+Dialogue: 0,0:54:52.70,0:54:54.00,译文字幕,,0,0,0,,是你安排的指认过程\N{\r原文字幕}You set up the lineup.
+Dialogue: 0,0:54:54.10,0:54:57.40,译文字幕,,0,0,0,,是的，我不来，你们是不会被释放的\N{\r原文字幕}Yes. You were not to be released until I had come to see you.
+Dialogue: 0,0:54:57.40,0:55:00.30,译文字幕,,0,0,0,,看来基顿先生的律师菲娜琳小姐\N{\r原文字幕}It seems Mr.Keaton's attorney, Miss Finneran...
+Dialogue: 0,0:55:00.60,0:55:04.20,译文字幕,,0,0,0,,…做事很有效率\N{\r原文字幕}...was a little too effective in expediting his release.
+Dialogue: 0,0:55:04.20,0:55:06.40,译文字幕,,0,0,0,,他比你们其他人出狱快多了\N{\r原文字幕}Holding the rest of you became a moot point.
+Dialogue: 0,0:55:06.70,0:55:09.40,译文字幕,,0,0,0,,- 那雷德福特呢？ - 雷德福特先生也一无所知\N{\r原文字幕}- What about Redfoot? - Mr.Redfoot knew nothing.
+Dialogue: 0,0:55:09.60,0:55:12.20,译文字幕,,0,0,0,,苏斯先生很少长时间用同一批人工作\N{\r原文字幕}Mr.Soze rarely works with the same people for long...
+Dialogue: 0,0:55:12.30,0:55:15.10,译文字幕,,0,0,0,,而工作的人也不知道在为谁效劳\N{\r原文字幕}...and they never know who they're working for.
+Dialogue: 0,0:55:15.20,0:55:18.10,译文字幕,,0,0,0,,如果没有手下，就不会被出卖\N{\r原文字幕}One cannot be betrayed if one has no people.
+Dialogue: 0,0:55:19.10,0:55:21.10,译文字幕,,0,0,0,,你为什么告诉我们？\N{\r原文字幕}So, why are you telling us?
+Dialogue: 0,0:55:21.50,0:55:25.70,译文字幕,,0,0,0,,因你们偷了苏斯先生的东西\N{\r原文字幕}Because you have stolen from Mr.Soze, Mr.Fenster.
+Dialogue: 0,0:55:26.00,0:55:27.00,译文字幕,,0,0,0,,你们所有人\N{\r原文字幕}All of you.
+Dialogue: 0,0:55:27.10,0:55:30.70,译文字幕,,0,0,0,,由于你们不知道偷的东西是他的，所以你们还活着\N{\r原文字幕}That you did not know it is the only reason you're still alive.
+Dialogue: 0,0:55:31.40,0:55:35.00,译文字幕,,0,0,0,,他觉得是你们欠了他，你们要还债给他\N{\r原文字幕}He feels you owe him. You will repay your debt.
+Dialogue: 0,0:55:35.50,0:55:39.30,译文字幕,,0,0,0,,去他妈的债，你去死吧，我们怎么知道你是为苏斯工作？\N{\r原文字幕}Fuck the debt, and fuck you. How do we know you work for Soze?
+Dialogue: 0,0:55:39.80,0:55:42.30,译文字幕,,0,0,0,,这有关系吗，哈肯尼先生？\N{\r原文字幕}I don't think that is very relevant.
+Dialogue: 0,0:55:42.50,0:55:45.70,译文字幕,,0,0,0,,你们五个与索尔·伯格…\N{\r原文字幕}All five of you are responsible for the murder of Saul Berg...
+Dialogue: 0,0:55:45.70,0:55:47.10,译文字幕,,0,0,0,,…及其保镖的死有关\N{\r原文字幕}...and his bodyguards.
+Dialogue: 0,0:55:47.40,0:55:49.90,译文字幕,,0,0,0,,雷德福特先生可证明此事\N{\r原文字幕}Mr.Redfoot can testify to your involvement.
+Dialogue: 0,0:55:50.00,0:55:51.90,译文字幕,,0,0,0,,我们知道他会这么做的\N{\r原文字幕}We can see to it that he will.
+Dialogue: 0,0:55:52.00,0:55:55.10,译文字幕,,0,0,0,,- 你想说什么？ - 建议是这样的:\N{\r原文字幕}- What's your point? - The offer is this, gentlemen:
+Dialogue: 0,0:55:55.40,0:55:57.50,译文字幕,,0,0,0,,苏斯先生一直对毒品生意\N{\r原文字幕}Mr.Soze's primary interest...
+Dialogue: 0,0:55:57.90,0:55:59.30,译文字幕,,0,0,0,,…很有兴趣\N{\r原文字幕}...is narcotics.
+Dialogue: 0,0:55:59.60,0:56:04.70,译文字幕,,0,0,0,,他与阿根廷党竞争数年之久\N{\r原文字幕}He has been competing, shall we say...with a group of Argentineans for several years.
+Dialogue: 0,0:56:04.90,0:56:07.80,译文字幕,,0,0,0,,与苏斯先生对抗的人，已经尝到了教训\N{\r原文字幕}Competing with Mr.Soze has taken its toll.
+Dialogue: 0,0:56:08.60,0:56:11.20,译文字幕,,0,0,0,,他们三天前商谈好了一宗…\N{\r原文字幕}These Argentineans are negotiating the sale...
+Dialogue: 0,0:56:11.20,0:56:15.10,译文字幕,,0,0,0,,…九千一百万元的可卡因买卖\N{\r原文字幕}...of $91 million in cocaine in three days time.
+Dialogue: 0,0:56:15.40,0:56:21.10,译文字幕,,0,0,0,,不用说，这笔交易将重新复活他们的组织\N{\r原文字幕}Needless to say, this purchase will revitalize...the diminishing strength of their organization.
+Dialogue: 0,0:56:21.90,0:56:25.20,译文字幕,,0,0,0,,苏斯先生想让你们制止这次买卖\N{\r原文字幕}Mr.Soze would like you to stop the deal.
+Dialogue: 0,0:56:26.40,0:56:29.10,译文字幕,,0,0,0,,你们可等交易完成后才动手\N{\r原文字幕}If you choose, you may wait until after the buy.
+Dialogue: 0,0:56:29.20,0:56:31.80,译文字幕,,0,0,0,,他们交易的钱全属于你们\N{\r原文字幕}Whatever money changes hands is yours.
+Dialogue: 0,0:56:32.70,0:56:37.50,译文字幕,,0,0,0,,苏斯先生想你们在船上销毁那些可卡因\N{\r原文字幕}Mr.Soze would like you to get to the boat and destroy the cocaine onboard.
+Dialogue: 0,0:56:38.20,0:56:42.10,译文字幕,,0,0,0,,此后你们就与他两不相欠\N{\r原文字幕}And then you will be free of your obligations to Mr.Soze.
+Dialogue: 0,0:56:44.40,0:56:48.10,译文字幕,,0,0,0,,给个好理由，好让我现在不杀你\N{\r原文字幕}Give me one good reason why I shouldn't kill you right now.
+Dialogue: 0,0:56:50.00,0:56:52.60,译文字幕,,0,0,0,,这是苏斯先生给你们的礼物\N{\r原文字幕}A gift from Mr.Soze.
+Dialogue: 0,0:56:55.80,0:56:57.60,译文字幕,,0,0,0,,再见，先生们\N{\r原文字幕}Good day, gentlemen.
+Dialogue: 0,0:58:06.40,0:58:10.00,译文字幕,,0,0,0,,他们知道我以前的一切，我18岁后干过的一切\N{\r原文字幕}They got my whole life in here, everything I've done since I was 18.
+Dialogue: 0,0:58:10.30,0:58:12.40,译文字幕,,0,0,0,,他们什么都知道\N{\r原文字幕}They fuckin' know everything.
+Dialogue: 0,0:58:12.60,0:58:15.30,译文字幕,,0,0,0,,甚至知道以前曾与我一同做牢的人\N{\r原文字幕}Everybody I've ever worked with or did time with.
+Dialogue: 0,0:58:29.80,0:58:30.80,译文字幕,,0,0,0,,不\N{\r原文字幕}No.
+Dialogue: 0,0:58:33.10,0:58:35.30,译文字幕,,0,0,0,,- 这事不对劲   - 我不知道\N{\r原文字幕}- This isn't right. - I don't know.
+Dialogue: 0,0:58:35.40,0:58:38.50,译文字幕,,0,0,0,,纽约常提及苏斯的人是谁？\N{\r原文字幕}Who's that guy who used to talk about Soze in New York?
+Dialogue: 0,0:58:40.20,0:58:44.30,译文字幕,,0,0,0,,- 是布里克·马林 - 他间接为他做事\N{\r原文字幕}- Bricks Marlin. - He did jobs for him, indirect stuff.
+Dialogue: 0,0:58:44.90,0:58:48.70,译文字幕,,0,0,0,,他常说他所做的事有五倍利润\N{\r原文字幕}He said he always made five times more money on it than the job was worth.
+Dialogue: 0,0:58:49.30,0:58:51.00,译文字幕,,0,0,0,,那人是幻想狂\N{\r原文字幕}This guy's a pipe dream.
+Dialogue: 0,0:58:51.10,0:58:53.30,译文字幕,,0,0,0,,小林利用他作掩护\N{\r原文字幕}Kobayashi's using him for window dressing.
+Dialogue: 0,0:58:53.80,0:58:55.40,译文字幕,,0,0,0,,我不知道，这糟透了\N{\r原文字幕}I don't know. This is bad.
+Dialogue: 0,0:58:55.90,0:58:59.70,译文字幕,,0,0,0,,都是鬼扯，这人可能是纽约警察，这根本就是个圈套\N{\r原文字幕}It's bullshit. This guy could be LAPD. It's a fuckin' setup.
+Dialogue: 0,0:59:00.70,0:59:03.50,译文字幕,,0,0,0,,我听说的苏斯是个屠夫\N{\r原文字幕}The way I hear it, Soze's some kind of butcher.
+Dialogue: 0,0:59:03.90,0:59:08.10,译文字幕,,0,0,0,,- 是个变态无比的屠夫 - 根本没有凯撒·苏斯这人！\N{\r原文字幕}- A peerless, psycho, fucked-up butcher. - There is no Keyser Soze!
+Dialogue: 0,0:59:10.90,0:59:12.50,译文字幕,,0,0,0,,凯撒·苏斯是谁？\N{\r原文字幕}Who is Keyser Soze?
+Dialogue: 0,0:59:13.70,0:59:17.50,译文字幕,,0,0,0,,他应该是个土耳其人，有人说他父亲是德国人\N{\r原文字幕}He's supposed to be Turkish. Some say his father was German.
+Dialogue: 0,0:59:17.60,0:59:19.60,译文字幕,,0,0,0,,人人都认为他是虚构的\N{\r原文字幕}Nobody ever believed he was real.
+Dialogue: 0,0:59:19.90,0:59:23.00,译文字幕,,0,0,0,,从来没有人亲眼见过他\N{\r原文字幕}Nobody knew him or saw anybody that ever worked directly for him.
+Dialogue: 0,0:59:23.20,0:59:26.20,译文字幕,,0,0,0,,据小林说，任何人都可能为苏斯卖命\N{\r原文字幕}To hear Kobayashi tell it, anybody could have worked for Soze.
+Dialogue: 0,0:59:26.30,0:59:29.40,译文字幕,,0,0,0,,没人会知道，这就是他厉害之处\N{\r原文字幕}You never knew. That was his power.
+Dialogue: 0,0:59:30.20,0:59:36.50,译文字幕,,0,0,0,,最巧妙之处就是还能让人相信他不存在\N{\r原文字幕}The greatest trick the Devil ever pulled...was convincing the world he didn't exist.
+Dialogue: 0,0:59:37.90,0:59:40.60,译文字幕,,0,0,0,,那些家伙告诉我一个故事\N{\r原文字幕}One story the guys told me, the story I believe
+Dialogue: 0,0:59:40.70,0:59:42.40,译文字幕,,0,0,0,,我想那是他在土耳其时发生的事\N{\r原文字幕}...was from his days in Turkey.
+Dialogue: 0,0:59:42.50,0:59:45.40,译文字幕,,0,0,0,,有班匈牙利人想建立自己的组织\N{\r原文字幕}There was a gang of Hungarians that wanted their own mob.
+Dialogue: 0,0:59:45.50,0:59:48.90,译文字幕,,0,0,0,,他们知道想拥有权力…\N{\r原文字幕}They realized that to be in power, you didn't need guns...
+Dialogue: 0,0:59:48.90,0:59:50.50,译文字幕,,0,0,0,,…不用枪械，金钱， 甚至不需要手下\N{\r原文字幕}...or money or even numbers.
+Dialogue: 0,0:59:50.60,0:59:54.00,译文字幕,,0,0,0,,你只需做其他人不敢做的事\N{\r原文字幕}You just needed the will to do what the other guy wouldn't.
+Dialogue: 0,0:59:54.40,0:59:57.80,译文字幕,,0,0,0,,不久，他们努力做大，成为仅次于苏斯的另一大势力\N{\r原文字幕}After a while they come into power, and then they come after Soze.
+Dialogue: 0,0:59:57.90,1:00:01.20,译文字幕,,0,0,0,,他当时势力不大，只是经营毒品\N{\r原文字幕}He was small-time then. Just running dope, they say.
+Dialogue: 0,1:00:03.50,1:00:07.90,译文字幕,,0,0,0,,一天下午，他们到他家找他麻烦\N{\r原文字幕}They come to his home...in the afternoon looking for his business.
+Dialogue: 0,1:00:07.90,1:00:12.20,译文字幕,,0,0,0,,但只在家里找到他妻儿，于是决定等苏斯回来\N{\r原文字幕}They find his wife and kids in the house, and decide to wait for Soze.
+Dialogue: 0,1:00:28.00,1:00:32.30,译文字幕,,0,0,0,,苏斯回家见妻子被奸，孩子们在哭喊\N{\r原文字幕}He comes home to find his wife raped and children screaming.
+Dialogue: 0,1:00:32.30,1:00:35.70,译文字幕,,0,0,0,,匈牙利人知道苏斯不好对付，都不敢惹他\N{\r原文字幕}The Hungarians knew Soze was tough, not to be trifled with.
+Dialogue: 0,1:00:35.80,1:00:37.50,译文字幕,,0,0,0,,他们告诉他只是想谈生意\N{\r原文字幕}They let him know they meant business.
+Dialogue: 0,1:00:38.60,1:00:40.20,译文字幕,,0,0,0,,不！\N{\r原文字幕}No!
+Dialogue: 0,1:00:43.00,1:00:46.50,译文字幕,,0,0,0,,他们说想要他的地盘，以及他所有业务\N{\r原文字幕}They tell him they want his territory, all his business.
+Dialogue: 0,1:00:46.90,1:00:50.40,译文字幕,,0,0,0,,苏斯看着家人的脸孔\N{\r原文字幕}Soze looks over the faces of his family.
+Dialogue: 0,1:00:52.30,1:00:55.80,译文字幕,,0,0,0,,他让这帮人见识了什么才是真正的意志\N{\r原文字幕}Then he showed these men of will what will really was.
+Dialogue: 0,1:01:15.30,1:01:18.30,译文字幕,,0,0,0,,他说他情愿看着家人死去…\N{\r原文字幕}He tells them he would rather see his family dead...
+Dialogue: 0,1:01:18.70,1:01:21.00,译文字幕,,0,0,0,,总比屈辱求存好得多\N{\r原文字幕}...than live another day after this.
+Dialogue: 0,1:01:22.50,1:01:24.60,译文字幕,,0,0,0,,他放走最后那个匈牙利人…\N{\r原文字幕}He lets the last Hungarian go...
+Dialogue: 0,1:01:24.80,1:01:28.80,译文字幕,,0,0,0,,等安葬了妻儿后，然后找这班党徒逐一报复\N{\r原文字幕}...waits until his family is in the ground, and goes after the rest of the mob.
+Dialogue: 0,1:01:29.20,1:01:31.80,译文字幕,,0,0,0,,他杀了他们的孩子，杀了他们的妻子…\N{\r原文字幕}He kills their kids, he kills their wives...
+Dialogue: 0,1:01:32.00,1:01:34.20,译文字幕,,0,0,0,,…杀了他们的父母及其朋友\N{\r原文字幕}...he kills their parents and their friends.
+Dialogue: 0,1:01:34.70,1:01:36.90,译文字幕,,0,0,0,,烧掉他们的居所…\N{\r原文字幕}He burns down the houses they live in...
+Dialogue: 0,1:01:38.10,1:01:39.80,译文字幕,,0,0,0,,…及他们工作的店\N{\r原文字幕}...and the stores they work in.
+Dialogue: 0,1:01:40.30,1:01:43.90,译文字幕,,0,0,0,,甚至还杀那些欠他们钱的人…\N{\r原文字幕}He kills people that owe them money. And like that...
+Dialogue: 0,1:01:45.20,1:01:47.00,译文字幕,,0,0,0,,…然后就消失了\N{\r原文字幕}...he's gone, underground.
+Dialogue: 0,1:01:47.10,1:01:49.70,译文字幕,,0,0,0,,自此再没人见过他， 他变成了一个神话\N{\r原文字幕}Nobody's ever seen him since. He becomes a myth.
+Dialogue: 0,1:01:49.70,1:01:52.90,译文字幕,,0,0,0,,一个罪犯们晚上给孩子说的故事\N{\r原文字幕}A spook story that criminals tell their kids at night.
+Dialogue: 0,1:01:53.00,1:01:56.10,译文字幕,,0,0,0,,“要是不听话， 凯撒·苏斯就会来抓你”\N{\r原文字幕}"Rat on your pop, and Keyser Soze will get you."
+Dialogue: 0,1:01:57.00,1:01:59.00,译文字幕,,0,0,0,,没有人相信这事\N{\r原文字幕}No one ever really believes.
+Dialogue: 0,1:01:59.20,1:02:01.30,译文字幕,,0,0,0,,你相信有这人吗？\N{\r原文字幕}Do you believe in him?
+Dialogue: 0,1:02:03.80,1:02:05.50,译文字幕,,0,0,0,,基顿总是说:\N{\r原文字幕}Keaton always said:
+Dialogue: 0,1:02:05.80,1:02:09.20,译文字幕,,0,0,0,,“我不信上帝，但我怕他”\N{\r原文字幕}"I don't believe in God, but I'm afraid of him."
+Dialogue: 0,1:02:11.20,1:02:13.10,译文字幕,,0,0,0,,我信上帝\N{\r原文字幕}I believe in God.
+Dialogue: 0,1:02:13.40,1:02:17.50,译文字幕,,0,0,0,,唯一让我恐惧的就是凯撒·苏斯\N{\r原文字幕}And the only thing that scares me is Keyser Soze.
+Dialogue: 0,1:02:24.30,1:02:26.40,译文字幕,,0,0,0,,你对此有何看法？\N{\r原文字幕}You give any weight to this?
+Dialogue: 0,1:02:26.40,1:02:28.90,译文字幕,,0,0,0,,我会给你介绍法院的丹曼徹斯特\N{\r原文字幕}I can introduce you to Dan Metzheiser from Justice.
+Dialogue: 0,1:02:29.00,1:02:32.60,译文字幕,,0,0,0,,他有些关于苏斯在华盛顿的资料，收集那家伙的资料几乎成了他的业余爱好\N{\r原文字幕}He's got a file on Soze in DC. It's been a hobby of his for a while.
+Dialogue: 0,1:02:32.70,1:02:36.10,译文字幕,,0,0,0,,大多数人视他为『怪杰胡克』中的那个记者\N{\r原文字幕}A lot of guys equate him to that reporter on The Incredible Hulk.
+Dialogue: 0,1:02:41.20,1:02:42.60,译文字幕,,0,0,0,,你听过他的事吗？\N{\r原文字幕}You've heard of him?
+Dialogue: 0,1:02:42.70,1:02:44.50,译文字幕,,0,0,0,,哪儿？在街上？\N{\r原文字幕}Where? On the street?
+Dialogue: 0,1:02:44.60,1:02:47.30,译文字幕,,0,0,0,,听过几次，都是无关痛痒的事\N{\r原文字幕}A few times. You know, outside stuff.
+Dialogue: 0,1:02:47.60,1:02:51.60,译文字幕,,0,0,0,,有些人间接为苏斯工作， 并赚了点钱\N{\r原文字幕}Someone working for a guy who worked for a guy who got money from Soze.
+Dialogue: 0,1:02:51.70,1:02:53.30,译文字幕,,0,0,0,,就是那样\N{\r原文字幕}Shit like that.
+Dialogue: 0,1:02:54.10,1:02:56.40,译文字幕,,0,0,0,,就像是种古老的象征， 一种驱魔印\N{\r原文字幕}It could be an old badge. A hex sign.
+Dialogue: 0,1:02:56.40,1:02:59.50,译文字幕,,0,0,0,,这名字就是为了让人躲的远远的\N{\r原文字幕}Keep people from fucking with you when a name meant something.
+Dialogue: 0,1:02:59.60,1:03:01.50,译文字幕,,0,0,0,,- 但你已插手这事  - 没错\N{\r原文字幕}- But you're here. - Shit, yeah.
+Dialogue: 0,1:03:01.80,1:03:06.40,译文字幕,,0,0,0,,这家伙因为害怕苏斯，甚至想从医院里逃走\N{\r原文字幕}This guy's trying to walk out of a hospital because he's so afraid of Soze.
+Dialogue: 0,1:03:06.70,1:03:08.80,译文字幕,,0,0,0,,我会提高警觉的\N{\r原文字幕}I'll run it up the flagpole.
+Dialogue: 0,1:03:10.20,1:03:12.70,译文字幕,,0,0,0,,我是清白的，我已经说了船上的事\N{\r原文字幕}I came clean. I told it like it happened.
+Dialogue: 0,1:03:12.80,1:03:14.30,译文字幕,,0,0,0,,再说去那儿的过程又有什么用 ？\N{\r原文字幕}So what about how I got there?
+Dialogue: 0,1:03:14.40,1:03:17.60,译文字幕,,0,0,0,,地方检察官也曾威胁我别指望特赦\N{\r原文字幕}It's so full of holes, the DA would've told me to forget amnesty.
+Dialogue: 0,1:03:17.70,1:03:19.90,译文字幕,,0,0,0,,你从我身上得到了想要的情报，已经赚了\N{\r原文字幕}You got what you wanted out of me. Big deal.
+Dialogue: 0,1:03:20.00,1:03:22.80,译文字幕,,0,0,0,,- 为何没把这些情况向地方检察官坦白？ - 那么你和我说…\N{\r原文字幕}- That's why you never told the DA? - You tell me.
+Dialogue: 0,1:03:23.00,1:03:26.20,译文字幕,,0,0,0,,如果我向你说是尼斯湖怪雇的我，你会怎么想？\N{\r原文字幕}If I told you the Loch Ness monster hired me, what would you say?
+Dialogue: 0,1:03:26.30,1:03:28.60,译文字幕,,0,0,0,,推翻证供，我们会召你作证\N{\r原文字幕}Turn state's evidence. We'll put you on the stand.
+Dialogue: 0,1:03:28.60,1:03:31.10,译文字幕,,0,0,0,,我已经获释了，你还能给我开什么条件？\N{\r原文字幕}I've got immunity. What can you possibly offer me?
+Dialogue: 0,1:03:31.20,1:03:34.80,译文字幕,,0,0,0,,若真有凯撒·苏斯其人，他会来找你的\N{\r原文字幕}If there really is a Keyser Soze, he's gonna come lookin' for you.
+Dialogue: 0,1:03:35.30,1:03:36.60,译文字幕,,0,0,0,,你有没有大脑？\N{\r原文字幕}Where's your head?
+Dialogue: 0,1:03:37.10,1:03:39.00,译文字幕,,0,0,0,,你以为事情就那么简单？\N{\r原文字幕}Where do you think the pressure is?
+Dialogue: 0,1:03:39.00,1:03:42.20,译文字幕,,0,0,0,,无论你称呼他凯撒·苏斯或是什么， 他都知道我身在何处\N{\r原文字幕}Keyser Soze, or whatever you call him, knows where I am right now.
+Dialogue: 0,1:03:42.40,1:03:46.50,译文字幕,,0,0,0,,他能在十分钟里就把我找出来，然后逼你放人\N{\r原文字幕}He has the burner on your ass to let me go so he can scoop me up 10 minutes later.
+Dialogue: 0,1:03:46.80,1:03:48.80,译文字幕,,0,0,0,,特赦也就是你们这些混蛋想出来的\N{\r原文字幕}Immunity was just a deal with you assholes.
+Dialogue: 0,1:03:48.90,1:03:50.80,译文字幕,,0,0,0,,若我被假释，我就有了新麻烦\N{\r原文字幕}I got a new problem when I post bail.
+Dialogue: 0,1:03:50.90,1:03:53.30,译文字幕,,0,0,0,,为何让他玩弄于股掌之间？ 我们能保护你\N{\r原文字幕}Why play into his hands? We can protect you.
+Dialogue: 0,1:03:54.40,1:03:57.70,译文字幕,,0,0,0,,多谢了，大卫，你说的太动听了\N{\r原文字幕}Thanks, Dave. Bang-up job so far. Extortion, coercion.
+Dialogue: 0,1:03:57.80,1:03:59.90,译文字幕,,0,0,0,,若要你吻我屁股，我也不反对的\N{\r原文字幕}Pardon me if I ask you to kiss my pucker.
+Dialogue: 0,1:04:00.00,1:04:03.30,译文字幕,,0,0,0,,把我赶至穷途末路的人，居然说要保护我？\N{\r原文字幕}The same fuckers that rounded us up are now bailing me out?
+Dialogue: 0,1:04:03.40,1:04:05.10,译文字幕,,0,0,0,,去你的\N{\r原文字幕}Fuck you.
+Dialogue: 0,1:04:07.00,1:04:09.40,译文字幕,,0,0,0,,你以为你能逮住凯撒·苏斯？\N{\r原文字幕}You think you can catch Keyser Soze?
+Dialogue: 0,1:04:09.50,1:04:14.20,译文字幕,,0,0,0,,你以为像他这样的人会束手就擒吗\N{\r原文字幕}You think a guy like that comes this close to getting caught...and sticks his head out?
+Dialogue: 0,1:04:14.30,1:04:17.10,译文字幕,,0,0,0,,若他真要出现，那就是为了除掉我\N{\r原文字幕}If he comes up for anything, it'll be to get rid of me.
+Dialogue: 0,1:04:17.40,1:04:19.00,译文字幕,,0,0,0,,然后…\N{\r原文字幕}After that...
+Dialogue: 0,1:04:19.40,1:04:22.40,译文字幕,,0,0,0,,…我想你再也不会听到他的消息\N{\r原文字幕}...my guess is you'll never hear from him again.
+Dialogue: 0,1:04:44.40,1:04:46.10,译文字幕,,0,0,0,,后来怎样了？\N{\r原文字幕}What happened next?
+Dialogue: 0,1:04:46.30,1:04:49.00,译文字幕,,0,0,0,,我们第二天醒来，范斯特已经走了\N{\r原文字幕}We woke up the next morning and Fenster was gone.
+Dialogue: 0,1:04:49.10,1:04:51.60,译文字幕,,0,0,0,,他不想为苏斯卖命\N{\r原文字幕}He couldn't handle the idea of slumming for Soze.
+Dialogue: 0,1:04:51.90,1:04:53.80,译文字幕,,0,0,0,,他留下字条祝我们好运…\N{\r原文字幕}He left us a note wishing us good luck...
+Dialogue: 0,1:04:53.90,1:04:56.60,译文字幕,,0,0,0,,…还拿走了我们抢来的所有钱\N{\r原文字幕}...and took a chunk of the money we'd scraped together.
+Dialogue: 0,1:04:56.70,1:04:57.80,译文字幕,,0,0,0,,然后怎样？\N{\r原文字幕}Then what?
+Dialogue: 0,1:04:58.10,1:04:59.50,译文字幕,,0,0,0,,麦克麦纳斯很愤怒\N{\r原文字幕}McManus was furious.
+Dialogue: 0,1:04:59.60,1:05:03.80,译文字幕,,0,0,0,,说要把他捉回来剁碎他的心肝\N{\r原文字幕}He talked about tracking him down and ripping his heart out. All sorts of shit.
+Dialogue: 0,1:05:04.60,1:05:06.70,译文字幕,,0,0,0,,那晚我们接到一个电话\N{\r原文字幕}That night, we got the call.
+Dialogue: 0,1:05:07.10,1:05:08.30,译文字幕,,0,0,0,,什么电话？\N{\r原文字幕}What call?
+Dialogue: 0,1:05:08.50,1:05:10.90,译文字幕,,0,0,0,,小林说已经找到了范斯特\N{\r原文字幕}Kobayashi told us where we could find Fenster.
+Dialogue: 0,1:05:19.10,1:05:21.40,译文字幕,,0,0,0,,我们快离开这儿\N{\r原文字幕}Let's get the fuck out of here.
+Dialogue: 0,1:05:23.00,1:05:24.50,译文字幕,,0,0,0,,我们得先把他埋了\N{\r原文字幕}We gotta bury him.
+Dialogue: 0,1:05:24.70,1:05:26.00,译文字幕,,0,0,0,,用什么挖坑？\N{\r原文字幕}With what?
+Dialogue: 0,1:05:26.50,1:05:28.00,译文字幕,,0,0,0,,用我们的手\N{\r原文字幕}With our hands.
+Dialogue: 0,1:05:37.90,1:05:39.30,译文字幕,,0,0,0,,神经病\N{\r原文字幕}This is nuts.
+Dialogue: 0,1:05:39.50,1:05:41.50,译文字幕,,0,0,0,,这里全是干沙\N{\r原文字幕}It's dry fucking sand.
+Dialogue: 0,1:05:41.60,1:05:45.10,译文字幕,,0,0,0,,等他尸身腐烂时，一里外的冲浪者也能闻到尸臭\N{\r原文字幕}When he rots the surfers are gonna smell him a mile away.
+Dialogue: 0,1:05:45.20,1:05:47.20,译文字幕,,0,0,0,,- 给我挖 - 我们该怎么办？\N{\r原文字幕}- Dig, you fuck. - What are we gonna do?
+Dialogue: 0,1:05:47.30,1:05:49.20,译文字幕,,0,0,0,,这家伙想把我们全干了\N{\r原文字幕}This fuckin' guy is gonna kill us.
+Dialogue: 0,1:05:49.30,1:05:53.10,译文字幕,,0,0,0,,我不知道你的打算，跛子，但我要跑路，我没什么问题\N{\r原文字幕}I don't know about you, peg leg, but I can run. I got no problem with that.
+Dialogue: 0,1:05:54.00,1:05:57.20,译文字幕,,0,0,0,,小林要干掉你也没什么问题\N{\r原文字幕}Kobayashi doesn't seem to have a problem with it either.
+Dialogue: 0,1:05:58.10,1:06:00.90,译文字幕,,0,0,0,,你就走吧， 我们会为你挖另一个坑\N{\r原文字幕}You run, and we're gonna be diggin' a hole for you.
+Dialogue: 0,1:06:01.00,1:06:02.50,译文字幕,,0,0,0,,明白吗？\N{\r原文字幕}You got that?
+Dialogue: 0,1:06:03.10,1:06:06.50,译文字幕,,0,0,0,,死的又不是我亲儿子，我不欠任何人的！\N{\r原文字幕}This ain't my boy we're burying. I don't owe anybody!
+Dialogue: 0,1:06:07.40,1:06:11.00,译文字幕,,0,0,0,,- 去你的吧   - 我们在一起混了五年\N{\r原文字幕}- So fuck you. - He was my partner for five years.
+Dialogue: 0,1:06:11.30,1:06:14.70,译文字幕,,0,0,0,,所见过的钱比你想象的还多\N{\r原文字幕}We did more jobs and I saw more money than you can ever count.
+Dialogue: 0,1:06:14.80,1:06:16.20,译文字幕,,0,0,0,,你给我去死！\N{\r原文字幕}So fuck you!
+Dialogue: 0,1:06:16.80,1:06:19.90,译文字幕,,0,0,0,,- 所以现在才要还债！ - 这不是还债！\N{\r原文字幕}- 'Cause now it's payback! - It's not payback!
+Dialogue: 0,1:06:22.80,1:06:24.20,译文字幕,,0,0,0,,这只是警告\N{\r原文字幕}It's precaution.
+Dialogue: 0,1:06:24.60,1:06:27.60,译文字幕,,0,0,0,,想还债那就去还，想跑路的就跑吧，我不在乎\N{\r原文字幕}You want payback? You wanna run? I don't care.
+Dialogue: 0,1:06:30.60,1:06:32.80,译文字幕,,0,0,0,,我不是为范斯特这么做\N{\r原文字幕}I'm not doin' this for Fenster.
+Dialogue: 0,1:06:33.60,1:06:35.50,译文字幕,,0,0,0,,也不是为你们这么做\N{\r原文字幕}I'm not doin' it for you.
+Dialogue: 0,1:06:37.00,1:06:38.90,译文字幕,,0,0,0,,我只是为了我自己而已\N{\r原文字幕}I'm doin' this for me.
+Dialogue: 0,1:06:40.70,1:06:42.60,译文字幕,,0,0,0,,我得把事情全了结\N{\r原文字幕}I'm gonna finish this thing.
+Dialogue: 0,1:06:43.30,1:06:46.50,译文字幕,,0,0,0,,我不会让这叫小林的杂碎活下去\N{\r原文字幕}This Kobayashi bastard is not gonna stand on me.
+Dialogue: 0,1:07:07.70,1:07:09.80,译文字幕,,0,0,0,,范斯特被杀后，没有人逃跑？\N{\r原文字幕}After they killed Fenster, nobody would run?
+Dialogue: 0,1:07:09.90,1:07:13.90,译文字幕,,0,0,0,,- 我想的，我知道我们定能逃脱   - 那你为什么不说什么？\N{\r原文字幕}- I wanted to. I thought we could make it. - Why didn't you say anything?
+Dialogue: 0,1:07:13.90,1:07:16.60,译文字幕,,0,0,0,,相信我，我试了，但基顿不同意这么做\N{\r原文字幕}Believe me, I tried, but Keaton wouldn't have it.
+Dialogue: 0,1:07:16.60,1:07:18.70,译文字幕,,0,0,0,,我们很难劝服他\N{\r原文字幕}It was too far-fetched for him.
+Dialogue: 0,1:07:18.70,1:07:21.00,译文字幕,,0,0,0,,基顿很固执，他曾是警察\N{\r原文字幕}Keaton was a grounded guy. An ex-cop.
+Dialogue: 0,1:07:21.10,1:07:24.00,译文字幕,,0,0,0,,警察是不会接受复杂的解释的\N{\r原文字幕}To a cop, the explanation is never that complicated.
+Dialogue: 0,1:07:24.10,1:07:25.70,译文字幕,,0,0,0,,总是容易受骗\N{\r原文字幕}It's always simple.
+Dialogue: 0,1:07:25.80,1:07:28.40,译文字幕,,0,0,0,,不信街上的流言，不信幕后有黑手\N{\r原文字幕}There's no mystery to the street, no arch-criminal.
+Dialogue: 0,1:07:28.40,1:07:32.20,译文字幕,,0,0,0,,如果你发现一具死尸，并认定这是他兄弟干的，你很可能是对的\N{\r原文字幕}You got a body and think his brother did it, you're probably right.
+Dialogue: 0,1:07:32.30,1:07:33.80,译文字幕,,0,0,0,,没人与基顿争论\N{\r原文字幕}Nobody argued with Keaton.
+Dialogue: 0,1:07:33.80,1:07:36.50,译文字幕,,0,0,0,,人人都准备好好的教训小林\N{\r原文字幕}They just set their minds to whacking Kobayashi.
+Dialogue: 0,1:07:46.50,1:07:47.80,译文字幕,,0,0,0,,他们上来了\N{\r原文字幕}They're coming up.
+Dialogue: 0,1:07:49.60,1:07:53.70,译文字幕,,0,0,0,,- 收到了吗？他上来了   - 他正下来\N{\r原文字幕}- Did you hear me? He's coming up. - He's on his way down.
+Dialogue: 0,1:08:50.40,1:08:51.80,译文字幕,,0,0,0,,别动\N{\r原文字幕}Don't move.
+Dialogue: 0,1:08:52.50,1:08:54.20,译文字幕,,0,0,0,,按二十楼，快\N{\r原文字幕}Press 20. Do it now.
+Dialogue: 0,1:09:14.50,1:09:15.60,译文字幕,,0,0,0,,出去\N{\r原文字幕}Move.
+Dialogue: 0,1:09:19.00,1:09:21.90,译文字幕,,0,0,0,,- 我们的答复是“不行”   - 苏斯先生会很--\N{\r原文字幕}- The answer is "no." - Mr.Soze will be most--
+Dialogue: 0,1:09:22.00,1:09:24.20,译文字幕,,0,0,0,,听着，混蛋，根本没有凯撒·苏斯这个人\N{\r原文字幕}Listen, cocksucker, there is no Keyser Soze.
+Dialogue: 0,1:09:24.30,1:09:26.80,译文字幕,,0,0,0,,要再提这名字，我就立马杀了你\N{\r原文字幕}Mention his name again, I'll kill you right now.
+Dialogue: 0,1:09:26.80,1:09:30.70,译文字幕,,0,0,0,,真是奇怪， 我以为你们是为了杀我而来\N{\r原文字幕}A strange threat. I assume you've come here to kill me anyway.
+Dialogue: 0,1:09:36.20,1:09:38.60,译文字幕,,0,0,0,,我知道你找的到我们…\N{\r原文字幕}We know that you can get to us...
+Dialogue: 0,1:09:39.50,1:09:42.30,译文字幕,,0,0,0,,…可现在你也知道了，我们能找到你\N{\r原文字幕}...but now you know that we can get to you.
+Dialogue: 0,1:09:42.90,1:09:45.90,译文字幕,,0,0,0,,我最后给你次机会去终止此事\N{\r原文字幕}I'm giving you one last chance to call this off.
+Dialogue: 0,1:09:47.40,1:09:49.40,译文字幕,,0,0,0,,我的雇主已经决定了\N{\r原文字幕}My employer has made up his mind.
+Dialogue: 0,1:09:49.50,1:09:52.60,译文字幕,,0,0,0,,- 他不会改变主意的   - 我们也不会\N{\r原文字幕}- He does not change it. - Neither do we.
+Dialogue: 0,1:09:52.80,1:09:55.60,译文字幕,,0,0,0,,你能杀范斯特，但你杀不了我们所有人\N{\r原文字幕}You got Fenster, but you won't be able to get all of us.
+Dialogue: 0,1:09:55.70,1:09:58.00,译文字幕,,0,0,0,,至少在我们中的某个干掉你之前不会\N{\r原文字幕}Not before one of us gets through to you.
+Dialogue: 0,1:09:58.10,1:10:01.20,译文字幕,,0,0,0,,我信你的话，是真的相信\N{\r原文字幕}I believe you. I most sincerely do.
+Dialogue: 0,1:10:02.10,1:10:04.80,译文字幕,,0,0,0,,若你们不是有能耐的人，就不会被选进来\N{\r原文字幕}You would not have been chosen were you not so suitable.
+Dialogue: 0,1:10:04.90,1:10:08.80,译文字幕,,0,0,0,,但我不能做这决定，无论你怎样…\N{\r原文字幕}But I cannot make this decision. Whatever you threaten me with is...
+Dialogue: 0,1:10:08.90,1:10:11.70,译文字幕,,0,0,0,,…恐吓我都会于事无补\N{\r原文字幕}...ludicrous in comparison to what will be done to me...
+Dialogue: 0,1:10:11.80,1:10:14.40,译文字幕,,0,0,0,,…因我必须完全执行命令\N{\r原文字幕}...if I do not carry out my orders in full.
+Dialogue: 0,1:10:21.90,1:10:24.40,译文字幕,,0,0,0,,想杀你的人就是我\N{\r原文字幕}I'm the guy that's gonna get you.
+Dialogue: 0,1:10:26.10,1:10:28.30,译文字幕,,0,0,0,,我只想你知道那点\N{\r原文字幕}I just wanted you to know that.
+Dialogue: 0,1:10:29.20,1:10:31.20,译文字幕,,0,0,0,,我很抱歉\N{\r原文字幕}I'm so sorry.
+Dialogue: 0,1:10:31.70,1:10:34.20,译文字幕,,0,0,0,,就当是我在恳求，请相信我\N{\r原文字幕}I implore you, believe me...
+Dialogue: 0,1:10:34.60,1:10:36.60,译文字幕,,0,0,0,,…苏斯先生确有其人\N{\r原文字幕}...Mr.Soze is very real...
+Dialogue: 0,1:10:37.00,1:10:39.50,译文字幕,,0,0,0,,- …而他是个很坚决的人   - 我们等着瞧吧\N{\r原文字幕}- ...and very determined. - We'll see.
+Dialogue: 0,1:10:46.90,1:10:50.30,译文字幕,,0,0,0,,在你干掉我之前…\N{\r原文字幕}Before you do me in...
+Dialogue: 0,1:10:50.80,1:10:54.70,译文字幕,,0,0,0,,…请允许我先去了结与菲娜琳小姐的公事好吗？\N{\r原文字幕}...you will let me finish my business with Miss Finneran first, won't you?
+Dialogue: 0,1:10:59.70,1:11:01.20,译文字幕,,0,0,0,,你说什么？\N{\r原文字幕}What did you say?
+Dialogue: 0,1:11:02.30,1:11:03.90,译文字幕,,0,0,0,,伊迪·菲娜琳\N{\r原文字幕}Edie Finneran.
+Dialogue: 0,1:11:04.20,1:11:06.20,译文字幕,,0,0,0,,她正在楼上我的办公室…\N{\r原文字幕}She's upstairs in my office...
+Dialogue: 0,1:11:06.80,1:11:09.00,译文字幕,,0,0,0,,…等着交涉一桩引渡案\N{\r原文字幕}...for an extradition deposition.
+Dialogue: 0,1:11:10.00,1:11:12.80,译文字幕,,0,0,0,,她要求我亲自与她谈这案子\N{\r原文字幕}I requested she be put on the case personally.
+Dialogue: 0,1:11:12.90,1:11:14.70,译文字幕,,0,0,0,,她是昨天飞来洛杉矶的\N{\r原文字幕}She flew in yesterday.
+Dialogue: 0,1:11:16.70,1:11:18.00,译文字幕,,0,0,0,,没关系\N{\r原文字幕}No matter.
+Dialogue: 0,1:11:18.50,1:11:20.40,译文字幕,,0,0,0,,动手吧\N{\r原文字幕}Kill away.
+Dialogue: 0,1:11:25.20,1:11:26.70,译文字幕,,0,0,0,,你在说谎\N{\r原文字幕}You're lying.
+Dialogue: 0,1:11:27.20,1:11:28.30,译文字幕,,0,0,0,,有吗？\N{\r原文字幕}Am I?
+Dialogue: 0,1:11:45.80,1:11:49.40,译文字幕,,0,0,0,,菲娜琳小姐在洛杉矶期间，将受到很好的保护\N{\r原文字幕}Miss Finneran's escort while she's here in Los Angeles.
+Dialogue: 0,1:11:49.50,1:11:51.10,译文字幕,,0,0,0,,保镖会片刻不离其左右\N{\r原文字幕}Never leaves her for a moment.
+Dialogue: 0,1:11:51.50,1:11:54.00,译文字幕,,0,0,0,,我想你也会高兴，她的安全受到保障\N{\r原文字幕}I thought you'd be glad to know she's in good hands.
+Dialogue: 0,1:11:58.80,1:12:01.60,译文字幕,,0,0,0,,好好休息去吧，船会在星期五到\N{\r原文字幕}Get some rest. The boat will be ready for you on Friday.
+Dialogue: 0,1:12:01.70,1:12:04.30,译文字幕,,0,0,0,,若你或你的朋友，有任何轻举妄动\N{\r原文字幕}If I see you or any of your friends before then...
+Dialogue: 0,1:12:04.40,1:12:09.20,译文字幕,,0,0,0,,…菲娜琳小姐将会饱受折磨而死\N{\r原文字幕}...Miss Finneran will be the victim of a most gruesome violation before she dies.
+Dialogue: 0,1:12:09.40,1:12:11.80,译文字幕,,0,0,0,,哈肯尼先生，你的父亲…\N{\r原文字幕}As indeed will your father, Mr.Hockney...
+Dialogue: 0,1:12:12.40,1:12:15.20,译文字幕,,0,0,0,,…还有肯特先生在亚里桑那州的叔叔也会如此\N{\r原文字幕}...and your Uncle Randall in Arizona, Mr.Kint.
+Dialogue: 0,1:12:16.20,1:12:19.60,译文字幕,,0,0,0,,我还会亲手阉掉麦克麦纳斯先生的侄子\N{\r原文字幕}I might only castrate Mr.McManus' nephew, David.
+Dialogue: 0,1:12:22.60,1:12:24.50,译文字幕,,0,0,0,,你们都清楚了吗？\N{\r原文字幕}Do I make myself clear?
+Dialogue: 0,1:12:24.90,1:12:27.40,译文字幕,,0,0,0,,我们会处理楼下那两具尸体\N{\r原文字幕}We will take care of the two bodies downstairs.
+Dialogue: 0,1:12:27.50,1:12:29.70,译文字幕,,0,0,0,,并会把那账算到范斯特先生身上\N{\r原文字幕}We'll add them to the cost of Mr.Fenster.
+Dialogue: 0,1:12:30.60,1:12:32.80,译文字幕,,0,0,0,,请恕失陪，各位\N{\r原文字幕}If you'll excuse me, gentlemen.
+Dialogue: 0,1:13:11.00,1:13:13.10,译文字幕,,0,0,0,,这真是场怪异的恶梦\N{\r原文字幕}It's a logistical nightmare.
+Dialogue: 0,1:13:13.30,1:13:16.00,译文字幕,,0,0,0,,约有十到二十人\N{\r原文字幕}Close quarters. 10, maybe 20 men.
+Dialogue: 0,1:13:16.70,1:13:19.60,译文字幕,,0,0,0,,我们估计不到船舱内还有多少人\N{\r原文字幕}There's no tellin' how many more are gonna be below deck.
+Dialogue: 0,1:13:19.70,1:13:21.90,译文字幕,,0,0,0,,要偷袭那些家伙吗？\N{\r原文字幕}Can we stealth these guys?
+Dialogue: 0,1:13:22.30,1:13:25.50,译文字幕,,0,0,0,,因为是毒品交易，他们会小心防范的\N{\r原文字幕}With all that coke, they're gonna be ready.
+Dialogue: 0,1:13:26.30,1:13:28.70,译文字幕,,0,0,0,,而且会带给我们另一个问题\N{\r原文字幕}Which brings me to sunny point Number 2.
+Dialogue: 0,1:13:29.30,1:13:32.90,译文字幕,,0,0,0,,即使我们偷袭成功并劫走那船，还是会一无所得\N{\r原文字幕}Even if one of us gets through and jacks the boat, we still got nothin'.
+Dialogue: 0,1:13:32.90,1:13:34.70,译文字幕,,0,0,0,,等他们收了钱又如何？\N{\r原文字幕}What if we wait for the money?
+Dialogue: 0,1:13:35.20,1:13:37.00,译文字幕,,0,0,0,,那至少要再多干掉十个人\N{\r原文字幕}Ten more men at least.
+Dialogue: 0,1:13:37.80,1:13:40.60,译文字幕,,0,0,0,,以我看来，这行不通\N{\r原文字幕}In my opinion, it can't be done.
+Dialogue: 0,1:13:41.00,1:13:43.20,译文字幕,,0,0,0,,谁进去了都不会活着出来\N{\r原文字幕}Anyone who goes in is not comin' out alive.
+Dialogue: 0,1:13:43.30,1:13:46.30,译文字幕,,0,0,0,,- 我会等钱到再下手   - 我也是\N{\r原文字幕}- I'm gonna wait for the money. - Me, too.
+Dialogue: 0,1:13:46.40,1:13:49.80,译文字幕,,0,0,0,,- 你们有听他在说吗？    - 既然进去了，就没指望全身而退\N{\r原文字幕}- Did you hear what he just said? - If I'm goin' in, I want a cut.
+Dialogue: 0,1:13:49.90,1:13:51.10,译文字幕,,0,0,0,,我也是\N{\r原文字幕}Me, too.
+Dialogue: 0,1:13:52.70,1:13:54.60,译文字幕,,0,0,0,,天下没有办不成的事\N{\r原文字幕}There's nothing that can't be done.
+Dialogue: 0,1:13:57.70,1:14:01.40,译文字幕,,0,0,0,,真不敢相信我们就这样直接去送死\N{\r原文字幕}I just can't believe we're gonna walk in to certain death.
+Dialogue: 0,1:14:07.60,1:14:10.20,译文字幕,,0,0,0,,电台里说纽约正在下雨\N{\r原文字幕}The news said it's raining in New York.
+Dialogue: 0,1:14:31.90,1:14:33.50,译文字幕,,0,0,0,,他们说的那是什么话？\N{\r原文字幕}What language is that?
+Dialogue: 0,1:14:33.70,1:14:36.90,译文字幕,,0,0,0,,不知道，可能是俄语\N{\r原文字幕}I don't know. Russian, I think.
+Dialogue: 0,1:14:38.80,1:14:40.10,译文字幕,,0,0,0,,好象是匈牙利语\N{\r原文字幕}Hungarian?
+Dialogue: 0,1:15:44.30,1:15:46.80,译文字幕,,0,0,0,,各位，包裹已经送到了\N{\r原文字幕}The package has arrived, gentlemen.
+Dialogue: 0,1:16:06.80,1:16:07.90,译文字幕,,0,0,0,,你们准备好了吗？\N{\r原文字幕}You kids ready?
+Dialogue: 0,1:16:08.80,1:16:11.50,译文字幕,,0,0,0,,若不是停下来答你，就已经预备好了\N{\r原文字幕}I would be if I didn't have to stop and answer you.
+Dialogue: 0,1:16:11.60,1:16:12.90,译文字幕,,0,0,0,,我已经准备妥当\N{\r原文字幕}I'm ready.
+Dialogue: 0,1:16:13.10,1:16:16.00,译文字幕,,0,0,0,,麦克麦纳斯，你要在十秒内搞定\N{\r原文字幕}McManus, you better be set up in 10 seconds.
+Dialogue: 0,1:16:18.00,1:16:19.10,译文字幕,,0,0,0,,准备好了\N{\r原文字幕}I'm ready.
+Dialogue: 0,1:16:20.80,1:16:22.20,译文字幕,,0,0,0,,我要你留在这里\N{\r原文字幕}I want you to stay here.
+Dialogue: 0,1:16:23.60,1:16:24.90,译文字幕,,0,0,0,,我本来要掩护--\N{\r原文字幕}I'm supposed to cover--
+Dialogue: 0,1:16:25.00,1:16:27.80,译文字幕,,0,0,0,,如果我们出不来了， 带上钱赶快走\N{\r原文字幕}If we don't get out of this, take the money and go.
+Dialogue: 0,1:16:27.90,1:16:29.00,译文字幕,,0,0,0,,我不能--\N{\r原文字幕}I can't--
+Dialogue: 0,1:16:29.00,1:16:31.40,译文字幕,,0,0,0,,去找伊迪，告诉她全部真相\N{\r原文字幕}Find Edie. Tell her everything that happened.
+Dialogue: 0,1:16:31.50,1:16:33.50,译文字幕,,0,0,0,,她认识许多人，她知道该如何处理\N{\r原文字幕}She knows people. She knows what to do.
+Dialogue: 0,1:16:33.60,1:16:36.60,译文字幕,,0,0,0,,如果用我的方法除不掉小林， 那么她有别的办法\N{\r原文字幕}If I don't get Kobayashi my way, she'll get him her way.
+Dialogue: 0,1:16:36.70,1:16:39.20,译文字幕,,0,0,0,,- 可要是我--   - 按我说的去做\N{\r原文字幕}- What if I-- - Just do what I say.
+Dialogue: 0,1:16:39.90,1:16:41.10,译文字幕,,0,0,0,,拜托了\N{\r原文字幕}Please.
+Dialogue: 0,1:16:44.40,1:16:46.00,译文字幕,,0,0,0,,告诉她….\N{\r原文字幕}Tell her that...
+Dialogue: 0,1:16:49.60,1:16:51.20,译文字幕,,0,0,0,,告诉她我已经尽力了\N{\r原文字幕}Tell her I tried.
+Dialogue: 0,1:17:04.40,1:17:06.90,译文字幕,,0,0,0,,麦克麦纳斯，他过来了\N{\r原文字幕}McManus, he's on his way.
+Dialogue: 0,1:17:07.30,1:17:08.60,译文字幕,,0,0,0,,我已经就位\N{\r原文字幕}I'm there.
+Dialogue: 0,1:18:00.80,1:18:04.60,译文字幕,,0,0,0,,一，二，三，四…\N{\r原文字幕}One, two, three, four...
+Dialogue: 0,1:18:05.20,1:18:07.80,译文字幕,,0,0,0,,…五，六，七…\N{\r原文字幕}...five, six, seven...
+Dialogue: 0,1:18:09.30,1:18:10.90,译文字幕,,0,0,0,,奥斯瓦德的活不好干啊\N{\r原文字幕}Oswald was a fag.
+Dialogue: 0,1:18:19.40,1:18:20.40,译文字幕,,0,0,0,,你好\N{\r原文字幕}Hi.
+Dialogue: 0,1:18:21.10,1:18:22.60,译文字幕,,0,0,0,,你好吗？\N{\r原文字幕}How you doin'?
+Dialogue: 0,1:18:25.50,1:18:27.80,译文字幕,,0,0,0,,有什么问题吗？\N{\r原文字幕}Is there a problem?
+Dialogue: 0,1:18:53.40,1:18:54.30,译文字幕,,0,0,0,,快\N{\r原文字幕}Now.
+Dialogue: 0,1:19:24.60,1:19:27.80,译文字幕,,0,0,0,,王二先生有块地\N{\r原文字幕}"Old McDonald had a farm
+Dialogue: 0,1:19:27.90,1:19:30.40,译文字幕,,0,0,0,,咿呀咿呀呦\N{\r原文字幕}"Ee-aye, ee-aye, O
+Dialogue: 0,1:19:31.00,1:19:35.30,译文字幕,,0,0,0,,“在那地里他杀了班人”\N{\r原文字幕}"And on that farm, he shot some guys"
+Dialogue: 0,1:20:09.00,1:20:10.50,译文字幕,,0,0,0,,明星要出场了\N{\r原文字幕}Elvis has left the building.
+Dialogue: 0,1:21:21.80,1:21:24.40,译文字幕,,0,0,0,,别开枪，别开枪，自己人\N{\r原文字幕}Hold fire. Hold fire. Vamonos!
+Dialogue: 0,1:21:38.10,1:21:39.30,译文字幕,,0,0,0,,好啊\N{\r原文字幕}Hello.
+Dialogue: 0,1:22:33.70,1:22:35.00,译文字幕,,0,0,0,,你为何不逃？\N{\r原文字幕}Why didn't you run?
+Dialogue: 0,1:22:35.90,1:22:37.20,译文字幕,,0,0,0,,我被吓呆了\N{\r原文字幕}I froze up.
+Dialogue: 0,1:22:38.00,1:22:41.30,译文字幕,,0,0,0,,我想起了范斯特被埋葬时的样子\N{\r原文字幕}I thought about Fenster and how he looked when we buried him.
+Dialogue: 0,1:22:41.40,1:22:45.50,译文字幕,,0,0,0,,然后我又想到基顿，那时候看起来他离成功不远\N{\r原文字幕}Then I thought about Keaton, and it looked like he might pull it off.
+Dialogue: 0,1:22:51.70,1:22:53.90,译文字幕,,0,0,0,,有个男孩在沙滩上发现一具尸体\N{\r原文字幕}A boy found a body on the beach today.
+Dialogue: 0,1:22:53.90,1:22:56.40,译文字幕,,0,0,0,,是被人从船上抛下海的，头部中了两枪\N{\r原文字幕}Thrown clear of the boat. Shot twice in the head.
+Dialogue: 0,1:22:56.40,1:22:58.40,译文字幕,,0,0,0,,事物局的两个人去鉴定了他的身份\N{\r原文字幕}Two guys from the Bureau identified him.
+Dialogue: 0,1:22:58.40,1:23:00.60,译文字幕,,0,0,0,,- 然后呢？   - 他叫阿尔图罗·马奎斯\N{\r原文字幕}- What else? - His name was Arturo Marquez.
+Dialogue: 0,1:23:00.70,1:23:02.60,译文字幕,,0,0,0,,是个阿根廷走私犯\N{\r原文字幕}A petty smuggler from Argentina.
+Dialogue: 0,1:23:02.70,1:23:05.50,译文字幕,,0,0,0,,去年在纽约曾因走私而被捕\N{\r原文字幕}He was arrested last year in New York for trafficking.
+Dialogue: 0,1:23:05.60,1:23:09.40,译文字幕,,0,0,0,,他逃往加州，但在长岛被捉回\N{\r原文字幕}He escapes to California. They pick him up in Long Beach.
+Dialogue: 0,1:23:09.40,1:23:12.80,译文字幕,,0,0,0,,他们安排引渡他回国，但又被他逃脱\N{\r原文字幕}They're setting up extradition, he escapes again.
+Dialogue: 0,1:23:12.90,1:23:14.20,译文字幕,,0,0,0,,看看这个\N{\r原文字幕}Now, get this.
+Dialogue: 0,1:23:14.30,1:23:17.90,译文字幕,,0,0,0,,伊迪·菲娜琳提出的引渡建议\N{\r原文字幕}Edie Finneran's brought in to advise on the proceedings.
+Dialogue: 0,1:23:18.00,1:23:19.30,译文字幕,,0,0,0,,小林\N{\r原文字幕}Kobayashi
+Dialogue: 0,1:23:19.30,1:23:21.50,译文字幕,,0,0,0,,纽约传给了我一份马奎斯证供的复印件\N{\r原文字幕}New York faxed me a copy of his testimony.
+Dialogue: 0,1:23:21.60,1:23:24.20,译文字幕,,0,0,0,,- 他是个告密者   - 是个大叛徒\N{\r原文字幕}- He was a rat. - A big fucking rat.
+Dialogue: 0,1:23:24.20,1:23:27.00,译文字幕,,0,0,0,,阿尔图罗很害怕回到监狱\N{\r原文字幕}Arturo was very opposed to returning to prison.
+Dialogue: 0,1:23:27.10,1:23:31.00,译文字幕,,0,0,0,,甚至于他供出了将近五十个人\N{\r原文字幕}So much so, that he named close to 50 people.
+Dialogue: 0,1:23:31.20,1:23:33.50,译文字幕,,0,0,0,,猜猜最后的人名是谁？\N{\r原文字幕}Guess who he named in the finale.
+Dialogue: 0,1:23:34.50,1:23:35.90,译文字幕,,0,0,0,,凯撒·苏斯\N{\r原文字幕}Keyser Soze
+Dialogue: 0,1:23:36.30,1:23:37.60,译文字幕,,0,0,0,,还有\N{\r原文字幕}There's more.
+Dialogue: 0,1:23:50.00,1:23:54.30,译文字幕,,0,0,0,,我会把所知一切告诉你，若说重覆了就告诉我\N{\r原文字幕}I'll tell you what I know. Stop me when this sounds familiar.
+Dialogue: 0,1:23:55.60,1:23:57.90,译文字幕,,0,0,0,,船上根本就没有毒品\N{\r原文字幕}There was no dope on that boat.
+Dialogue: 0,1:24:39.70,1:24:41.10,译文字幕,,0,0,0,,待着别出声音\N{\r原文字幕}You, stay quiet.
+Dialogue: 0,1:24:41.30,1:24:42.60,译文字幕,,0,0,0,,他来了\N{\r原文字幕}He's here.
+Dialogue: 0,1:24:43.20,1:24:47.00,译文字幕,,0,0,0,,我知道他来了，就是他，我告诉你，就是他\N{\r原文字幕}I know he's here. That's him. I'm telling you, that's him.
+Dialogue: 0,1:24:47.20,1:24:48.80,译文字幕,,0,0,0,,我知道他来了！\N{\r原文字幕}I know he's here!
+Dialogue: 0,1:24:50.40,1:24:53.50,译文字幕,,0,0,0,,- 你不明白，是他   - 安静\N{\r原文字幕}- You can't understand. That's him. - Shut up.
+Dialogue: 0,1:24:53.60,1:24:58.00,译文字幕,,0,0,0,,就是他，你听到没？ 我告诉你，是凯撒·苏斯来了！\N{\r原文字幕}That's him. You hear me? I'm telling you, it's Keyser Soze!
+Dialogue: 0,1:26:56.20,1:26:58.20,译文字幕,,0,0,0,,- 哈肯尼在哪里？   - 我不知道\N{\r原文字幕}- Where's Hockney? - I don't know.
+Dialogue: 0,1:26:58.30,1:26:59.90,译文字幕,,0,0,0,,这儿没毒品\N{\r原文字幕}There's no coke.
+Dialogue: 0,1:27:00.10,1:27:02.00,译文字幕,,0,0,0,,- 什么？   - 你听得很清楚，该死的\N{\r原文字幕}- What? - You heard me, dumb fuck.
+Dialogue: 0,1:27:02.10,1:27:04.40,译文字幕,,0,0,0,,- 根本就没有毒品！   - 你到底什么意思？没有毒品？\N{\r原文字幕}- There's no coke! - What the fuck? No coke?
+Dialogue: 0,1:27:04.40,1:27:07.10,译文字幕,,0,0,0,,我已经仔细搜过了每间房\N{\r原文字幕}I've been up and down in every fucking room.
+Dialogue: 0,1:27:07.20,1:27:09.40,译文字幕,,0,0,0,,- 一定有的！   - 根本没有！\N{\r原文字幕}- There's gotta be coke! - There is nothing!
+Dialogue: 0,1:27:09.50,1:27:10.70,译文字幕,,0,0,0,,没有！\N{\r原文字幕}Nothing!
+Dialogue: 0,1:27:11.30,1:27:12.70,译文字幕,,0,0,0,,别跟我开玩笑了\N{\r原文字幕}Don't you fuck with me.
+Dialogue: 0,1:27:12.90,1:27:16.70,译文字幕,,0,0,0,,根本就没有毒品！\N{\r原文字幕}There is no fucking coke!
+Dialogue: 0,1:27:27.80,1:27:29.40,译文字幕,,0,0,0,,我要走了\N{\r原文字幕}I'm out of here.
+Dialogue: 0,1:28:10.30,1:28:12.10,译文字幕,,0,0,0,,我什么都没对他们说\N{\r原文字幕}I told them nothing.
+Dialogue: 0,1:28:13.20,1:28:14.40,译文字幕,,0,0,0,,我发誓我没有\N{\r原文字幕}I swear.
+Dialogue: 0,1:28:15.20,1:28:17.70,译文字幕,,0,0,0,,我什么也没说，求你了\N{\r原文字幕}I told them nothing. Please.
+Dialogue: 0,1:29:04.10,1:29:06.90,译文字幕,,0,0,0,,究竟是怎么回事？\N{\r原文字幕}What the fuck is goin' on?
+Dialogue: 0,1:29:09.70,1:29:11.40,译文字幕,,0,0,0,,这是真是太怪了\N{\r原文字幕}The strangest thing.
+Dialogue: 0,1:30:06.10,1:30:09.30,译文字幕,,0,0,0,,那就是你供词中所提到过的，那个穿西服的瘦男人？\N{\r原文字幕}That's what you said. You saw a man in a suit with a slim build.
+Dialogue: 0,1:30:09.40,1:30:10.90,译文字幕,,0,0,0,,等等\N{\r原文字幕}Wait a minute.
+Dialogue: 0,1:30:11.00,1:30:13.00,译文字幕,,0,0,0,,你说你看见了凯撒·苏斯？\N{\r原文字幕}Are you saying you saw Keyser Soze?
+Dialogue: 0,1:30:13.10,1:30:16.60,译文字幕,,0,0,0,,- 先前的证供里你说不知道那男人是谁   - 我知道船上肯定有毒品\N{\r原文字幕}- You said you didn't know who it was. - I know there was dope on that boat.
+Dialogue: 0,1:30:16.70,1:30:18.20,译文字幕,,0,0,0,,- 别再拖延时间   - 我没有\N{\r原文字幕}- Stop stallin'. - I'm not.
+Dialogue: 0,1:30:18.30,1:30:20.90,译文字幕,,0,0,0,,- 你明白我想知道什么   - 给我走开\N{\r原文字幕}- You know what I'm getting at. - Get out of my face.
+Dialogue: 0,1:30:21.00,1:30:23.80,译文字幕,,0,0,0,,我已经被豁免了，不需要再受你恐吓\N{\r原文字幕}I got immunity. I don't have to take this.
+Dialogue: 0,1:30:23.90,1:30:25.60,译文字幕,,0,0,0,,你明白我想知道什么\N{\r原文字幕}You know what I'm getting at.
+Dialogue: 0,1:30:25.60,1:30:28.20,译文字幕,,0,0,0,,- 我不知道你在说什么   - 说出真相！\N{\r原文字幕}- I don't know what you're talking about. - The truth!
+Dialogue: 0,1:30:28.30,1:30:30.40,译文字幕,,0,0,0,,告诉我是谁杀了基顿\N{\r原文字幕}Try to tell me you saw someone kill Keaton.
+Dialogue: 0,1:30:30.50,1:30:31.50,译文字幕,,0,0,0,,我说了\N{\r原文字幕}I did.
+Dialogue: 0,1:30:31.60,1:30:33.00,译文字幕,,0,0,0,,你在撒谎\N{\r原文字幕}You're lying to me.
+Dialogue: 0,1:30:33.10,1:30:36.50,译文字幕,,0,0,0,,- 你知道事实真相   - 我不知道你在说什么\N{\r原文字幕}- You've known this whole time. - I don't know what you're saying.
+Dialogue: 0,1:30:36.60,1:30:39.20,译文字幕,,0,0,0,,我看见基顿中了枪，我发誓\N{\r原文字幕}I did see Keaton get shot. I swear to you.
+Dialogue: 0,1:30:39.30,1:30:41.90,译文字幕,,0,0,0,,你为何不救他？你手上有枪\N{\r原文字幕}Why didn't you help him? You had a gun.
+Dialogue: 0,1:30:42.00,1:30:43.90,译文字幕,,0,0,0,,他可是你的朋友\N{\r原文字幕}He was your friend.
+Dialogue: 0,1:30:47.80,1:30:49.60,译文字幕,,0,0,0,,因为我害怕\N{\r原文字幕}Because I was afraid.
+Dialogue: 0,1:30:51.80,1:30:54.40,译文字幕,,0,0,0,,- 怕极了   - 你怕什么？\N{\r原文字幕}- Afraid. - Afraid of what?
+Dialogue: 0,1:30:55.50,1:30:57.70,译文字幕,,0,0,0,,- 怕什么--   - 我知道那是凯撒·苏斯\N{\r原文字幕}- Afraid of-- - I knew it was Keyser Soze.
+Dialogue: 0,1:30:58.00,1:31:01.90,译文字幕,,0,0,0,,是凯撒·苏斯，他是魔鬼的化身\N{\r原文字幕}It was Keyser Soze, I mean, the Devil himself.
+Dialogue: 0,1:31:03.20,1:31:05.80,译文字幕,,0,0,0,,你怎么敢在魔鬼的背后开枪？\N{\r原文字幕}How do you shoot the Devil in the back?
+Dialogue: 0,1:31:10.30,1:31:12.00,译文字幕,,0,0,0,,要是射不中又如何？\N{\r原文字幕}What if you miss?
+Dialogue: 0,1:31:17.10,1:31:19.60,译文字幕,,0,0,0,,那说回码头的事\N{\r原文字幕}Let's get back to the pier.
+Dialogue: 0,1:32:42.40,1:32:45.80,译文字幕,,0,0,0,,- 听说过阿尔图罗·马奎斯吗？   - 谁？没有\N{\r原文字幕}- Arturo Marquez. Ever hear of him? - What? No.
+Dialogue: 0,1:32:46.00,1:32:48.60,译文字幕,,0,0,0,,他是司法部的线人\N{\r原文字幕}He was a stool pigeon for the Justice Department.
+Dialogue: 0,1:32:48.70,1:32:51.00,译文字幕,,0,0,0,,他向联邦执行官录了份口供\N{\r原文字幕}He swore out a statement to federal marshals...
+Dialogue: 0,1:32:51.10,1:32:54.50,译文字幕,,0,0,0,,…说他见过并能认出…\N{\r原文字幕}...saying that he had seen and could positively identify one...
+Dialogue: 0,1:32:54.60,1:32:55.80,译文字幕,,0,0,0,,凯撒·苏斯\N{\r原文字幕}...Keyser Soze
+Dialogue: 0,1:32:56.30,1:32:58.10,译文字幕,,0,0,0,,这报告中还记载着\N{\r原文字幕}It says right here in the report.
+Dialogue: 0,1:32:58.10,1:33:00.90,译文字幕,,0,0,0,,他熟知凯撒·苏斯一切业务…\N{\r原文字幕}He had intimate knowledge of his businesses, including...
+Dialogue: 0,1:33:01.00,1:33:04.20,译文字幕,,0,0,0,,包括运毒及谋杀以外的事情\N{\r原文字幕}...but not exclusive to, drug trafficking and murder.
+Dialogue: 0,1:33:04.20,1:33:05.80,译文字幕,,0,0,0,,我从未听说过他\N{\r原文字幕}I never heard of him.
+Dialogue: 0,1:33:05.80,1:33:08.70,译文字幕,,0,0,0,,他的手下把他出卖给匈牙利党\N{\r原文字幕}His own people were selling him to a gang of Hungarians.
+Dialogue: 0,1:33:08.70,1:33:12.40,译文字幕,,0,0,0,,这班匈牙利人似乎被苏斯清除并赶回土耳其\N{\r原文字幕}Most likely the same Hungarians that Soze all but wiped out back in Turkey.
+Dialogue: 0,1:33:12.70,1:33:14.40,译文字幕,,0,0,0,,那钱并不是用来买毒品的\N{\r原文字幕}The money wasn't there for dope.
+Dialogue: 0,1:33:14.50,1:33:16.80,译文字幕,,0,0,0,,这班匈牙利人会收买…\N{\r原文字幕}The Hungarians were going to buy the one guy...
+Dialogue: 0,1:33:16.90,1:33:19.00,译文字幕,,0,0,0,,一个能把凯撒·苏斯治罪的人\N{\r原文字幕}...that could incriminate Keyser Soze.
+Dialogue: 0,1:33:19.40,1:33:21.90,译文字幕,,0,0,0,,- 我说了我从未听过他   - 但基顿听过\N{\r原文字幕}- I said I never heard of him. - But Keaton did.
+Dialogue: 0,1:33:22.00,1:33:25.00,译文字幕,,0,0,0,,伊迪·菲娜琳是马奎斯引渡案的顾问\N{\r原文字幕}Edie Finneran was Marquez's extradition advisor.
+Dialogue: 0,1:33:25.10,1:33:27.30,译文字幕,,0,0,0,,她知道他是谁，还知道他掌握的资料\N{\r原文字幕}She knew who he was and what he knew.
+Dialogue: 0,1:33:27.60,1:33:30.80,译文字幕,,0,0,0,,船上根本没有毒品，这只是次谋杀行动\N{\r原文字幕}There were no drugs on that boat. It was a hit.
+Dialogue: 0,1:33:31.00,1:33:33.50,译文字幕,,0,0,0,,这次自杀式的行动\N{\r原文字幕}A suicide mission to whack out the one guy...
+Dialogue: 0,1:33:33.60,1:33:35.70,译文字幕,,0,0,0,,…目的是去干掉这个能指证凯撒·苏斯的家伙\N{\r原文字幕}...that could finger Keyser Soze.
+Dialogue: 0,1:33:36.00,1:33:37.90,译文字幕,,0,0,0,,于是苏斯派了班贼去执行\N{\r原文字幕}So Soze put some thieves to it...
+Dialogue: 0,1:33:38.30,1:33:40.70,译文字幕,,0,0,0,,他算好了这班人一定会死\N{\r原文字幕}...men he knew he could march into certain death.
+Dialogue: 0,1:33:41.00,1:33:43.50,译文字幕,,0,0,0,,你说苏斯利用我们去杀人？\N{\r原文字幕}You're saying Soze sent us to kill someone?
+Dialogue: 0,1:33:44.80,1:33:47.80,译文字幕,,0,0,0,,我说就是基顿本人，他把你留在后面是有原因的\N{\r原文字幕}I'm saying Keaton did. He left you behind for a reason.
+Dialogue: 0,1:33:47.90,1:33:49.40,译文字幕,,0,0,0,,按我说的去做\N{\r原文字幕}Just do what I tell you.
+Dialogue: 0,1:33:49.50,1:33:52.70,译文字幕,,0,0,0,,既然无论跑到何处，苏斯都能找到你…\N{\r原文字幕}If you all knew that Soze could find you anywhere...
+Dialogue: 0,1:33:52.80,1:33:54.70,译文字幕,,0,0,0,,…为何还给你金钱逃亡？\N{\r原文字幕}...why did he give you the money to run?
+Dialogue: 0,1:33:54.80,1:33:58.10,译文字幕,,0,0,0,,- 他可以在船上就把你干掉   - 他不想我死\N{\r原文字幕}- He could have used you on the boat. - He wanted me to live.
+Dialogue: 0,1:33:59.80,1:34:02.40,译文字幕,,0,0,0,,一个过去的贪污警察\N{\r原文字幕}A one-time dirty cop without a loyalty in the world...
+Dialogue: 0,1:34:02.50,1:34:05.80,译文字幕,,0,0,0,,…竟然有颗挽救跛子贼的善心？\N{\r原文字幕}...finds it in his heart to save a worthless rat cripple?
+Dialogue: 0,1:34:05.90,1:34:07.30,译文字幕,,0,0,0,,这不可能，先生，你能给我理由吗？\N{\r原文字幕}No, sir. Why?
+Dialogue: 0,1:34:08.10,1:34:09.10,译文字幕,,0,0,0,,是因为伊迪\N{\r原文字幕}Edie.
+Dialogue: 0,1:34:09.20,1:34:11.80,译文字幕,,0,0,0,,我从头到尾就不信这个改过自新的故事\N{\r原文字幕}I don't buy that reform story for a minute.
+Dialogue: 0,1:34:11.90,1:34:13.20,译文字幕,,0,0,0,,就算我信这点…\N{\r原文字幕}Even if I did...
+Dialogue: 0,1:34:13.30,1:34:16.90,译文字幕,,0,0,0,,…我也不会相信他会派你去保护她\N{\r原文字幕}...I certainly don't believe he would send you to protect her.
+Dialogue: 0,1:34:17.20,1:34:18.40,译文字幕,,0,0,0,,给我个解释？\N{\r原文字幕}So why?
+Dialogue: 0,1:34:20.90,1:34:22.70,译文字幕,,0,0,0,,因为我们是朋友\N{\r原文字幕}Because he was my friend.
+Dialogue: 0,1:34:22.80,1:34:26.70,译文字幕,,0,0,0,,不，他不是你的朋友，基顿没有任何朋友\N{\r原文字幕}No, he wasn't your friend. Keaton didn't have friends.
+Dialogue: 0,1:34:26.80,1:34:28.20,译文字幕,,0,0,0,,你来这儿干什么？\N{\r原文字幕}What are you doing here?
+Dialogue: 0,1:34:28.30,1:34:31.00,译文字幕,,0,0,0,,他留下你的命，是因为他用的到你\N{\r原文字幕}He saved you because he wanted it that way.
+Dialogue: 0,1:34:31.10,1:34:32.20,译文字幕,,0,0,0,,这就是他的目的\N{\r原文字幕}It was his will.
+Dialogue: 0,1:34:32.80,1:34:35.50,译文字幕,,0,0,0,,- 基顿就是凯撒·苏斯   - 不是\N{\r原文字幕}- Keaton was Keyser Soze. - No.
+Dialogue: 0,1:34:35.50,1:34:39.10,译文字幕,,0,0,0,,只有他才能干掉哈肯尼和麦克麦纳斯这类角色\N{\r原文字幕}A man who could wrangle the wills of men like Hockney and McManus.
+Dialogue: 0,1:34:39.20,1:34:44.50,译文字幕,,0,0,0,,只有他才能轻松的在警局里安排指认\N{\r原文字幕}A man who could engineer a police lineup...through all his years of contacts in NYPD.
+Dialogue: 0,1:34:44.60,1:34:47.10,译文字幕,,0,0,0,,只有他才会残忍的杀害伊迪·菲娜琳\N{\r原文字幕}The kind of man who could've killed Edie Finneran.
+Dialogue: 0,1:34:52.10,1:34:55.00,译文字幕,,0,0,0,,她的尸体昨天在宾夕法尼亚州一间酒店被发现\N{\r原文字幕}She was found yesterday at a hotel in Pennsylvania...
+Dialogue: 0,1:34:55.10,1:34:56.90,译文字幕,,0,0,0,,…头部连中两枪而亡\N{\r原文字幕}...shot twice in the head.
+Dialogue: 0,1:35:01.80,1:35:04.70,译文字幕,,0,0,0,,现在你对基顿有何看法？\N{\r原文字幕}What do you think about Keaton now?
+Dialogue: 0,1:35:06.00,1:35:07.00,译文字幕,,0,0,0,,伊迪死了？\N{\r原文字幕}Edie?
+Dialogue: 0,1:35:07.00,1:35:09.30,译文字幕,,0,0,0,,他利用你们掩护他上船\N{\r原文字幕}He used all of you to get him on that boat.
+Dialogue: 0,1:35:09.30,1:35:12.70,译文字幕,,0,0,0,,这事他本来一个人做不了，他必须要亲自下手…\N{\r原文字幕}He couldn't get on alone. He had to pull the trigger himself...
+Dialogue: 0,1:35:12.80,1:35:14.70,译文字幕,,0,0,0,,…以确认干掉了那个…\N{\r原文字幕}...to make sure he got his man...
+Dialogue: 0,1:35:14.80,1:35:16.90,译文字幕,,0,0,0,,…能指认他的家伙\N{\r原文字幕}...the one man that could identify him.
+Dialogue: 0,1:35:18.00,1:35:19.60,译文字幕,,0,0,0,,全是胡说\N{\r原文字幕}This is all bullshit.
+Dialogue: 0,1:35:19.80,1:35:21.80,译文字幕,,0,0,0,,你说亲眼看见他死了\N{\r原文字幕}You said you saw him die.
+Dialogue: 0,1:35:24.20,1:35:25.20,译文字幕,,0,0,0,,肯定吗？\N{\r原文字幕}Or did you?
+Dialogue: 0,1:35:25.40,1:35:27.80,译文字幕,,0,0,0,,听到警车来到时，你想藏起来\N{\r原文字幕}You had to hide when you heard the police cars.
+Dialogue: 0,1:35:27.90,1:35:30.30,译文字幕,,0,0,0,,你说在起火前听到枪声…\N{\r原文字幕}You said you heard the shot before the fire...
+Dialogue: 0,1:35:30.70,1:35:32.70,译文字幕,,0,0,0,,…可你没看见他死\N{\r原文字幕}...but you didn't see him die.
+Dialogue: 0,1:35:33.00,1:35:35.80,译文字幕,,0,0,0,,- 我了解他，他绝不会--   - 他是在利用你\N{\r原文字幕}- I knew him. He would never-- - He programmed you.
+Dialogue: 0,1:35:35.90,1:35:38.50,译文字幕,,0,0,0,,他安排由你来说整个骗局\N{\r原文字幕}He programmed you to tell us what he wanted you to.
+Dialogue: 0,1:35:38.60,1:35:40.80,译文字幕,,0,0,0,,就如你说的，他知道我们问不出什么来\N{\r原文字幕}He knew we were close. You said it yourself.
+Dialogue: 0,1:35:40.90,1:35:43.90,译文字幕,,0,0,0,,保你出去的政治压力由何而来？\N{\r原文字幕}Where was the political pressure to protect you from?
+Dialogue: 0,1:35:44.20,1:35:45.20,译文字幕,,0,0,0,,就是基顿在幕后\N{\r原文字幕}It was Keaton.
+Dialogue: 0,1:35:45.30,1:35:48.60,译文字幕,,0,0,0,,- 被豁免就是给你的奖赏    - 但为什么偏偏是我？\N{\r原文字幕}- Immunity was your reward. - But why me?
+Dialogue: 0,1:35:49.20,1:35:51.30,译文字幕,,0,0,0,,为什么不挑范斯特，或是麦克麦纳斯和哈肯尼？\N{\r原文字幕}Why not Fenster or McManus or Hockney?
+Dialogue: 0,1:35:51.40,1:35:54.10,译文字幕,,0,0,0,,为什么是我？ 我又蠢又跛，为什么是我？\N{\r原文字幕}Why me? I'm stupid. I'm a cripple. Why me?
+Dialogue: 0,1:35:54.10,1:35:55.60,译文字幕,,0,0,0,,就因为你是个跛子\N{\r原文字幕}Because you're a cripple.
+Dialogue: 0,1:35:56.10,1:35:57.80,译文字幕,,0,0,0,,就因为你很愚蠢\N{\r原文字幕}Because you're stupid.
+Dialogue: 0,1:35:58.10,1:36:00.00,译文字幕,,0,0,0,,就因为你比他们没用\N{\r原文字幕}Because you're weaker than them.
+Dialogue: 0,1:36:04.30,1:36:05.60,译文字幕,,0,0,0,,要是他死了….\N{\r原文字幕}If he's dead...
+Dialogue: 0,1:36:06.10,1:36:10.00,译文字幕,,0,0,0,,要是你说的是真的，那么就没问题了\N{\r原文字幕}If what you say is true, then it won't matter.
+Dialogue: 0,1:36:11.50,1:36:14.40,译文字幕,,0,0,0,,袭击警车是不是他的主意？\N{\r原文字幕}It was his idea to hit the taxi service, wasn't it?
+Dialogue: 0,1:36:14.50,1:36:17.60,译文字幕,,0,0,0,,- 对我说实话    - 是基顿提出的\N{\r原文字幕}- Come on, tell me the truth. - It was all Keaton.
+Dialogue: 0,1:36:18.90,1:36:21.50,译文字幕,,0,0,0,,我们一直跟着他\N{\r原文字幕}We followed him from the beginning.
+Dialogue: 0,1:36:23.20,1:36:24.40,译文字幕,,0,0,0,,我不知道\N{\r原文字幕}I didn't know.
+Dialogue: 0,1:36:24.90,1:36:26.60,译文字幕,,0,0,0,,我看到他死了\N{\r原文字幕}I saw him die.
+Dialogue: 0,1:36:27.50,1:36:30.50,译文字幕,,0,0,0,,我也相信他已经死了\N{\r原文字幕}I believe he's dead. Christ.
+Dialogue: 0,1:36:31.70,1:36:33.50,译文字幕,,0,0,0,,你单独一人会不安全\N{\r原文字幕}You're not safe on your own.
+Dialogue: 0,1:36:37.60,1:36:38.80,译文字幕,,0,0,0,,你认为他是….\N{\r原文字幕}You think he's...
+Dialogue: 0,1:36:39.20,1:36:40.70,译文字幕,,0,0,0,,凯撒·苏斯\N{\r原文字幕}Keyser Soze?
+Dialogue: 0,1:36:41.50,1:36:43.20,译文字幕,,0,0,0,,我不知道\N{\r原文字幕}I don't know.
+Dialogue: 0,1:36:44.70,1:36:48.60,译文字幕,,0,0,0,,凯撒·苏斯只是个化名， 或就如你说的，是个传说\N{\r原文字幕}Keyser Soze's a shield, or like you said, a spook story.
+Dialogue: 0,1:36:49.70,1:36:53.30,译文字幕,,0,0,0,,但我很了解基顿，你一出去就有人等着干掉你\N{\r原文字幕}But I know Keaton, and someone is out there pulling strings for you.
+Dialogue: 0,1:36:54.10,1:36:57.50,译文字幕,,0,0,0,,- 别出去，让我们保护你    - 我才不当诱饵，我已经自由了\N{\r原文字幕}- Stay here and let us protect you. - I'm not bait. I post today.
+Dialogue: 0,1:36:57.80,1:36:59.20,译文字幕,,0,0,0,,二十分钟前你就可以走了\N{\r原文字幕}You posted 20 minutes ago.
+Dialogue: 0,1:36:59.80,1:37:01.90,译文字幕,,0,0,0,,里欧队长想你尽快离开这里\N{\r原文字幕}Capt. Leo wants you out of here.
+Dialogue: 0,1:37:02.10,1:37:05.10,译文字幕,,0,0,0,,- 除非你想翻供   - 我会把握机会的，谢了\N{\r原文字幕}- Unless you turn state's. - I'll take my chances.
+Dialogue: 0,1:37:05.40,1:37:09.10,译文字幕,,0,0,0,,如果有人想要干掉你，那他们一定要选在外面下手\N{\r原文字幕}If someone wants to get you, they're gonna get you out there.
+Dialogue: 0,1:37:09.20,1:37:12.60,译文字幕,,0,0,0,,若你改变口供，就再也不用害怕\N{\r原文字幕}Turn state's evidence. You might never see trial.
+Dialogue: 0,1:37:12.70,1:37:13.90,译文字幕,,0,0,0,,也许如此\N{\r原文字幕}Maybe so.
+Dialogue: 0,1:37:15.50,1:37:17.40,译文字幕,,0,0,0,,可我不是叛徒\N{\r原文字幕}But I'm not a rat.
+Dialogue: 0,1:37:34.10,1:37:35.70,译文字幕,,0,0,0,,该死的警察\N{\r原文字幕}Fuckin' cops.
+Dialogue: 0,1:38:00.20,1:38:02.80,译文字幕,,0,0,0,,能借用你的传真机吗？\N{\r原文字幕}Excuse me, can I use your fax machine?
+Dialogue: 0,1:38:06.70,1:38:09.40,译文字幕,,0,0,0,,请在这儿签个名，肯特先生\N{\r原文字幕}You'll have to sign for these, Mr.Kint.
+Dialogue: 0,1:38:11.60,1:38:13.20,译文字幕,,0,0,0,,一块金表\N{\r原文字幕}One watch, gold.
+Dialogue: 0,1:38:13.70,1:38:15.80,译文字幕,,0,0,0,,金打火机\N{\r原文字幕}One cigarette lighter, gold.
+Dialogue: 0,1:38:16.70,1:38:18.60,译文字幕,,0,0,0,,一包烟，谢谢\N{\r原文字幕}One pack of cigarettes. Thank you.
+Dialogue: 0,1:38:19.30,1:38:21.30,译文字幕,,0,0,0,,我们仍是一无所知\N{\r原文字幕}We still got nothing.
+Dialogue: 0,1:38:21.60,1:38:23.90,译文字幕,,0,0,0,,我知道了关于基顿的事\N{\r原文字幕}I know what I wanted to know about Keaton.
+Dialogue: 0,1:38:23.90,1:38:25.60,译文字幕,,0,0,0,,那毫无价值\N{\r原文字幕}Which is nothing.
+Dialogue: 0,1:38:26.10,1:38:29.60,译文字幕,,0,0,0,,没关系，他很快会知道我们了解了多少\N{\r原文字幕}No matter. He'll have to know how close we came.
+Dialogue: 0,1:38:30.10,1:38:32.70,译文字幕,,0,0,0,,不管凯撒·苏斯存不存在\N{\r原文字幕}Keyser Soze or no Keyser Soze...
+Dialogue: 0,1:38:33.10,1:38:36.00,译文字幕,,0,0,0,,…只要基顿还活着，他就不会再出现了\N{\r原文字幕}...if Keaton is alive, he's not comin' up again.
+Dialogue: 0,1:38:36.50,1:38:38.30,译文字幕,,0,0,0,,我会去找他\N{\r原文字幕}I'll find him.
+Dialogue: 0,1:38:38.70,1:38:40.20,译文字幕,,0,0,0,,那是浪费时间\N{\r原文字幕}Waste of time.
+Dialogue: 0,1:38:43.00,1:38:45.40,译文字幕,,0,0,0,,若是传闻不会平息， 那就不算是传闻了\N{\r原文字幕}A rumor's not a rumor that doesn't die.
+Dialogue: 0,1:38:45.80,1:38:47.00,译文字幕,,0,0,0,,什么？\N{\r原文字幕}What?
+Dialogue: 0,1:38:48.10,1:38:49.10,译文字幕,,0,0,0,,没什么\N{\r原文字幕}Nothing.
+Dialogue: 0,1:38:51.10,1:38:52.90,译文字幕,,0,0,0,,伙计，你这儿真够乱的\N{\r原文字幕}Man, you're a slob.
+Dialogue: 0,1:38:53.00,1:38:55.30,译文字幕,,0,0,0,,但东西摆放的都还有规律\N{\r原文字幕}But it all has a system.
+Dialogue: 0,1:38:56.20,1:39:00.60,译文字幕,,0,0,0,,要是全摆的整整齐齐的，就没有亲和力了\N{\r原文字幕}It all makes sense if you look at it right. You gotta stand back from it.
+Dialogue: 0,1:39:01.90,1:39:05.00,译文字幕,,0,0,0,,要看更恐怖的地方吗？到我车库去就知道了\N{\r原文字幕}You wanna see a real horror show? See my garage.
+Dialogue: 0,1:39:42.40,1:39:44.40,译文字幕,,0,0,0,,说服我，告诉我每个细节\N{\r原文字幕}Convince me. Tell me every last...
+Dialogue: 0,1:39:44.50,1:39:47.50,译文字幕,,0,0,0,,我曾经加入过在伊利诺州斯科基的一个男声四重唱组合…\N{\r原文字幕}When I was in that barbershop quartet in Skokie, Illinois...
+Dialogue: 0,1:39:47.60,1:39:51.10,译文字幕,,0,0,0,,- 你到底有没有大脑？   - 我们需要先思考周全，再想想\N{\r原文字幕}- Where's your head? - We need to think, think back.
+Dialogue: 0,1:39:51.20,1:39:52.80,译文字幕,,0,0,0,,我肯定你们已听过不少传言\N{\r原文字幕}I'm sure you've heard tall tales.
+Dialogue: 0,1:39:52.90,1:39:54.50,译文字幕,,0,0,0,,- 是布里克·马林   - 这事不对劲\N{\r原文字幕}- Bricks Marlin. - This isn't right.
+Dialogue: 0,1:39:54.60,1:39:57.00,译文字幕,,0,0,0,,- 我想听听你的故事   - 已经全说了\N{\r原文字幕}- I just wanna hear your story. - It's all there.
+Dialogue: 0,1:39:57.10,1:40:00.50,译文字幕,,0,0,0,,- 我说的都是实话   - 来自加州的，名叫雷德福特\N{\r原文字幕}- I'm tellin' it straight. - Some guy in California called Redfoot.
+Dialogue: 0,1:40:00.60,1:40:03.10,译文字幕,,0,0,0,,- 这是苏斯先生送上的礼物   - 老实对我说\N{\r原文字幕}- A gift from Mr.Soze. - Talk to me.
+Dialogue: 0,1:40:03.20,1:40:06.20,译文字幕,,0,0,0,,- 那雷德福特呢？   - 雷德福特先生并不知情汇报\N{\r原文字幕}- What about Redfoot? - Mr.Redfoot knew nothing.
+Dialogue: 0,1:40:06.30,1:40:09.30,译文字幕,,0,0,0,,- 利用不知情的人…   - 是个超级大胖子\N{\r原文字幕}- Using pawns... - A big fat guy. Like, orca fat.
+Dialogue: 0,1:40:09.30,1:40:11.10,译文字幕,,0,0,0,,还有个律师…\N{\r原文字幕}There was a lawyer...
+Dialogue: 0,1:40:11.40,1:40:12.80,译文字幕,,0,0,0,,叫小林\N{\r原文字幕}Kobayashi...
+Dialogue: 0,1:40:13.30,1:40:16.40,译文字幕,,0,0,0,,我曾在危地马拉尝过咖啡豆磨的新鲜咖啡\N{\r原文字幕}When I was picking beans in Guatemala we made fresh coffee.
+Dialogue: 0,1:40:16.50,1:40:19.50,译文字幕,,0,0,0,,- 我知道你认为他是好人 - 我知道他很好\N{\r原文字幕}- I know you thought he was a good man. - I know he was good.
+Dialogue: 0,1:40:21.90,1:40:24.80,译文字幕,,0,0,0,,- 告诉我全部的细节 - 这事怪极了\N{\r原文字幕}- You tell me every last detail. - The strangest thing.
+Dialogue: 0,1:40:24.80,1:40:26.80,译文字幕,,0,0,0,,你怎么敢在魔鬼的背后开枪？\N{\r原文字幕}How do you shoot the Devil in the back?
+Dialogue: 0,1:40:26.80,1:40:30.10,译文字幕,,0,0,0,,这家伙的后台很硬\N{\r原文字幕}This guy is protected from up on high by the Prince of...
+Dialogue: 0,1:40:30.20,1:40:32.50,译文字幕,,0,0,0,,说说你的故事，拐脚佬\N{\r原文字幕}What's your story, pretzel man?
+Dialogue: 0,1:40:32.60,1:40:34.40,译文字幕,,0,0,0,,- 还有个律师    - 什么律师？\N{\r原文字幕}- There was a lawyer. - What lawyer?
+Dialogue: 0,1:40:34.50,1:40:35.60,译文字幕,,0,0,0,,我就是小林\N{\r原文字幕}I am Mr.Kobayashi.
+Dialogue: 0,1:40:35.70,1:40:39.20,译文字幕,,0,0,0,,- 小林，小林，   - 告诉我所有的细节\N{\r原文字幕}- Kobayashi. Kobayashi. - Tell me every last detail.
+Dialogue: 0,1:40:39.30,1:40:42.50,译文字幕,,0,0,0,,- 我为凯撒·苏斯做事，   - 说服我，说服我\N{\r原文字幕}- I work for Keyser Soze. - Convince me. Convince me.
+Dialogue: 0,1:40:57.80,1:41:00.40,译文字幕,,0,0,0,,所有犯罪的大小角色\N{\r原文字幕}Every creep and scumbag that works the street...
+Dialogue: 0,1:41:00.50,1:41:02.60,译文字幕,,0,0,0,,…都会知道维伯·肯特的大名\N{\r原文字幕}...will know the name of Verbal Kint.
+Dialogue: 0,1:41:03.30,1:41:04.70,译文字幕,,0,0,0,,你见过那跛子吗？\N{\r原文字幕}The cripple, did you see him?
+Dialogue: 0,1:41:04.80,1:41:07.90,译文字幕,,0,0,0,,- 那跛子！他朝那里走了？ - 他往那边去了\N{\r原文字幕}- The cripple! Which way did he go? - He went out that way.
+Dialogue: 0,1:41:08.00,1:41:10.60,译文字幕,,0,0,0,,我知道你知情，我还知道你没说实话…\N{\r原文字幕}I know you know something. I know you're not telling...
+Dialogue: 0,1:41:10.70,1:41:11.80,译文字幕,,0,0,0,,我比你聪明\N{\r原文字幕}I'm smarter than you...
+Dialogue: 0,1:41:11.90,1:41:14.40,译文字幕,,0,0,0,,…不管你是否愿意，我都会找到我要的答案\N{\r原文字幕}...and I'm gonna find out whether you like it or not.
+Dialogue: 0,1:41:14.50,1:41:16.40,译文字幕,,0,0,0,,警察是不会接受复杂的解释的\N{\r原文字幕}To a cop, the explanation is never complicated.
+Dialogue: 0,1:41:16.40,1:41:18.00,译文字幕,,0,0,0,,- 总是那么容易受骗   - 真相\N{\r原文字幕}- It's always simple. - The truth!
+Dialogue: 0,1:41:18.10,1:41:21.00,译文字幕,,0,0,0,,根本就没什么幕后主使\N{\r原文字幕}There's no arch-criminal behind it all.
+Dialogue: 0,1:41:21.10,1:41:23.90,译文字幕,,0,0,0,,那个人有这能力，能够掌握…\N{\r原文字幕}Somebody with power, somebody who is capable...
+Dialogue: 0,1:41:24.10,1:41:25.70,译文字幕,,0,0,0,,凯撒·苏斯\N{\r原文字幕}Keyser Soze!
+Dialogue: 0,1:41:26.50,1:41:31.90,译文字幕,,0,0,0,,你以为像他这样的人会束手就擒吗？\N{\r原文字幕}You think a guy like that gets this close to getting caught...and sticks his head out?
+Dialogue: 0,1:41:32.80,1:41:35.80,译文字幕,,0,0,0,,就是因为你愚蠢，就因为你是跛子\N{\r原文字幕}Because you're stupid. Because you're a cripple.
+Dialogue: 0,1:41:35.90,1:41:38.00,译文字幕,,0,0,0,,现在我想知道那跛子是谁？\N{\r原文字幕}What I wanna know is, who's the gimp?
+Dialogue: 0,1:41:38.10,1:41:40.50,译文字幕,,0,0,0,,你完全知道事实真相\N{\r原文字幕}You've known the whole fuckin' time.
+Dialogue: 0,1:41:40.50,1:41:44.20,译文字幕,,0,0,0,,要是他来也是要找我， 我肯定基顿已经死了\N{\r原文字幕}If he comes up for anything it'll be for me. I'm sure Keaton is dead.
+Dialogue: 0,1:41:44.20,1:41:47.20,译文字幕,,0,0,0,,我的双腿没有知觉，凯撒\N{\r原文字幕}I can't feel my legs, Keyser.
+Dialogue: 0,1:41:47.40,1:41:49.80,译文字幕,,0,0,0,,干这行我学会的第一件事知道是什么吗？\N{\r原文字幕}First thing I learned on the job. You know what?
+Dialogue: 0,1:41:49.90,1:41:53.40,译文字幕,,0,0,0,,- 就是如何辨认凶手   - 你见到那个跛子了吗？\N{\r原文字幕}- How to spot a murderer. - You got the cripple in there?
+Dialogue: 0,1:41:53.50,1:41:56.20,译文字幕,,0,0,0,,- 他有提到凯撒·苏斯吗？   - 谁？\N{\r原文字幕}- Did he mention Keyser Soze? - Who?
+Dialogue: 0,1:41:56.50,1:41:58.00,译文字幕,,0,0,0,,那之后…\N{\r原文字幕}After that...
+Dialogue: 0,1:41:58.50,1:42:01.50,译文字幕,,0,0,0,,…我猜之后再听不到他的消息\N{\r原文字幕}...my guess is you'll never hear from him again.
+Dialogue: 0,1:42:22.00,1:42:27.21,译文字幕,,0,0,0,,最巧妙之处就是能让人相信他不存在\N{\r原文字幕}The greatest trick the Devil ever pulled...was convincing the world he didn't exist.
+Dialogue: 0,1:42:29.10,1:42:30.30,译文字幕,,0,0,0,,然后就象那样…\N{\r原文字幕}And like that...
+Dialogue: 0,1:42:32.10,1:42:33.40,译文字幕,,0,0,0,,…消失的无影无踪\N{\r原文字幕}...he's gone
+Dialogue: 0,0:00:02.60,0:00:03.00,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}w
+Dialogue: 0,0:00:03.00,0:00:03.40,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}ww
+Dialogue: 0,0:00:03.40,0:00:03.80,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www
+Dialogue: 0,0:00:03.80,0:00:04.20,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.
+Dialogue: 0,0:00:04.20,0:00:04.60,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.H
+Dialogue: 0,0:00:04.60,0:00:05.00,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.HD
+Dialogue: 0,0:00:05.00,0:00:05.40,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.HDc
+Dialogue: 0,0:00:05.40,0:00:05.80,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.HDcm
+Dialogue: 0,0:00:05.80,0:00:06.20,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.HDcmc
+Dialogue: 0,0:00:06.20,0:00:06.60,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.HDcmct
+Dialogue: 0,0:00:06.60,0:00:07.00,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.HDcmct.
+Dialogue: 0,0:00:07.00,0:00:07.40,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.HDcmct.c
+Dialogue: 0,0:00:07.40,0:00:07.80,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.HDcmct.co
+Dialogue: 0,0:00:07.80,0:00:12.00,译文字幕,,0,0,0,,--==CMCT团队 荣誉出品==--\N影片压制: 九洲客  字幕调校: 铭瑄\N招募Q号:76846146\N{\r原文字幕}www.HDcmct.com
